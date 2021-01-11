@@ -1,10 +1,130 @@
 {
-    "label": "Classi",
+    "label": "Classi (SRD)",
+    "mapping": {
+      "nonActiveClassAbilities": "data.nonActiveClassAbilities"
+    },
     "entries": [
       {
         "id": "Barbarian",
         "name": "Barbaro",
-        "description": "<p>Un barbaro ottiene i seguenti privilegi di classe.</p><h3>Punti Ferita</h3><p><strong>Dadi Vita:</strong> [[/r 1d12]] per livello da barbaro<br /><strong>Punti Ferita al 1&deg; Livello:</strong> 12 + il tuo modificatore di Costituzione<br /><strong>Punti Ferita ai Livelli Pi&ugrave; Alti:</strong>&nbsp;[[/r 1d12]] (o 7) + il tuo modificatore di Costituzione per livello da barbaro oltre il 1&deg;</p><h3>Competenza</h3><p><strong>Armatura:</strong> Armature leggere, armature medie, scudi<br /><strong>Armi:</strong> Armi semplici, armi da guerra<br /><strong style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Strumenti</strong><strong>:</strong> Nessuno<br /><strong>Tiri Salvezza:</strong> Forza, Costituzione<br /><strong>Abilit&agrave;:</strong> Due a scelta tra Addestrare Animali, Atletica, Intimidire, Natura, Percezione e Sopravvivenza</p><h3>Equipaggiamento</h3><p>Un barbaro inizia con l'equipaggiamento seguente, in aggiunta all'equipaggiamento conferito dal suo background:</p><ul><li>(a) un'@Compendium[dnd5e.items.1Lxk6kmoRhG8qQ0u]{Ascia Bipenne}&nbsp;o (b) qualsiasi arma da guerra da mischia</li><li>(a) due @Compendium[dnd5e.items.eO7Fbv5WBk5zvGOc]{Ascie}or (b) qualsiasi arma semplice&nbsp;</li><li>Una dotazione da esploratore e quattro @Compendium[dnd5e.items.DWLMnODrnHn8IbAG]{Giavellotto}.</li></ul><h1>Avanzamento del Barbaro</h1><table style=\"width: 100.206%; height: 357px;\" border=\"0\" cellspacing=\"0\" cellpadding=\"0\"><thead><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">Livello</td><td style=\"width: 22.8645%; height: 17px;\">Bonus Competenza</td><td style=\"width: 39.2374%; height: 17px;\">Privilegi</td><td style=\"width: 10.9571%; height: 17px;\">Ire</td><td style=\"width: 16.5429%; height: 17px;\">Danno dell'Ira</td></tr></thead><tbody><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">1&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+2</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.VoR0SUrNX5EJVPIO]{Ira}, @Compendium[dnd5e.classfeatures.SZbsNbaxFFGwBpNK]{Difesa Senza Armatura}</td><td style=\"width: 10.9571%; height: 17px;\">2</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">2*</td><td style=\"width: 22.8645%; height: 17px;\">+2</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.SCVjqRdlZ9cvHVSR]{Attacco Irruento}, @Compendium[dnd5e.classfeatures.vt31lWAULygEl7yk]{Percezione del Pericolo}</td><td style=\"width: 10.9571%; height: 17px;\">2</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">3*</td><td style=\"width: 22.8645%; height: 17px;\">+2</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.TH1QAf6YNGSeBVjT]{Cammino Primordiale}</td><td style=\"width: 10.9571%; height: 17px;\">3</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">4&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+2</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Aumento dei Punteggi di Caratteristica}</td><td style=\"width: 10.9571%; height: 17px;\">3</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">5&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+3</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.XogoBnFWmCAHXppo]{Attacco Extra}, @Compendium[dnd5e.classfeatures.Kl6zifJ5OmdHlOi2]{Movimento Veloce}</td><td style=\"width: 10.9571%; height: 17px;\">3</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">6&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+3</td><td style=\"width: 39.2374%; height: 17px;\">Privilegio del Cammino</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">7&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+3</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.NlXslw4yAqmKZWtN]{Istinto Ferino}</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">8&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+3</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Aumento dei Punteggi di Caratteristica}</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+2</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">9&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+4</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.L94gyvNpUhUe0rwh]{Critico Brutale (1 Dado)}</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">10&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+4</td><td style=\"width: 39.2374%; height: 17px;\">Privilegio del Cammino</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">11&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+4</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.FqfmbPgxiyrWzhYk]{Ira Implacabile}</td><td style=\"width: 10.9571%; height: 17px;\">4</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">12&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+4</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Aumento dei Punteggi di Caratteristica}</td><td style=\"width: 10.9571%; height: 17px;\">5</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">13&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+5</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.L94gyvNpUhUe0rwh]{Critico Brutale (2 Dadi)}</td><td style=\"width: 10.9571%; height: 17px;\">5</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">14&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+5</td><td style=\"width: 39.2374%; height: 17px;\">Privilegio del Cammino</td><td style=\"width: 10.9571%; height: 17px;\">5</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">15&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+5</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.l8tUhZ5Pecm9wz7I]{Ira Persistente}</td><td style=\"width: 10.9571%; height: 17px;\">5</td><td style=\"width: 16.5429%; height: 17px;\">+3</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">16&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+5</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Aumento dei Punteggi di Caratteristica}</td><td style=\"width: 10.9571%; height: 17px;\">5</td><td style=\"width: 16.5429%; height: 17px;\">+4</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">17&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+6</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.L94gyvNpUhUe0rwh]{Critico Brutale (3 Dadi)}</td><td style=\"width: 10.9571%; height: 17px;\">6</td><td style=\"width: 16.5429%; height: 17px;\">+4</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">18&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+6</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.Q1exex5ALteprrPo]{Potenza Indomabile}</td><td style=\"width: 10.9571%; height: 17px;\">6</td><td style=\"width: 16.5429%; height: 17px;\">+4</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">19&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+6</td><td style=\"width: 39.2374%; height: 17px;\"><span style=\"background-color: rgba(255, 255, 255, 0.2);\">@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Aumento dei Punteggi di Caratteristica}</span></td><td style=\"width: 10.9571%; height: 17px;\">6</td><td style=\"width: 16.5429%; height: 17px;\">+4</td></tr><tr style=\"height: 17px;\"><td style=\"width: 8.85963%; height: 17px;\" height=\"17\">20&deg;</td><td style=\"width: 22.8645%; height: 17px;\">+6</td><td style=\"width: 39.2374%; height: 17px;\">@Compendium[dnd5e.classfeatures.jVU4AgqfrFaqgXns]{Campione Primordiale}</td><td style=\"width: 10.9571%; height: 17px;\">Illimitate</td><td style=\"width: 16.5429%; height: 17px;\">+4</td></tr></tbody></table><h1>Cammino Primordiale</h1><p>Al 3' livello, un barbaro sceglie un cammino che definisce la natura della sua furia. Pu&ograve; scegliere il Cammino del Berserker o il Cammino del Combattente Totemico, entrambi illustrati alla fine della sezione di questa classe. Questa scelta gli conferisce alcuni privilegi al 3&bull; livello e poidinuovoal6&bull;,10&bull;e 14\"livello.</p><h2>Cammino del Berserker</h2><p>Per alcuni barbari, l&rsquo;ira &egrave; un mezzo verso un fine: e quel fine &egrave; la violenza. Il Cammino del Berserker &egrave; un percorso di furia scatenata, intrisa di sangue. Mentre sei preda dell&rsquo;ira del berserker, godi del caos della battaglia, incurante della tua salute o benessere.</p><h3>Privilegi dei Cammino del Berserker</h3><p>3&deg; Livello: @Compendium[dnd5e.classfeatures.CkbbAckeCtyHXEnL]{Frenesia}</p><p>6&deg; Livello: @Compendium[dnd5e.classfeatures.0Jgf8fYY2ExwgQpN]{Ira Incontenibile}</p><p>10&deg; Livello: @Compendium[dnd5e.classfeatures.M6VSMzVtKPhh8B0i]{Presenza Intimidatoria}</p><p>14&deg; Livello: @Compendium[dnd5e.classfeatures.xzD9zlRP6dUxCtCl]{Ritorsione}</p>"
+        "description": "",
+        "nonActiveClassAbilities": [
+            [
+              1,
+              "Analfabetismo",
+              "Per imparare a leggere e scrivere qualsiasi linguaggio che è in grado di parlare, deve spendere 2 punti abilità."
+            ],
+            [
+              1,
+              "Ira (Str)",
+              "Dal 1° liv: bonus di +4 For, +4 Cos, bonus morale di +2 ai TS sulla Volontà; penalità di –2 alla CA. L’aumento di Cos implica un aumento di +2 pf/liv (che poi perde). In preda all’ira non può utilizzare alcuna abilità basata sul Carisma, sulla Destrezza o sull’Intelligenza (tranne Artista della Fuga, Cavalcare, Equilibrio e Intimidire), l’abilità Concentrazione, qualsiasi capacità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedano una parola di comando, un’attivazione di incantesimo (come una bacchetta) o un completamento di incantesimo (come una pergamena) per funzionare. Non può usare i talenti Maestria in Combattimento, talenti di creazione oggetto e talenti di metamagia. Il barbaro può cadere in preda all’ira solo durante il suo turno d’iniziativa e l’azione non richiede tempo in sé."
+            ],
+            [
+              1,
+              "Movimento Veloce (Str)",
+              "Bonus alla velocità sul terreno di +3 m con armatura leggera, media o nessuna armatura (e senza carico pesante)."
+            ],
+            [
+              2,
+              "Schivare Prodigioso (Str)",
+              "Dal 2° liv mantiene il bonus di Des sulla CA (se presente) anche se colto alla sprovvista o colpito da un avversario invisibile (Perde il bonus solo se viene immobilizzato). Se il barbaro già possiede schivare prodigioso da una classe differente (es. un barbaro con almeno 4 livelli di ladro), acquisisce automaticamente schivare prodigioso migliorato al suo posto (e si sommano i livelli delle classi che forniscono schivare prodigioso per determinare il liv minimo che deve possedere un ladro per poter attaccare ai fianchi il personaggio)."
+            ],
+            [
+              3,
+              "Percepire Trappole (Str)",
+              "Dal 3° liv: bonus di +1 ai TS sui Riflessi effettuati per evitare trappole e un bonus di schivare +1 alla CA contro gli attacchi effettuati dalle trappole. Questi bonus aumentano di +1 ogni 3 liv da barbaro ulteriori (6°, 9°, 12°, 15° e 18° liv). I bonus di percepire trappole ottenuti da più classi sono cumulativi."
+            ],
+            [
+              4,
+              "Ira 2/giorno",
+              ""
+            ],
+            [
+              5,
+              "Schivare Prodigioso Migliorato (Str)",
+              "Dal 5° liv non viene attaccato sui fianchi (solo un attaccante con almeno 4 livelli da ladro in più del barbaro può utilizzare attacchi ai fianchi per compiere un attacco furtivo)."
+            ],
+            [
+              6,
+              "Percepire Trappole +2",
+              ""
+            ],
+            [
+              7,
+              "Riduzione Danno (Str)",
+              "Dal 7° liv sottrae 1 danno dal totale del danno di ogni attacco (il danno può essere ridotto a 0). Ogni 3 liv da barbaro ulteriori (10°, 13°, 16° e 19° liv) questa riduzione del danno aumenta di 1 punto."
+            ],
+            [
+              8,
+              "Ira 3/giorno",
+              ""
+            ],
+            [
+              9,
+              "Percepire Trappole +3",
+              ""
+            ],
+            [
+              10,
+              "Riduzione Danno 2/-",
+              ""
+            ],
+            [
+              11,
+              "Ira Superiore (Str)",
+              "Dall’11° liv: bonus di +6 For, +6 Cos, bonus morale di +3 ai TS sulla Volontà; penalità di –2 alla CA."
+            ],
+            [
+              12,
+              "Ira 4/giorno, Percepire Trappole +4",
+              ""
+            ],
+            [
+              13,
+              "Riduzione Danno 3/-",
+              ""
+            ],
+            [
+              14,
+              "Volontà Indomita (Str)",
+              "Dal 14° liv, mentre è in preda all’ira, ottiene un bonus di +4 ai TS sulla Volontà per resistere agli incantesimi di ammaliamento (bonus cumulativo con tutti gli altri modificatori, incluso quello normale che ottiene durante l’ira)."
+            ],
+            [
+              15,
+              "Percepire Trappole +5",
+              ""
+            ],
+            [
+              16,
+              "Riduzione Danno 4/–, Ira 5/giorno",
+              ""
+            ],
+            [
+              17,
+              "Ira Infaticabile (Str)",
+              "Dal 17° liv non è più affaticato dopo l’ira."
+            ],
+            [
+              18,
+              "Percepire Trappole +6",
+              ""
+            ],
+            [
+              19,
+              "Riduzione Danno 5/–",
+              ""
+            ],
+            [
+              20,
+              "Ira Possente (Str)",
+              "Dal 20° liv: bonus di +8 For, +8 Cos, bonus morale di +4 ai TS sulla Volontà; penalità di –2 alla CA."
+            ],
+            [
+              20,
+              "Ira 6/giorno",
+              ""
+            ]
+        ]
       }
     ]
 }
