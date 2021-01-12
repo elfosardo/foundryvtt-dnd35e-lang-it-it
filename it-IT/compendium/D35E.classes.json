@@ -9,123 +9,115 @@
         "name": "Barbaro",
         "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(37% 2%, 16% 20%, 5% 32%, 23% 50%, 19% 67%, 8% 91%, 1% 99%, 99% 100%, 99% 1%);\" src=\"systems/D35E/icons/art/barbarian-male.png\" alt=\"\" width=\"286\" height=\"507\">\"<em>...Libera</em> <em>le mie mani e vernicerò questo pavimento con il tuo cervello!</em>\"</p>\n<p><em>- </em>Conan il Barbaro</p>\n<p>&nbsp;</p>\n<p>Per alcuni c'è solo ira. Nei modi della loro gente, nella furia della loro passione, nell'ululato della battaglia, il conflitto è tutto ciò che queste anime brutali conoscono. Selvaggi, muscoli assoldati, maestri di feroci tecniche marziali, non sono soldati o guerrieri professionisti: sono i posseduti dalla battaglia, creature del massacro e spiriti della guerra. Conosciuti come barbari, questi guerrafondai sanno poco di addestramento, preparazione o regole di guerra; per loro esiste solo il momento, con i nemici che stanno davanti a loro e la consapevolezza che il momento successivo potrebbe trattenerne la morte. Possiedono un sesto senso riguardo al pericolo e alla resistenza a sopportare tutto ciò che potrebbe comportare. Questi guerrieri brutali potrebbero sorgere da tutti i ceti sociali, sia civili che selvaggi, sebbene intere società che abbracciano tali filosofie vagano per i luoghi selvaggi del mondo. All'interno dei barbari infuria lo spirito primordiale della battaglia, e guai a coloro che affrontano la loro ira.</p>\n<p>&nbsp;</p>\n<p><strong>Allineamento:&nbsp;</strong>Qualsiasi non legale.</p>\n<p><strong>Dado Vita:&nbsp;</strong>d12.</p>\n<h2>Abilità di Classe</h2>\n<p>Le abilità di classe del barbaro (e le caratteristiche chiave per ogni abilità) sono Addestrare Animali (Car), Artigianato (Int), Ascoltare (Sag), Cavalcare (Des), Intimidire (Car), Nuotare (For), Saltare (For), Scalare (For) e Sopravvivenza (Sag).</p>\n<p><strong>Punti Abilità al 1o livello:</strong>&nbsp;(4 + modificare INT) x4.</p>\n<p><strong>Punti abilità ad ogni livello addizionale:&nbsp;</strong>4 + modificare INT.</p>\n<p>&nbsp;</p>\n<h2>Ex-Barbari</h2>\n<p>Un barbaro che diventa legale perde la capacità di entrare in ira e non può guadagnare più livelli come barbaro. Conserva tutti gli altri benefici della classe (riduzione del danno, movimento veloce, percepire trappole e schivata prodigiosa).</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. © 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
         "nonActiveClassAbilities": [
+          [
+            1,
+            "Analfabetismo",
+            "I barbari sono gli unici personaggi che non sanno né leggere né scrivere. Un barbaro può spendere 2 punti abilità per ottenere la capacità di leggere e scrivere qualsiasi linguaggio che sia in grado di parlare. Un barbaro che acquisisce un livello in qualsiasi altra classe impara automaticamente a leggere e scrivere. Qualsiasi altro personaggio che acquisisce un livello nella classe del barbaro non perde la sua capacità di leggere e scrivere."
+          ],
+          [
+            5,
+            "Schivare prodigioso migliorato (Str)",
+            "Al 5° livello e oltre, un barbaro non può essere attaccato ai fianchi; può reagire ad attacchi su lati opposti come reagisce all'attacco da una sola direzione. Questa difesa nega ai ladri la possibilità di utilizzare attacchi ai fianchi per compiere un attacco furtivo, a meno che l'attaccante non possieda almeno quattro livelli da ladro in più del barbaro bersagliato. Se un personaggio già possiede schivare prodigioso da una seconda classe, egli ottiene automaticamente schivare prodigioso migliorato al suo posto, e i livelli delle classi che forniscono schivare prodigioso si sommano per determinare il livello minimo che deve possedere un ladro per poter attaccare ai fianchi il personaggio."
+          ],
+          [
+            7,
+            "Riduzione del danno (Str)",
+            "Al 7° livello, il barbaro acquisisce la capacità di ignorare una parte del danno di ogni colpo o attacco. Ogni volta che il barbaro subisce dei danni bisogna sottrarre danno dal totale. Al 10° livello, e ad ogni tre livelli da barbaro ulteriori (13°, 16° e 19° livello) questa riduzione del danno aumenta di 1 punto. Questa capacità può ridurre il danno a 0, ma non al di sotto dello O."
+          ],
+          [
+            11,
+            "Ira superiore (Str)",
+            "All'11° livello, i bonus di Forza e Costituzione di un barbaro durante la sua fase d'ira aumentano ciascuno di +6, e il suo bonus morale ai tiri salvezza sulla Volontà sale a +3. La penalità alla CA rimane di -2."
+          ],
+          [
+            17,
+            "Ira infaticabile (Str)",
+            "Al 17° e oltre, un barbaro non diviene più affaticato al termine della sua ira."
+          ],
+          [
+            20,
+            "Ira Possente (Str)",
+            "Al 20° livello, i bonus di Forza e Costituzione di un barbaro durante la sua fase d'ira aumentano ciascuno di +8, e il suo bonus morale ai tiri salvezza sulla Volontà sale a +4. La penalità alla CA rimane di -2."
+          ],
+          [
+            4,
+            "Ira 2/giorno",
+            ""
+          ],
+          [
+            6,
+            "Percepire Trappole +2",
+            ""
+          ],
+          [
+            8,
+            "Ira 3/giorno",
+                ""
+          ],
+          [
+            10,
+            "Riduzione del danno 2/-",
+            ""
+          ],
+          [
+            13,
+            "Riduzione del danno 3/-",
+            ""
+          ],
+          [
+            12,
+            "Ira 4/giorno, Percepire Trappole +4",
+            ""
+          ],
+          [
+            15,
+            "Percepire Trappole +5",
+            ""
+          ],
+          [
+            16,
+            "Riduzione del danno 4/-, Ira 5/giorno",
+            ""
+          ],
+          [
+            18,
+            "Percepire Trappole +6",
+            ""
+          ],
+          [
+            19,
+            "Riduzione del danno 5/-",
+            ""
+          ],
+          [
+            20,
+            "Ira 6/giorno",
+            ""
+          ],
+          [
+            9,
+            "Percepire Trappole +3",
+            ""
+          ]
+        ]
+      },
+      {
+        "id": "Wizard",
+        "name": "Mago",
+        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(30% 0, 0 40%, 0 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/wizard-male.png\" alt=\"\" width=\"300\">Al di là del velo del mondano si nascondono i segreti del potere assoluto. Le opere di esseri al di là dei mortali, le leggende dei regni in cui camminano gli dei e gli spiriti, la conoscenza delle creazioni sia meravigliose che terribili: tali misteri richiamano coloro che hanno l'ambizione e l'intelletto di elevarsi al di sopra della gente comune per afferrare la vera potenza. Questo è il percorso del mago. Questi astuti utenti della magia cercano, raccolgono e bramano la conoscenza esoterica, attingendo alle arti dei culti per fare miracoli oltre le capacità dei comuni mortali. Mentre alcuni potrebbero scegliere un particolare campo di studio magico e diventare maestri di tali poteri, altri abbracciano la versatilità, godendosi le meraviglie illimitate di tutta la magia. In entrambi i casi, i maghi si dimostrano un gruppo astuto e potente, in grado di colpire i nemici, potenziare i loro alleati e plasmare il mondo secondo ogni loro desiderio.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d4.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe dei mago (e le caratteristiche chiave per ogni abilità) sono Artigianato (Int), Concentrazione (Cos), Conoscenze (tutte, scelte singolarmente) (Int), Decifrare Scritture (Int), Professione (Sag), Sapienza Magica (Int).\n<p class=\"p1\"><strong>Punti abilità al 1o livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello addizionale:</strong> 2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. © 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities":
+          [
             [
-              1,
-              "Analfabetismo",
-              "Per imparare a leggere e scrivere qualsiasi linguaggio che è in grado di parlare, deve spendere 2 punti abilità."
+                0,
+                "Linguaggi Bonus",
+                "Un mago può sostituire il Draconico ad uno dei linguaggi bonus a disposizione del personaggio per la sua razza, dal momento che molti antichi tomi di magia sono scritti in Draconico e i maghi apprendisti spesso lo imparano come parte dei loro studi."
             ],
             [
-              1,
-              "Ira (Str)",
-              "Dal 1° liv: bonus di +4 For, +4 Cos, bonus morale di +2 ai TS sulla Volontà; penalità di –2 alla CA. L’aumento di Cos implica un aumento di +2 pf/liv (che poi perde). In preda all’ira non può utilizzare alcuna abilità basata sul Carisma, sulla Destrezza o sull’Intelligenza (tranne Artista della Fuga, Cavalcare, Equilibrio e Intimidire), l’abilità Concentrazione, qualsiasi capacità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedano una parola di comando, un’attivazione di incantesimo (come una bacchetta) o un completamento di incantesimo (come una pergamena) per funzionare. Non può usare i talenti Maestria in Combattimento, talenti di creazione oggetto e talenti di metamagia. Il barbaro può cadere in preda all’ira solo durante il suo turno d’iniziativa e l’azione non richiede tempo in sé."
-            ],
-            [
-              1,
-              "Movimento Veloce (Str)",
-              "Bonus alla velocità sul terreno di +3 m con armatura leggera, media o nessuna armatura (e senza carico pesante)."
-            ],
-            [
-              2,
-              "Schivare Prodigioso (Str)",
-              "Dal 2° liv mantiene il bonus di Des sulla CA (se presente) anche se colto alla sprovvista o colpito da un avversario invisibile (Perde il bonus solo se viene immobilizzato). Se il barbaro già possiede schivare prodigioso da una classe differente (es. un barbaro con almeno 4 livelli di ladro), acquisisce automaticamente schivare prodigioso migliorato al suo posto (e si sommano i livelli delle classi che forniscono schivare prodigioso per determinare il liv minimo che deve possedere un ladro per poter attaccare ai fianchi il personaggio)."
-            ],
-            [
-              3,
-              "Percepire Trappole (Str)",
-              "Dal 3° liv: bonus di +1 ai TS sui Riflessi effettuati per evitare trappole e un bonus di schivare +1 alla CA contro gli attacchi effettuati dalle trappole. Questi bonus aumentano di +1 ogni 3 liv da barbaro ulteriori (6°, 9°, 12°, 15° e 18° liv). I bonus di percepire trappole ottenuti da più classi sono cumulativi."
-            ],
-            [
-              4,
-              "Ira 2/giorno",
-              ""
-            ],
-            [
-              5,
-              "Schivare Prodigioso Migliorato (Str)",
-              "Dal 5° liv non viene attaccato sui fianchi (solo un attaccante con almeno 4 livelli da ladro in più del barbaro può utilizzare attacchi ai fianchi per compiere un attacco furtivo)."
-            ],
-            [
-              6,
-              "Percepire Trappole +2",
-              ""
-            ],
-            [
-              7,
-              "Riduzione Danno (Str)",
-              "Dal 7° liv sottrae 1 danno dal totale del danno di ogni attacco (il danno può essere ridotto a 0). Ogni 3 liv da barbaro ulteriori (10°, 13°, 16° e 19° liv) questa riduzione del danno aumenta di 1 punto."
-            ],
-            [
-              8,
-              "Ira 3/giorno",
-              ""
-            ],
-            [
-              9,
-              "Percepire Trappole +3",
-              ""
-            ],
-            [
-              10,
-              "Riduzione Danno 2/-",
-              ""
-            ],
-            [
-              11,
-              "Ira Superiore (Str)",
-              "Dall’11° liv: bonus di +6 For, +6 Cos, bonus morale di +3 ai TS sulla Volontà; penalità di –2 alla CA."
-            ],
-            [
-              12,
-              "Ira 4/giorno, Percepire Trappole +4",
-              ""
-            ],
-            [
-              13,
-              "Riduzione Danno 3/-",
-              ""
-            ],
-            [
-              14,
-              "Volontà Indomita (Str)",
-              "Dal 14° liv, mentre è in preda all’ira, ottiene un bonus di +4 ai TS sulla Volontà per resistere agli incantesimi di ammaliamento (bonus cumulativo con tutti gli altri modificatori, incluso quello normale che ottiene durante l’ira)."
-            ],
-            [
-              15,
-              "Percepire Trappole +5",
-              ""
-            ],
-            [
-              16,
-              "Riduzione Danno 4/–, Ira 5/giorno",
-              ""
-            ],
-            [
-              17,
-              "Ira Infaticabile (Str)",
-              "Dal 17° liv non è più affaticato dopo l’ira."
-            ],
-            [
-              18,
-              "Percepire Trappole +6",
-              ""
-            ],
-            [
-              19,
-              "Riduzione Danno 5/–",
-              ""
-            ],
-            [
-              20,
-              "Ira Possente (Str)",
-              "Dal 20° liv: bonus di +8 For, +8 Cos, bonus morale di +4 ai TS sulla Volontà; penalità di –2 alla CA."
-            ],
-            [
-              20,
-              "Ira 6/giorno",
-              ""
+                0,
+                "Competenza nelle armi e nelle armature",
+                "I maghi sono competenti nella balestra leggera, balestra pesante, bastone ferrato, pugnale e randello. Non sono competenti in alcun tipo di armatura, né negli scudi. Un'armatura di qualsiasi tipo interferisce, con i movimenti del mago e può provocare il fallimento degli intesimi con componenti somatiche."
             ]
         ]
       }
     ]
 }
- 
