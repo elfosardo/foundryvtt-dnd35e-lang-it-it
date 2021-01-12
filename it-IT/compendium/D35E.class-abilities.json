@@ -5,6 +5,45 @@
       },
     "entries": [
         {
+            "id": "Armor Proficiency (Medium)",
+            "name": "Competenza nelle Armature (Medie)",
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Guerriero Psichico",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ]
+            ]
+        },
+        {
             "id": "Bonus Feat (Wizard)",
             "name": "Talento Bonus (Mago)",
             "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5o, 10o, 15o e 20o livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
