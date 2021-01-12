@@ -1,0 +1,38 @@
+{
+    "label": "Privilegi di Classe",
+    "mapping": {
+        "classes": "data.associations.classes"
+      },
+    "entries": [
+        {
+            "id": "Summon Familiar",
+            "name": "Evocare Famiglio",
+            "description": "<p>Un famiglio è un normale animale che acquisisce nuovi poteri e diventa una bestia magica quando viene chiamato al servizio da uno stregone o un mago. Mantiene l'aspetto, i Dadi Vita, il bonus di attacco base, i bonus ai tiri salvezza base, le abilità e i talenti dell'animale normale che era una volta, ma viene considerato come una bestia magica invece che come un animale ai fini di qualsiasi effetto che dipenda dal suo genere. Solo un animale normale e non modificato può diventare un famiglio. Un compagno animale non può funzionare anche come famiglio.</p>\n<p>Un famiglio concede anche abilità speciali al suo padrone (uno stregone o un mago), come indicato nella tabella sottostante. Queste abilità speciali si applicano solo quando il maestro e il famiglio si trovano entro 1 miglio l'uno dall'altro.</p>\n<p>I livelli delle diverse classi che hanno diritto ai famigli si sommano allo scopo di determinare le abilità del famiglio che dipendono dal livello del maestro.</p>\n<p>You can read more on familiars here @Compendium[D35E.srd-rules.pW4b8Hf6BimV87Uq]{Familiars}</p>",
+            "classes": [
+                [
+                    "Adepto (PNG)",
+                    2
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Rage",
+            "name": "Ira",
+            "description": "<p>Un barbaro può entrare in ira un certo numero di volte al giorno. In ira, un barbaro ottiene temporaneamente un bonus +4 alla Forza, un bonus +4 alla Costituzione e un bonus morale +2 ai Tiri Salvezza su Volontà, ma subisce una penalità di -2 alla Classe Armatura. L'aumento di Costituzione aumenta i punti ferita del barbaro di 2 punti per livello, ma questi punti ferita scompaiono alla fine dell'ira quando il suo punteggio di Costituzione torna alla normalità. (Questi punti ferita extra non vengono persi per primi nel modo in cui lo sono i punti ferita temporanei.) Mentre è in collera, un barbaro non può usare abilità basate su Carisma, Destrezza o Intelligenza (eccetto Equilibrio, Artista della fuga, Intimidazione e Corsa), l'abilità Concentrazione, o qualsiasi abilità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedono una parola di comando, un'abilità innescata (come una bacchetta) o il completamento dell'incantesimo (come una pergamena) per funzionare. Può usare qualsiasi talento che possiede eccetto Competenza in Combattimento, talenti di creazione di oggetti e metamagia. Un impeto d'ira dura per un numero di round pari a 3 + il modificatore di Costituzione del personaggio (migliorato). Un barbaro può porre fine prematuramente alla sua ira. Alla fine dell'ira, il barbaro perde i modificatori e le restrizioni dell'ira e diventa affaticato (penalità -2 alla Forza, penalità -2 alla Destrezza, non può caricare o correre) per la durata dell'incontro corrente (a meno che non sia un Barbaro di 17 ° livello, a quel punto questa limitazione non si applica più). </p>\n<p> Un barbaro può entrare in ira solo una volta per incontro. Al 1 ° livello può usare la sua abilità di ira una volta al giorno. Al 4 ° livello e successivamente ogni quattro livelli, può usarlo una volta in più al giorno (fino a un massimo di sei volte al giorno al 20 ° livello). Entrare in ira non richiede tempo, ma un barbaro può farlo solo durante la sua azione, non in risposta all'azione di qualcun altro.</p>",
+            "classes": [
+                [
+                    "Barbaro",
+                    1
+                ]
+            ]
+        }
+    ]
+}

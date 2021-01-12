@@ -5,6 +5,6 @@ Hooks.once('init', () => {
 			module: 'FoundryVTT-dnd35e-it',
 			lang: 'it',
 			dir: 'compendium'
-        });
+		});
     }
 });
