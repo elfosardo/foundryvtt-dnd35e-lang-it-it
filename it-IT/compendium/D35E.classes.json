@@ -151,6 +151,89 @@
         ]
       },
       {
+        "id": "Warrior (NPC)",
+        "name": "Combattente (PNG)",
+        "description": "<p class=\"p1\"><strong>Hit Die:</strong> d8.</p>\n<h2 class=\"p1\">Class Skills</h2>\n<p class=\"p1\">Le abilità di classe del combattente (e l'abilità chiave per ciascuna abilità) sono Scalare (For), Addestrare Animali (Car), Intimidire (Car), Saltare (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello: </strong>(2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>2 + modificatore INT.</p>"
+      },
+      {
+        "id": "Druid",
+        "name": "Druido",
+        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 30%, 40% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/druid-male.png\" alt=\"\" width=\"300\">Nella purezza degli elementi e dell'ordine delle terre selvagge aleggia un potere oltre le meraviglie della civiltà. Furtive ma innegabili, queste magie primordiali sono custodite da servitori dell'equilibrio filosofico noti come druidi. Alleati delle bestie e manipolatori della natura, questi protettori della natura selvaggia spesso incompresi si sforzano di proteggere le loro terre da tutti coloro che le minacciano e dimostrano la potenza delle terre selvagge a coloro che si chiudono dietro le mura della città. Ricompensati per la loro devozione con poteri incredibili, i druidi acquisiscono abilità di mutaforma senza precedenti, la compagnia di potenti bestie e il potere di invocare l'ira della natura. I più potenti poteri delle forze della natura come tempeste, terremoti e vulcani con saggezza primordiale a lungo abbandonata e dimenticata dalla civiltà.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Neutrale buono, legale neutrale, neutrale, caotico neutrale o neutrale malvagio.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del druido (e l'abilità chiave per ogni abilità) sono Concentrazione (Cos), Artigianato (Int), Diplomazia (Car), Addestrare Animali (Car), Guarigione (Sag), Conoscenza (natura) (Int), Ascoltare (Sag), Professione (Sag), Cavalcare (Des), Conoscenze Arcane (Int), Osservare (Sag), Sopravvivenza (Sag) e Nuotare (Str).<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (4 + modificatore INT) x 4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>4 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Druidi</h2>\n<p class=\"p1\">Un druido che smette di venerare la natura, cambia in un allineamento proibito o insegna il linguaggio druidico a un non-druido perde tutti gli incantesimi e le abilità del druido (incluso il suo compagno animale, ma escluse le competenze in armi, armature e scudi). Da quel momento in poi non può guadagnare livelli come druido finché non espia (vedi la descrizione dell'incantesimo <em> espiazione </em>).</p>\n<p class=\"p2\" style=\"min-height: 13px;\">&nbsp;</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities": [
+          [
+              9,
+              "Immunità al Veleno (Str)",
+              "Al 9° livello, un druido ottiene l'immunità a tutti i veleni."
+          ],
+          [
+              15,
+              "Corpo Senza tempo (Str)",
+              "Dopo aver raggiunto il 15° livello, un druido non subisce più penalità al punteggio di caratteristica per l'invecchiamento e non può essere invecchiato magicamente. Tuttavia, le eventuali penalità che potrebbere essere già attive rimangono in vigore. I bonus continuano ad accumularsi e il druido muore ancora di vecchiaia quando il suo tempo è scaduto."
+          ],
+          [
+              0,
+              "Competenza nelle armi e nelle armature",
+              "I druidi sono competenti con le seguenti armi: mazza, pugnale, dardo, bastone, scimitarra, falce, lancia corta, fionda e lancia. Sono anche competenti in tutti gli attacchi naturali (artigli, morsi e così via) di qualsiasi forma assumano con forma selvatica. I druidi sono competenti nell'armatura leggera e media ma non possono indossare armature metalliche; quindi, possono indossare solo armature imbottite, di cuoio o di pelle (un druido può anche indossare un'armatura di legno che è stata alterata dall'incantesimo legno di ferro in modo che funzioni come se fosse acciaio. Vedi la descrizione dell'incantesimo legno di ferro). I druidi sono competenti con gli scudi (eccetto gli scudi torre) ma devono usare solo quelli di legno. Un druido che indossa un'armatura proibita o porta uno scudo proibito non è in grado di lanciare incantesimi da druido o usare nessuna delle sue abilità di classe soprannaturali o magiche mentre lo fa e per le 24 ore successive."
+          ],
+          [
+              0,
+              "Linguaggi Bonus",
+              "I linguaggi bonus di un druido includono il Silvano, il linguaggio delle creature dei boschi. Questa scelta si aggiunge alle lingue bonus disponibili per il personaggio derivanti della sua razza. Un druido conosce anche il druidico, un linguaggio segreto noto solo ai druidi, che impara quando diventa un druido di 1° livello. Il druidico è una lingua aggiuntiva gratuita per un druido e non occupa uno slot di linguaggi. Ai druidi è vietato insegnare questa lingua ai non-druidi. Il druidico ha il suo alfabeto."
+          ],
+          [
+              6,
+              "Forma Selvatica (2/giorno)",
+              ""
+          ],
+          [
+              7,
+              "Forma Selvatica (3/giorno)",
+              ""
+          ],
+          [
+              8,
+              "Forma Selvatica (Grande)",
+              ""
+          ],
+          [
+              11,
+              "Forma Selvatica (Minuscola)",
+              ""
+          ],
+          [
+              12,
+              "Forma Selvatica (Vegetale)",
+              ""
+          ],
+          [
+              14,
+              "Forma Selvatica (5/giorno)",
+              ""
+          ],
+          [
+              10,
+              "Forma Selvatica (4/giorno)",
+              ""
+          ],
+          [
+              15,
+              "Forma Selvatica (Enorme)",
+              ""
+          ],
+          [
+              18,
+              "Forma Selvatica (Elementale 2/giorno, 6/giorno)",
+              ""
+          ],
+          [
+              20,
+              "Forma Selvatica (Elementale 3/giorno, Elementale Enorme)",
+              ""
+          ]
+      ]
+
+      },
+      {
         "id": "Wizard",
         "name": "Mago",
         "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(30% 0, 0 40%, 0 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/wizard-male.png\" alt=\"\" width=\"300\">Al di là del velo del mondano si nascondono i segreti del potere assoluto. Le opere di esseri al di là dei mortali, le leggende dei regni in cui camminano gli dei e gli spiriti, la conoscenza delle creazioni sia meravigliose che terribili: tali misteri richiamano coloro che hanno l'ambizione e l'intelletto di elevarsi al di sopra della gente comune per afferrare la vera potenza. Questo è il percorso del mago. Questi astuti utenti della magia cercano, raccolgono e bramano la conoscenza esoterica, attingendo alle arti dei culti per fare miracoli oltre le capacità dei comuni mortali. Mentre alcuni potrebbero scegliere un particolare campo di studio magico e diventare maestri di tali poteri, altri abbracciano la versatilità, godendosi le meraviglie illimitate di tutta la magia. In entrambi i casi, i maghi si dimostrano un gruppo astuto e potente, in grado di colpire i nemici, potenziare i loro alleati e plasmare il mondo secondo ogni loro desiderio.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d4.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe dei mago (e le caratteristiche chiave per ogni abilità) sono Artigianato (Int), Concentrazione (Cos), Conoscenze (tutte, scelte singolarmente) (Int), Decifrare Scritture (Int), Professione (Sag), Sapienza Magica (Int).\n<p class=\"p1\"><strong>Punti abilità al 1o livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello addizionale:</strong> 2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. © 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
