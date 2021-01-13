@@ -5,6 +5,104 @@
       },
     "entries": [
         {
+            "id": "Armor Proficiency (Heavy)",
+            "name": "Competenza nelle Armature (Pesanti)",
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Psychic Warrior",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Armor Proficiency (Light)",
+            "name": "Competenza nelle Armature (Leggere)",
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Esperto (PNG)",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Soulknife",
+                    1
+                ],
+                [
+                    "Psychic Warrior",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Ladro",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
+        },
+        {
             "id": "Armor Proficiency (Medium)",
             "name": "Competenza nelle Armature (Medie)",
             "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
@@ -44,6 +142,17 @@
             ]
         },
         {
+            "id": "Aura of Courage",
+            "name": "Aura di Coraggio",
+            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Un paladino è immune alla paura (magica o meno). Ogni alleato entro 3 metri da lei ottiene Bonus Morale +4 ai Tiri Salvezza contro gli effetti di paura.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questa capacità funziona mentre il paladino è cosciente, ma non se è incosciente o morto.</p>",
+            "classes": [
+                [
+                    "Paladino",
+                    3
+                ]
+            ]
+        },
+        {
             "id": "Bonus Feat (Wizard)",
             "name": "Talento Bonus (Mago)",
             "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5o, 10o, 15o e 20o livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
@@ -67,6 +176,17 @@
             ]
         },
         {
+            "id": "Endurance",
+            "name": "Resistenza Fisica",
+            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>Ottieni un bonus di +4 alle seguenti prove e tiri salvezza: prove di Nuotare effettuate per resistere ai danni non letali, prove di Costituzione effettuate per continuare a correre, prove di Costituzione effettuate per evitare danni non letali da una marcia forzata, prove di Costituzione effettuate per trattenere il respiro, prove di Costituzione fatte per evitare danni non letali da fame o sete, tiri salvezza su Tempra fatti per evitare danni non letali da ambienti caldi o freddi e tiri salvezza su Tempra per resistere ai danni da soffocamento. Inoltre, puoi dormire con un'armatura leggera o media senza diventare affaticato.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Un personaggio senza questo talento che dorme in un'armatura media o più pesante diventa automaticamente affaticato il giorno successivo.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Speciale</span></h3>\n<p>Un ranger ottiene automaticamente Resistenza come talento bonus al 3° livello. Non ha bisogno di selezionarlo.</p>\n<p>&nbsp;</p>",
+            "classes": [
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
+        },
+        {
             "id": "Rage",
             "name": "Ira",
             "description": "<p>Un barbaro può entrare in ira un certo numero di volte al giorno. In ira, un barbaro ottiene temporaneamente un bonus +4 alla Forza, un bonus +4 alla Costituzione e un bonus morale +2 ai Tiri Salvezza su Volontà, ma subisce una penalità di -2 alla Classe Armatura. L'aumento di Costituzione aumenta i punti ferita del barbaro di 2 punti per livello, ma questi punti ferita scompaiono alla fine dell'ira quando il suo punteggio di Costituzione torna alla normalità. (Questi punti ferita extra non vengono persi per primi nel modo in cui lo sono i punti ferita temporanei.) Mentre è in collera, un barbaro non può usare abilità basate su Carisma, Destrezza o Intelligenza (eccetto Equilibrio, Artista della fuga, Intimidazione e Corsa), l'abilità Concentrazione, o qualsiasi abilità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedono una parola di comando, un'abilità innescata (come una bacchetta) o il completamento dell'incantesimo (come una pergamena) per funzionare. Può usare qualsiasi talento che possiede eccetto Competenza in Combattimento, talenti di creazione di oggetti e metamagia. Un impeto d'ira dura per un numero di round pari a 3 + il modificatore di Costituzione del personaggio (migliorato). Un barbaro può porre fine prematuramente alla sua ira. Alla fine dell'ira, il barbaro perde i modificatori e le restrizioni dell'ira e diventa affaticato (penalità -2 alla Forza, penalità -2 alla Destrezza, non può caricare o correre) per la durata dell'incontro corrente (a meno che non sia un Barbaro di 17 ° livello, a quel punto questa limitazione non si applica più). </p>\n<p> Un barbaro può entrare in ira solo una volta per incontro. Al 1 ° livello può usare la sua abilità di ira una volta al giorno. Al 4 ° livello e successivamente ogni quattro livelli, può usarlo una volta in più al giorno (fino a un massimo di sei volte al giorno al 20 ° livello). Entrare in ira non richiede tempo, ma un barbaro può farlo solo durante la sua azione, non in risposta all'azione di qualcun altro.</p>",
@@ -78,12 +198,95 @@
             ]
         },
         {
+            "id": "Remove Disease",
+            "name": "Rimuovi Malattia",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Un paladino può produrre un effetto di </span><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">rimuovi malattia&nbsp;</em><span style=\"color: #191813; font-size: 13px;\">, come l'incantesimo, una volta per settimana. Può usare questa abilità una volta in più per settimana per ogni 3 livelli dopo il 6o (due volte al 9o, 3 al 12o, e così via).</span></p>",
+            "classes": [
+                [
+                    "Paladino",
+                    6
+                ]
+            ]
+        },
+        {
             "id": "Scribe Scroll",
             "name": "Scrivere Pergamene",
             "description": "<h3><span id=\"Prerequisite\" class=\"mw-headline\">Prerequisiti</span></h3><p>Incantatore livello 1.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Descrizione</span></h3>\n<p>Puoi creare una pergamena di qualsiasi incantesimo che conosci. Scrivere una pergamena richiede un giorno per ogni 1.000 mo nel suo prezzo base. Il prezzo base di una pergamena è il livello dell'incantesimo x il livello dell'incantatore x 25 mo. Per scrivere una pergamena, devi spendere 1/25 di questo prezzo base in PE e utilizzare materie prime che costano la metà di questo prezzo base.</p>\n<p>Qualsiasi pergamena che contiene un incantesimo con un materiale costoso o un costo in PE comporta una spesa proporzionata. Oltre ai costi derivati dal prezzo base, devi spendere la componente materiale o pagare i PE quando scrivi la pergamena.</p>",
             "classes": [
                 [
                     "Mago",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Shield Proficiency",
+            "name": "Competenza negli Scudi",
+            "description": "<p>Puoi usare uno scudo e subire solo le penalità standard. Quando si utilizza uno scudo di cui non si è competenti, si subisce la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, comprese le prove di Cavalcare.</p>"
+        },
+        {
+            "id": "Simple Weapon Proficiency",
+            "name": "Competenza nelle Armi Semplici",
+            "description": "<p>Puoi attaccare normalmente con armi semplici. Quando usi un'arma con cui non sei esperto, subisci una penalità ai tiri per colpire.</p>",
+            "classes": [
+                [
+                    "Adepto (PNG)",
+                    1
+                ],
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Esperto (PNG)",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ],
+                [
+                    "Soulknife",
+                    1
+                ],
+                [
+                    "Psychic Warrior",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Ladro",
+                    1
+                ],
+                [
+                    "Ranger",
                     1
                 ]
             ]
@@ -103,6 +306,25 @@
                 ],
                 [
                     "Stregone",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Tower Shield Proficiency",
+            "name": "Competenza nello Scudo Torre",
+            "description": "<p>Puoi usare uno scudo torre e subire solo le penalità standard. Quando usi uno scudo con cui non sei competente, subisci la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, incluse le prove di Cavalcare.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
                     1
                 ]
             ]
