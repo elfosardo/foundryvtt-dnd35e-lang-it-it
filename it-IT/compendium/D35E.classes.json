@@ -5,6 +5,12 @@
     },
     "entries": [
       {
+        "id": "Adept (NPC)",
+        "name": "Adepto (PNG)",
+        "description": "<p class=\"p1\"><strong>Dado Vita:</strong> d6.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe dell'adepto (e la caratteristica chiave per ogni abilità) sono Concentrazione (Cos), Artigianato (Int), Addestrare Animali (Car), Guarire (Sag), Conoscenza (tutte le abilità prese individualmente) (Int), Professione (Sag), Sapienza Magica (Int) e Sopravvivenza (Sag).<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p class=\"p1\"><strong>Punti abilità al 1  livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 2 + modificatore INT.</p>"
+
+      },
+      {
         "id": "Barbarian",
         "name": "Barbaro",
         "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(37% 2%, 16% 20%, 5% 32%, 23% 50%, 19% 67%, 8% 91%, 1% 99%, 99% 100%, 99% 1%);\" src=\"systems/D35E/icons/art/barbarian-male.png\" alt=\"\" width=\"286\" height=\"507\">\"<em>...Libera</em> <em>le mie mani e vernicerò questo pavimento con il tuo cervello!</em>\"</p>\n<p><em>- </em>Conan il Barbaro</p>\n<p>&nbsp;</p>\n<p>Per alcuni c'è solo ira. Nei modi della loro gente, nella furia della loro passione, nell'ululato della battaglia, il conflitto è tutto ciò che queste anime brutali conoscono. Selvaggi, muscoli assoldati, maestri di feroci tecniche marziali, non sono soldati o guerrieri professionisti: sono i posseduti dalla battaglia, creature del massacro e spiriti della guerra. Conosciuti come barbari, questi guerrafondai sanno poco di addestramento, preparazione o regole di guerra; per loro esiste solo il momento, con i nemici che stanno davanti a loro e la consapevolezza che il momento successivo potrebbe trattenerne la morte. Possiedono un sesto senso riguardo al pericolo e alla resistenza a sopportare tutto ciò che potrebbe comportare. Questi guerrieri brutali potrebbero sorgere da tutti i ceti sociali, sia civili che selvaggi, sebbene intere società che abbracciano tali filosofie vagano per i luoghi selvaggi del mondo. All'interno dei barbari infuria lo spirito primordiale della battaglia, e guai a coloro che affrontano la loro ira.</p>\n<p>&nbsp;</p>\n<p><strong>Allineamento:&nbsp;</strong>Qualsiasi non legale.</p>\n<p><strong>Dado Vita:&nbsp;</strong>d12.</p>\n<h2>Abilità di Classe</h2>\n<p>Le abilità di classe del barbaro (e le caratteristiche chiave per ogni abilità) sono Addestrare Animali (Car), Artigianato (Int), Ascoltare (Sag), Cavalcare (Des), Intimidire (Car), Nuotare (For), Saltare (For), Scalare (For) e Sopravvivenza (Sag).</p>\n<p><strong>Punti Abilità al 1o livello:</strong>&nbsp;(4 + modificare INT) x4.</p>\n<p><strong>Punti abilità ad ogni livello addizionale:&nbsp;</strong>4 + modificare INT.</p>\n<p>&nbsp;</p>\n<h2>Ex-Barbari</h2>\n<p>Un barbaro che diventa legale perde la capacità di entrare in ira e non può guadagnare più livelli come barbaro. Conserva tutti gli altri benefici della classe (riduzione del danno, movimento veloce, percepire trappole e schivata prodigiosa).</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. © 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
@@ -124,41 +130,21 @@
         ]
       },
       {
-        "id": "Fighter",
-        "name": "Guerriero",
-        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 22%, 26% 56%, 30% 91%, 24% 100%, 100% 100%, 100% 0%);\" src=\"systems/D35E/icons/art/fighter-female.png\" alt=\"\" width=\"350\" height=\"426\">Alcuni prendono le armi per gloria, ricchezza o vendetta. Altri combattono per mettersi alla prova, per proteggere gli altri o perché non sanno fare nient'altro. Altri ancora imparano i metodi delle armi per affinare i loro corpi in battaglia e dimostrare il loro coraggio nella fucina della guerra. Signori del campo di battaglia, i combattenti sono un gruppo disparato, si allenano con molte armi o solo una, perfezionano gli usi dell'armatura, apprendono le tecniche di combattimento di maestri esotici e studiano l'arte del combattimento, il tutto per modellarsi in armi viventi. Molto più che semplici teppisti, questi abili guerrieri rivelano la vera mortalità delle loro armi, trasformando pezzi di metallo in armi capaci di domare regni, massacrare mostri e risvegliare i cuori degli eserciti. Soldati, cavalieri, cacciatori e artisti della guerra, i combattenti sono campioni senza precedenti e guai a coloro che osano opporsi a loro.</p>\n<p class=\"p1\"><strong>Alignment:</strong> Any.</p>\n<p class=\"p1\"><strong>Hit Die:</strong> d10.</p>\n<h2 class=\"p1\">Class Skills</h2>\n<p class=\"p1\">Le abilità di classe del guerriero (e l'abilità chiave per ciascuna abilità) sono Arrampicarsi (For), Artigianato (Int), Addestrare Animali (Car), Intimidire (Car), Salto (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>"
-      },
-      {
-        "id": "Paladin",
-        "name": "Paladino",
-        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 30%, 0 90%, 30% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/paladin-male.png\" alt=\"\" width=\"300\">Attraverso pochi eletti e degni risplende il potere del divino. Chiamati paladini, queste anime nobili dedicano le loro spade e le loro vite alla battaglia contro il male. Cavalieri, crociati e legislatori, i paladini cercano non solo di diffondere la giustizia divina, ma di incarnare gli insegnamenti delle divinità virtuose che servono. Nel perseguire i loro nobili obiettivi, aderiscono alle ferree leggi della moralità e della disciplina. Come ricompensa per la loro rettitudine, questi santi campioni sono benedetti con doni per aiutarli nelle loro ricerche: poteri per bandire il male, guarire gli innocenti e ispirare i fedeli. Anche se le loro convinzioni potrebbero portarli in conflitto con le anime che salvano, i paladini affrontano infinite sfide di fede e oscure tentazioni, rischiando la vita per fare il bene e lottando per realizzare un futuro più luminoso.</p>\n<p class=\"p1\"><strong>Allineamento: </strong>Lawful good.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d10.</p>\n<h2 class=\"p1\">Class Skills</h2>\n<p class=\"p1\">Le abilità di classe del paladino (e l'abilità chiave per ciascuna abilità) sono Concentrazione (Costituzione), Artigianato (Int), Diplomazia (Cha), Addestrare Animali (Cha), Guarigione (Sag), Conoscenza (nobiltà e regalità) (Int), Conoscenza (religione) (Int), Professione (Sag), Cavalcare (Dex) e Percepire Intenzioni (Sag).</p>\n<p class=\"p1\"><strong>Punti Abilità al 1o livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti Abilità ad ogni livello addizionale:</strong> 2 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Paladini</h2>\n<p class=\"p1\">Un paladino che cessa di essere legale buono, che intenzionalmente commette un atto malvagio o che viola grossolanamente il codice di condotta perde tutti gli incantesimi e le abilità del paladino (incluso il servizio della cavalcatura del paladino, ma non le competenze in armi, armature e scudi ). Non può progredire ulteriormente nei livelli come paladino. Riacquista le sue capacità e può riprendere ad avanzare come paladino se espia le sue colpe (vedi la descrizione dell'incantesimo <em> espiazione </em>), come appropriato.</p>\n<p class=\"p1\">Come un membro di qualsiasi altra classe, un paladino può essere un personaggio multiclasse, ma i paladini multiclasse devono affrontare una restrizione speciale. Un paladino che ottiene un livello in una classe diversa dal paladino non può mai più aumentare il suo livello da paladino, sebbene mantenga tutte le sue abilità da paladino.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "id": "Commoner (NPC)",
+        "name": "Popolano (PNG)",
+        "description": "<p class=\"p1\"><strong>Dado Vita:</strong> d4.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del popolano (e la caratteristica chiave per ciascuna abilità) sono Arrampicarsi (For), Artigianato (Int), Addestrare Animali (Car), Saltar (For), Ascoltare (Sag), Professione (Sag), Cavalcare (Des), Osservare (Sag), Nuotare (For) e Uso della Corda (Des).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 2 + modificatore INT.</p>",
         "nonActiveClassAbilities": [
           [
-            5,
-            "Cavalcatura Speciale (Mag)",
-            "Al raggiungimento del 5° livello, un paladino ottiene il servizio di un destriero insolitamente intelligente, forte e leale per servirlo nella sua crociata contro il male. Questa cavalcatura è solitamente un cavallo da guerra pesante (per un paladino medio) o un pony da guerra (per un paladino piccolo). Una volta al giorno, come azione di round completo, un paladino può richiamare magicamente la sua cavalcatura dai regni celesti in cui risiede. Questa capacità è l'equivalente di un incantesimo di livello pari a un terzo del livello del paladino. La cavalcatura appare immediatamente accanto al paladino e rimane per 2 ore per livello da paladino; può essere congedata in qualsiasi momento come azione gratuita. La cavalcatura è la stessa creatura ogni volta che viene evocata, sebbene il paladino possa liberare una particolare cavalcatura dal servizio. Ogni volta che la cavalcatura viene richiamata, appare in piena salute, indipendentemente da eventuali danni che potrebbe aver subito in precedenza. La cavalcatura sembra anche indossare o trasportare qualsiasi attrezzatura che aveva quando è stata congedata l'ultima volta. Chiamare una cavalcatura è un effetto di evocazione (richiamo). Se la cavalcatura del paladino muore, scompare immediatamente, lasciandosi dietro qualsiasi equipaggiamento che trasportava. Il paladino non può evocare un'altra cavalcatura per trenta giorni o finché non ottiene un livello da paladino, a seconda dell'evento che si verifica per primo, anche se in qualche modo la cavalcatura è tornata dai morti. Durante questo periodo di trenta giorni, il paladino subisce una penalità di -1 ai tiri per colpire e ai danni delle armi."
-          ],
-          [
-            0,
-            "Codice di Condotta",
-            "Un paladino deve essere di allineamento legale buono e perde tutte le abilità di classe se commette volontariamente un atto malvagio. Inoltre, il codice di un paladino richiede che rispetti l'autorità legittima, agisca con onore (non mentendo, non barando, non usando veleno e così via), aiuti chi ha bisogno (a condizione che non usi l'aiuto per fini malvagi o caotici) e punire coloro che danneggiano o minacciano gli innocenti."
-          ],
-          [
-            0,
-            "Associati",
-            "Sebbene possa avventurarsi con personaggi di allineamento buono o neutro, un paladino non si assocerà mai consapevolmente a personaggi malvagi, né continuerà un'associazione con qualcuno che offende costantemente il suo codice morale. Un paladino può accettare solo mercenari, seguaci o gregari legali."
+              0,
+              "Compentenze con Armi e Armature",
+              "Il popolano è competente con un'arma semplice. Non è competente con altre armi, né con alcun tipo di armatura o scudo."
           ]
         ]
       },
       {
-        "id": "Warrior (NPC)",
-        "name": "Combattente (PNG)",
-        "description": "<p class=\"p1\"><strong>Hit Die:</strong> d8.</p>\n<h2 class=\"p1\">Class Skills</h2>\n<p class=\"p1\">Le abilità di classe del combattente (e l'abilità chiave per ciascuna abilità) sono Scalare (For), Addestrare Animali (Car), Intimidire (Car), Saltare (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello: </strong>(2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>2 + modificatore INT.</p>"
-      },
-      {
         "id": "Druid",
         "name": "Druido",
-        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 30%, 40% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/druid-male.png\" alt=\"\" width=\"300\">Nella purezza degli elementi e dell'ordine delle terre selvagge aleggia un potere oltre le meraviglie della civiltà. Furtive ma innegabili, queste magie primordiali sono custodite da servitori dell'equilibrio filosofico noti come druidi. Alleati delle bestie e manipolatori della natura, questi protettori della natura selvaggia spesso incompresi si sforzano di proteggere le loro terre da tutti coloro che le minacciano e dimostrano la potenza delle terre selvagge a coloro che si chiudono dietro le mura della città. Ricompensati per la loro devozione con poteri incredibili, i druidi acquisiscono abilità di mutaforma senza precedenti, la compagnia di potenti bestie e il potere di invocare l'ira della natura. I più potenti poteri delle forze della natura come tempeste, terremoti e vulcani con saggezza primordiale a lungo abbandonata e dimenticata dalla civiltà.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Neutrale buono, legale neutrale, neutrale, caotico neutrale o neutrale malvagio.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del druido (e l'abilità chiave per ogni abilità) sono Concentrazione (Cos), Artigianato (Int), Diplomazia (Car), Addestrare Animali (Car), Guarigione (Sag), Conoscenza (natura) (Int), Ascoltare (Sag), Professione (Sag), Cavalcare (Des), Conoscenze Arcane (Int), Osservare (Sag), Sopravvivenza (Sag) e Nuotare (Str).<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (4 + modificatore INT) x 4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>4 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Druidi</h2>\n<p class=\"p1\">Un druido che smette di venerare la natura, cambia in un allineamento proibito o insegna il linguaggio druidico a un non-druido perde tutti gli incantesimi e le abilità del druido (incluso il suo compagno animale, ma escluse le competenze in armi, armature e scudi). Da quel momento in poi non può guadagnare livelli come druido finché non espia (vedi la descrizione dell'incantesimo <em> espiazione </em>).</p>\n<p class=\"p2\" style=\"min-height: 13px;\">&nbsp;</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 30%, 40% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/druid-male.png\" alt=\"\" width=\"300\">Nella purezza degli elementi e dell'ordine delle terre selvagge aleggia un potere oltre le meraviglie della civiltà. Furtive ma innegabili, queste magie primordiali sono custodite da servitori dell'equilibrio filosofico noti come druidi. Alleati delle bestie e manipolatori della natura, questi protettori della natura selvaggia spesso incompresi si sforzano di proteggere le loro terre da tutti coloro che le minacciano e dimostrano la potenza delle terre selvagge a coloro che si chiudono dietro le mura della città. Ricompensati per la loro devozione con poteri incredibili, i druidi acquisiscono abilità di mutaforma senza precedenti, la compagnia di potenti bestie e il potere di invocare l'ira della natura. I più potenti poteri delle forze della natura come tempeste, terremoti e vulcani con saggezza primordiale a lungo abbandonata e dimenticata dalla civiltà.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Neutrale buono, legale neutrale, neutrale, caotico neutrale o neutrale malvagio.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del druido (e l'abilità chiave per ogni abilità) sono Concentrazione (Cos), Artigianato (Int), Diplomazia (Car), Addestrare Animali (Car), Guarigione (Sag), Conoscenza (natura) (Int), Ascoltare (Sag), Professione (Sag), Cavalcare (Des), Sapienza Magica (Int), Osservare (Sag), Sopravvivenza (Sag) e Nuotare (Str).<span class=\"Apple-converted-space\">&nbsp;</span></p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (4 + modificatore INT) x 4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>4 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Druidi</h2>\n<p class=\"p1\">Un druido che smette di venerare la natura, cambia in un allineamento proibito o insegna il linguaggio druidico a un non-druido perde tutti gli incantesimi e le abilità del druido (incluso il suo compagno animale, ma escluse le competenze in armi, armature e scudi). Da quel momento in poi non può guadagnare livelli come druido finché non espia (vedi la descrizione dell'incantesimo <em> espiazione </em>).</p>\n<p class=\"p2\" style=\"min-height: 13px;\">&nbsp;</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
         "nonActiveClassAbilities": [
           [
               9,
@@ -230,8 +216,148 @@
               "Forma Selvatica (Elementale 3/giorno, Elementale Enorme)",
               ""
           ]
-      ]
-
+        ]
+      },
+      {
+        "id": "Expert (NPC)",
+        "name": "Esperto (PNG)",
+        "description": "<p class=\"p1\"><strong>Dado Vita:</strong> d6.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">L'esperto può scegliere dieci abilità qualsiasi come abilità di classe.</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (6 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 6 + modificatore INT.</p>"
+      },
+      {
+        "id": "Fighter",
+        "name": "Guerriero",
+        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 22%, 26% 56%, 30% 91%, 24% 100%, 100% 100%, 100% 0%);\" src=\"systems/D35E/icons/art/fighter-female.png\" alt=\"\" width=\"350\" height=\"426\">Alcuni prendono le armi per gloria, ricchezza o vendetta. Altri combattono per mettersi alla prova, per proteggere gli altri o perché non sanno fare nient'altro. Altri ancora imparano i metodi delle armi per affinare i loro corpi in battaglia e dimostrare il loro coraggio nella fucina della guerra. Signori del campo di battaglia, i combattenti sono un gruppo disparato, si allenano con molte armi o solo una, perfezionano gli usi dell'armatura, apprendono le tecniche di combattimento di maestri esotici e studiano l'arte del combattimento, il tutto per modellarsi in armi viventi. Molto più che semplici teppisti, questi abili guerrieri rivelano la vera mortalità delle loro armi, trasformando pezzi di metallo in armi capaci di domare regni, massacrare mostri e risvegliare i cuori degli eserciti. Soldati, cavalieri, cacciatori e artisti della guerra, i combattenti sono campioni senza precedenti e guai a coloro che osano opporsi a loro.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d10.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del guerriero (e l'abilità chiave per ciascuna abilità) sono Arrampicarsi (For), Artigianato (Int), Addestrare Animali (Car), Intimidire (Car), Salto (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>"
+      },
+      {
+        "id": "Paladin",
+        "name": "Paladino",
+        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 30%, 0 90%, 30% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/paladin-male.png\" alt=\"\" width=\"300\">Attraverso pochi eletti e degni risplende il potere del divino. Chiamati paladini, queste anime nobili dedicano le loro spade e le loro vite alla battaglia contro il male. Cavalieri, crociati e legislatori, i paladini cercano non solo di diffondere la giustizia divina, ma di incarnare gli insegnamenti delle divinità virtuose che servono. Nel perseguire i loro nobili obiettivi, aderiscono alle ferree leggi della moralità e della disciplina. Come ricompensa per la loro rettitudine, questi santi campioni sono benedetti con doni per aiutarli nelle loro ricerche: poteri per bandire il male, guarire gli innocenti e ispirare i fedeli. Anche se le loro convinzioni potrebbero portarli in conflitto con le anime che salvano, i paladini affrontano infinite sfide di fede e oscure tentazioni, rischiando la vita per fare il bene e lottando per realizzare un futuro più luminoso.</p>\n<p class=\"p1\"><strong>Allineamento: </strong>Lawful good.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d10.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del paladino (e l'abilità chiave per ciascuna abilità) sono Concentrazione (Costituzione), Artigianato (Int), Diplomazia (Cha), Addestrare Animali (Cha), Guarigione (Sag), Conoscenza (nobiltà e regalità) (Int), Conoscenza (religione) (Int), Professione (Sag), Cavalcare (Dex) e Percepire Intenzioni (Sag).</p>\n<p class=\"p1\"><strong>Punti Abilità al 1o livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti Abilità ad ogni livello addizionale:</strong> 2 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Paladini</h2>\n<p class=\"p1\">Un paladino che cessa di essere legale buono, che intenzionalmente commette un atto malvagio o che viola grossolanamente il codice di condotta perde tutti gli incantesimi e le abilità del paladino (incluso il servizio della cavalcatura del paladino, ma non le competenze in armi, armature e scudi ). Non può progredire ulteriormente nei livelli come paladino. Riacquista le sue capacità e può riprendere ad avanzare come paladino se espia le sue colpe (vedi la descrizione dell'incantesimo <em> espiazione </em>), come appropriato.</p>\n<p class=\"p1\">Come un membro di qualsiasi altra classe, un paladino può essere un personaggio multiclasse, ma i paladini multiclasse devono affrontare una restrizione speciale. Un paladino che ottiene un livello in una classe diversa dal paladino non può mai più aumentare il suo livello da paladino, sebbene mantenga tutte le sue abilità da paladino.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities": [
+          [
+            5,
+            "Cavalcatura Speciale (Mag)",
+            "Al raggiungimento del 5° livello, un paladino ottiene il servizio di un destriero insolitamente intelligente, forte e leale per servirlo nella sua crociata contro il male. Questa cavalcatura è solitamente un cavallo da guerra pesante (per un paladino medio) o un pony da guerra (per un paladino piccolo). Una volta al giorno, come azione di round completo, un paladino può richiamare magicamente la sua cavalcatura dai regni celesti in cui risiede. Questa capacità è l'equivalente di un incantesimo di livello pari a un terzo del livello del paladino. La cavalcatura appare immediatamente accanto al paladino e rimane per 2 ore per livello da paladino; può essere congedata in qualsiasi momento come azione gratuita. La cavalcatura è la stessa creatura ogni volta che viene evocata, sebbene il paladino possa liberare una particolare cavalcatura dal servizio. Ogni volta che la cavalcatura viene richiamata, appare in piena salute, indipendentemente da eventuali danni che potrebbe aver subito in precedenza. La cavalcatura sembra anche indossare o trasportare qualsiasi attrezzatura che aveva quando è stata congedata l'ultima volta. Chiamare una cavalcatura è un effetto di evocazione (richiamo). Se la cavalcatura del paladino muore, scompare immediatamente, lasciandosi dietro qualsiasi equipaggiamento che trasportava. Il paladino non può evocare un'altra cavalcatura per trenta giorni o finché non ottiene un livello da paladino, a seconda dell'evento che si verifica per primo, anche se in qualche modo la cavalcatura è tornata dai morti. Durante questo periodo di trenta giorni, il paladino subisce una penalità di -1 ai tiri per colpire e ai danni delle armi."
+          ],
+          [
+            0,
+            "Codice di Condotta",
+            "Un paladino deve essere di allineamento legale buono e perde tutte le abilità di classe se commette volontariamente un atto malvagio. Inoltre, il codice di un paladino richiede che rispetti l'autorità legittima, agisca con onore (non mentendo, non barando, non usando veleno e così via), aiuti chi ha bisogno (a condizione che non usi l'aiuto per fini malvagi o caotici) e punire coloro che danneggiano o minacciano gli innocenti."
+          ],
+          [
+            0,
+            "Associati",
+            "Sebbene possa avventurarsi con personaggi di allineamento buono o neutro, un paladino non si assocerà mai consapevolmente a personaggi malvagi, né continuerà un'associazione con qualcuno che offende costantemente il suo codice morale. Un paladino può accettare solo mercenari, seguaci o gregari legali."
+          ]
+        ]
+      },
+      {
+        "id": "Ranger",
+        "name": "Ranger",
+        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 30%, 0 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/ranger-female.png\" alt=\"\" width=\"300\" /></p>\n<p class=\"p1\">Per coloro che amano l'emozione della caccia, ci sono soltanto predatori e prede. Siano essi esploratori, inseguitori o cacciatori di taglie, i Ranger hanno molto in comune tra loro: padronanza unica delle armi specializzate, abilità ad inseguire persino la preda più elusiva e la perizia per sconfiggerne una vasta gamma. Cacciatori esperti, pazienti ed abili, i Ranger perseguitano gli uomini, le belve e i mostri allo stesso modo, affinando il proprio intuito da predatore, le proprie Abilità di Sopravvivenza nei vari ambienti ed il proprio letale valore marziale. Mentre alcuni inseguono creature cannibali per proteggere la frontiera, altri perseguono prede più astute: persino i fuggiaschi tra la loro gente.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del ranger (e la caratteristica chiave per ciascuna abilità) sono Arrampicarsi (For), Concentrazione (Cos), Artigianato (Int), Addestrare Animali (Car), Guarire (Sag), Nascondersi (Des), Saltare (For), Conoscenza (dungeoneering) (Int), Conoscenza (geografia) (Int), Conoscenza (natura) (Int), Ascoltare (Sag), Muoversi Silenziosamente (Des), Professione (Sag), Cavalcare (Des), Cercare (Int), Osservare (Sag), Sopravvivenza (Sag), Nuotare (For) e Utilizzare Cordw (Des).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (6 + modificatore INT) x<span class=\"s1\" style=\"font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; font-family: Helvetica;\">\uf020</span>4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 6 + modificatore INT.</p>\n<p><br /><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. &copy; 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities": [
+          [
+              8,
+              "Rapido Segugio (Str)",
+              "A partire dall’8° livello, un ranger può muoversi alla sua normale velocità mentre segue le tracce anche senza subire la normale penalità di -5. Egli subisce solo una penalità di -10 (invece della normale -20) quando si muove fino al doppio della sua normale velocità mentre segue tracce."
+          ]
+        ]
+      },
+      {
+        "id": "Rogue",
+        "name": "Ladro",
+        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 60%, 0 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/rogue-female.png\" alt=\"\" width=\"300\">La vita è un'avventura senza fine per chi vive di espedienti. Sempre un passo avanti al pericolo, i ladri puntano sulla loro astuzia, abilità e fascino per piegare il destino a loro favore. Non sapendo mai cosa aspettarsi, si preparano a tutto, diventando padroni di un'ampia gamma di abilità, addestrandosi a essere abili manipolatori, agili acrobati, oscuri stalker o maestri di dozzine di altre professioni o talenti. Ladri e giocatori d'azzardo, chiacchieroni veloci e diplomatici, banditi e cacciatori di taglie, esploratori e investigatori potrebbero essere tutti considerati ladri, così come innumerevoli altre professioni che si basano su ingegno, abilità o fortuna. Sebbene molti ladri prediligano le città e le innumerevoli opportunità di civiltà, alcuni abbracciano vite sulla strada, viaggiare lontano, incontri esotici e pericoli fantastici alla ricerca di ricchezze altrettanto fantastiche. Alla fine, chiunque desideri plasmare il proprio destino e vivere la vita alle proprie condizioni potrebbe essere chiamato ladro.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d6.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del ladro (e la caratteristica chiave per ciascuna abilità) sono Valutare (Int), Equilibrio (Des), Raggirare (Car), Scalare (For), Artigianato (Int), Decifrare Scritture (Int), Diplomazia (Car), Disattivare Trappole (Int), Camuffare (Car), Artista della Fuga (Des), Falsificare (Int), Raccogliere informazioni (Car), Nascondersi (Des), Intimidire (Car), Saltare (For), Conoscenza (locale) (Int), Ascoltare (Sag), Muoversi Silenziosamente (Des), Scassinare Serrature (Des), Intrattenere (Car), Professione (Sag), Cercare (Int), Percepire Intenzioni (Sag), Rapidità di Mano (Des), Osservare (Sag), Nuotare (For), Acrobazia (Des), Utilizzare Oggetti Magici (Car) e Uso della Corda (Des).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (8 + modificatore INT) x 4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 8 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities": [
+          [
+              3,
+              "Attacco Furtivo +2d6",
+              ""
+          ],
+          [
+              1,
+              "Scoprire Trappole",
+              "I ladri (e solo i ladri) possono usare l'abilità Cercare per individuare le trappole con classe di difficoltà superiore a 20. Trovare una trappola non magica ha una CD di almeno 20, o superiore se è ben nascosta. Trovare una trappola magica ha una CD di 25 + il livello dell'incantesimo usato per crearla. I ladri (e solo i ladri) possono usare l'abilità Disattivare Congegni per disarmare le trappole magiche. Una trappola magica ha generalmente una CD di 25 + il livello dell'incantesimo usato per crearla. Un ladro che batte la CD di una trappola di 10 o più con una prova di Disattivare Congegni può studiare una trappola, capire come funziona e aggirarla (con il suo gruppo) senza disarmarla."
+          ],
+          [
+              5,
+              "Attacco Furtivo +3d6",
+              ""
+          ],
+          [
+              6,
+              "Percepire Trappole +2",
+              ""
+          ],
+          [
+              7,
+              "Attacco Furtivo +4d6",
+              ""
+          ],
+          [
+              9,
+              "Attacco Furtivo +5d6",
+              ""
+          ],
+          [
+              11,
+              "Attacco Furtivo +6d6",
+              ""
+          ],
+          [
+              13,
+              "Attacco Furtivo +7d6",
+              ""
+          ],
+          [
+              15,
+              "Attacco Furtivo +8d6",
+              ""
+          ],
+          [
+              17,
+              "Attacco Furtivo +9d6",
+              ""
+          ],
+          [
+              19,
+              "Attacco Furtivo +10d6",
+              ""
+          ],
+          [
+              9,
+              "Percepire Trappole +3",
+              ""
+          ],
+          [
+              12,
+              "Percepire Trappole +4",
+              ""
+          ],
+          [
+              15,
+              "Percepire Trappole +5",
+              ""
+          ],
+          [
+              18,
+              "Percepire Trappole +6",
+              ""
+          ],
+          [
+              0,
+              "Competenza in Armi e Armature",
+              "I ladri sono competenti con tutte le armi semplici, più la balestra a mano, lo stocco, il manganello, l'arco corto e la spada corta. I ladri sono competenti nelle armature leggere, ma non negli scudi."
+          ]
+        ]
+      },
+      {
+        "id": "Sorcerer",
+        "name": "Stregone",
+        "description": "<p><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 50%, 30% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/sorcerer-male.png\" alt=\"\" width=\"300\">Discendenti di stirpi per loro natura magiche, prescelti dagli déi, progenie di mostri, pedine del destino e del fato, o semplicemente casi fortuiti della imprevedibilità della magia, gli stregoni traggono da se stessi la loro Forza arcana che rilasciano in modi che pochi mortali possono immaginare. Inorgogliti da una vita che minaccia sempre di essere consumata dai loro poteri innati, queste anime toccate dalla magia assecondano continuamente ed affinano le loro capacità misteriose, imparando gradualmente a sfruttare il loro retaggio e a ricercare con voluttà talenti arcani sempre maggiori. Diversi, come le loro capacità e stirpi magiche innate, sono i modi in cui questi incantatori scelgono di utilizzare i loro doni. Mentre alcuni cercano di dominare le loro capacità con la meditazione e la disciplina, diventando maestri della loro stirpe, altri cedono alla loro stessa magia, lasciandola governare le loro vite con risultati spesso sorprendenti. Nonostante ciò, gli stregoni vivono e respirano quello che altri incantatori perseguono dedicando vite intere, e per loro la magia è più di un vantaggio o di un campo di studio: è la vita stessa.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d4.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe dello stregone (e la caratteristica chiave per ogni abilità) sono Raggirare (Car), Concentrazione (COS), Artigianato (Int), Conoscenza (arcana) (Int), Professione (Sag) e Sapienza Magica (Int).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (2 + modificatore INT) x 4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello addizionale: </strong>2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Dean Spencer.</span></p>"
+      },
+      {
+        "id": "Warrior (NPC)",
+        "name": "Combattente (PNG)",
+        "description": "<p class=\"p1\"><strong>HDado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del combattente (e l'abilità chiave per ciascuna abilità) sono Scalare (For), Addestrare Animali (Car), Intimidire (Car), Saltare (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello: </strong>(2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo: </strong>2 + modificatore INT.</p>"
       },
       {
         "id": "Wizard",
