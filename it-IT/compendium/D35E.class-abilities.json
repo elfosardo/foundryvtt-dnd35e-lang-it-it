@@ -209,6 +209,17 @@
             ]
         },
         {
+            "id": "Resist Nature's Lure",
+            "name": "Resistenza al Richiamo della Natura",
+            "description": "<p>A partire dal 4 ° livello, un druido ottiene bonus +4 ai tiri salvezza contro le capacità magiche dei folletti.</p>",
+            "classes": [
+                [
+                    "Druido",
+                    4
+                ]
+            ]
+        },
+        {
             "id": "Scribe Scroll",
             "name": "Scrivere Pergamene",
             "description": "<h3><span id=\"Prerequisite\" class=\"mw-headline\">Prerequisiti</span></h3><p>Incantatore livello 1.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Descrizione</span></h3>\n<p>Puoi creare una pergamena di qualsiasi incantesimo che conosci. Scrivere una pergamena richiede un giorno per ogni 1.000 mo nel suo prezzo base. Il prezzo base di una pergamena è il livello dell'incantesimo x il livello dell'incantatore x 25 mo. Per scrivere una pergamena, devi spendere 1/25 di questo prezzo base in PE e utilizzare materie prime che costano la metà di questo prezzo base.</p>\n<p>Qualsiasi pergamena che contiene un incantesimo con un materiale costoso o un costo in PE comporta una spesa proporzionata. Oltre ai costi derivati dal prezzo base, devi spendere la componente materiale o pagare i PE quando scrivi la pergamena.</p>",
