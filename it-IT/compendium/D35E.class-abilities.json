@@ -5,6 +5,32 @@
       },
     "entries": [
         {
+            "id": "Abundant Step",
+            "name": "Passo Abbondante",
+            "description": "<p>Un monaco può spostarsi magicamente tra gli spazi, come per l’incantesimo porta dimensionale, una volta al giorno. Il suo livello da incantatore è la metà del suo attuale livello da monaco (arrotondato per difetto)</p>",
+            "classes": [
+                [
+                    "Monk",
+                    12
+                ]
+            ]
+        },
+        {
+            "id": "Animal Companion",
+            "name": "Compagno Animale",
+            "description": "<p style=\"margin-top: 0px;\">Il compagno animale di un druido o di un ranger è diverso da un normale animale del suo genere in molti modi. Il compagno animale di un druido è superiore a un normale animale della sua specie e ha poteri speciali, come descritto di seguito.</p>\n<p>Druido o ranger ottiene un compagno animale selezionato dal seguente elenco: tasso, cammello, topo crudele, cane, cane da galoppo, aquila, falco, cavallo (leggero o pesante), gufo, pony, serpente (vipera piccola o media) o lupo.</p>\n<p>Il livello effettivo da druido del Ranger è la metà del suo livello da Ranger e un Ranger può scegliere dagli elenchi alternativi di compagni animali proprio come un Druido può, anche se il suo livello da Druido effettivo è la metà del suo livello da Ranger. Come un druido, un ranger non può selezionare un animale alternativo se la scelta ridurrebbe il suo livello effettivo di druido al di sotto del 1°.</p>\n<table cellspacing=\"0\">\n<tbody>\n<tr style=\"height: 17px;\">\n<th align=\"left\">Livello di Classe</th>\n<th>DV Bonus</th>\n<th>Armatura Naturale Agg.</th>\n<th>For/Des Agg.</th>\n<th style=\"width: 78px; height: 17px;\">Comando bonus</th>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">1°-2°</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">1</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">3°-5°</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+1</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">6°-8°</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+2</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">9°-11°</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+3</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">12°-14°</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+4</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">5</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">15°-17°</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+5</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">6</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">18°-20°</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+6</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">7</td>\n</tr>\n</tbody>\n</table>",
+            "classes": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ]
+        },
+        {
             "id": "Armor Proficiency (Heavy)",
             "name": "Competenza nelle Armature (Pesanti)",
             "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
@@ -149,6 +175,17 @@
                 [
                     "Paladino",
                     3
+                ]
+            ]
+        },
+        {
+            "id": "Bardic Music",
+            "name": "Musica Bardica",
+            "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Una volta al giorno per livello da bardo, un bardo può usare la sua canzone o la sua poetica per produrre effetti magici su coloro che lo circondano (di solito incluso se stesso, se lo desidera). Sebbene queste capacità rientrino nella categoria della musica bardica e le descrizioni trattino del canto o del suonare strumenti, possono essere tutte attivate recitando poesie, cantilenando, cantando canzoni liriche, cantando melodie, fischiando, suonando uno strumento con o senza accompagnamento vocale. Ogni abilità richiede sia un livello minimo da bardo che un numero minimo di gradi nell'abilità Intrattenere per qualificarsi; se un bardo non ha il numero di gradi richiesto in almeno un'abilità Intrattenere, non ottiene l'abilità di musica bardica finché non acquisisce i gradi necessari.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Attivare un effetto di musica bardica è un'azione standard. Alcune abilità della musica bardica richiedono concentrazione, il che significa che il bardo deve eseguire un'azione standard ogni round per mantenere l'abilità. Anche mentre usa la musica bardica che non richiede concentrazione, un bardo non può lanciare incantesimi, attivare oggetti magici completandoli (come le pergamene) o attivare oggetti magici con parole magiche (come le bacchette). Proprio come per lanciare un incantesimo con una componente verbale, un bardo sordo ha una probabilità del 20% di fallire quando tenta di usare la musica bardica. Se fallisce, il tentativo viene comunque considerato ai fini del suo limite giornaliero.</p>",
+            "classes": [
+                [
+                    "Bard",
+                    1
                 ]
             ]
         },
