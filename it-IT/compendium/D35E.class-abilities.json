@@ -192,7 +192,7 @@
         {
             "id": "Bonus Feat (Wizard)",
             "name": "Talento Bonus (Mago)",
-            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5o, 10o, 15o e 20o livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
+            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5°, 10°, 15° e 20° livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
             "classes": [
                 [
                     "Mago",
@@ -213,6 +213,28 @@
             ]
         },
         {
+            "id": "Deliver Touch Spells",
+            "name": "Trasmettere incantesimi a contatto",
+            "description": "<p>Se il padrone è di 3° livello o superiore, il famiglio può trasmettere incantesimi a contatto per il padrone. Se il padrone e il famiglio sono in contatto quando il padrone lancia un incantesimo a contatto, egli può designare il suo famiglio come “colui che crea il contatto”. Il famiglio può allora trasmettere l’incantesimo a contatto proprio come il padrone. Come di norma, se il padrone lancia un altro incantesimo prima che il contatto venga effettuato, l’incantesimo a contatto si dissolve.</p>",
+            "classes": [
+                [
+                    "Famiglio",
+                    3
+                ]
+            ]
+        },
+        {
+            "id": "Detect Evil",
+            "name": "Individuazione del Male",
+            "description": "<p>Puoi percepire la presenza del male. La quantità di informazioni rivelate dipende da quanto tempo studi una particolare area o soggetto.</p>\n<p><em>1° Round:&nbsp;</em>Presenza o assenza del male.</p>\n<p><em>2° Round:&nbsp;</em>Numero di aure malvagie (creature, oggetti o incantesimi) nell'area e il potere dell'aura malvagia più potente presente.</p>\n<p>Se hai un allineamento buono e il potere dell'aura malvagia più forte è soverchiante e il DV o il livello della fonte dell'aura è almeno il doppio del tuo livello del personaggio, rimani stordito per 1 round e l'incantesimo finisce.</p>\n<p><em>3° Round:&nbsp;</em>Il potere e la posizione di ciascuna aura. Se un'aura è al di fuori della tua linea di vista, allora ne riconosci la direzione ma non la posizione esatta.</p>\n<p><em>Potenza dell'Aura:</em>&nbsp;Il potere di un'aura malvagia dipende dal tipo di creatura o oggetto malvagio che stai rilevando e dai suoi DV, livello dell'incantatore o (nel caso di un chierico) livello di classe; vedere la tabella allegata. Se un'aura rientra in più di una categoria di forza, l'incantesimo indica la più forte delle due.</p>\n<p><em>Aura Persistente:</em>&nbsp;Un'aura malvagia permane dopo che la sua fonte originale si è dissipata (nel caso di un incantesimo) o è stata distrutta (nel caso di una creatura o di un oggetto magico). Se individuazione del male è lanciato e diretto in tale posizione, l'incantesimo indica un'aura debole (anche più debole di un'aura debole). Per quanto tempo l'aura persiste a questo livello debole dipende dal suo potere originale.</p>\n<p>Animali, trappole, veleni e altri potenziali pericoli non sono malvagi e come tali questo incantesimo non li rileva.</p>\n<p>Ad ogni round, puoi girarti per rilevare il male in una nuova area. L'incantesimo può penetrare le barriere, ma 30cm di pietra, 2.5cm di metallo comune, un sottile foglio di piombo o 90cm di legno o terra lo bloccano.</p>",
+            "classes": [
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
+        },
+        {
             "id": "Endurance",
             "name": "Resistenza Fisica",
             "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>Ottieni un bonus di +4 alle seguenti prove e tiri salvezza: prove di Nuotare effettuate per resistere ai danni non letali, prove di Costituzione effettuate per continuare a correre, prove di Costituzione effettuate per evitare danni non letali da una marcia forzata, prove di Costituzione effettuate per trattenere il respiro, prove di Costituzione fatte per evitare danni non letali da fame o sete, tiri salvezza su Tempra fatti per evitare danni non letali da ambienti caldi o freddi e tiri salvezza su Tempra per resistere ai danni da soffocamento. Inoltre, puoi dormire con un'armatura leggera o media senza diventare affaticato.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Un personaggio senza questo talento che dorme in un'armatura media o più pesante diventa automaticamente affaticato il giorno successivo.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Speciale</span></h3>\n<p>Un ranger ottiene automaticamente Resistenza come talento bonus al 3° livello. Non ha bisogno di selezionarlo.</p>\n<p>&nbsp;</p>",
@@ -220,6 +242,90 @@
                 [
                     "Ranger",
                     3
+                ]
+            ]
+        },
+        {
+            "id": "Evasion",
+            "name": "Eludere",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Puoi evitare attacchi anche magici e insoliti con grande agilità. Se effettui con successo un tiro salvezza sui Riflessi contro un attacco che normalmente infligge metà del danno con un tiro salvezza riuscito, non subisci invece alcun danno. Eludere può essere usato solo se indossi un'armatura leggera o nessuna armatura. Quando sei indifeso non ottieni il vantaggio di Eludere.</span></p>",
+            "classes": [
+                [
+                    "Monaco",
+                    2
+                ],
+                [
+                    "Ranger",
+                    9
+                ],
+                [
+                    "Ladro",
+                    2
+                ],
+                [
+                    "Compagno Animale",
+                    3
+                ]
+            ]
+        },
+        {
+            "id": "Lay on Hands",
+            "name": "Imposizione delle Mani",
+            "description": "<p>A partire dal 2° livello, un paladino con un punteggio di Carisma di 12 o superiore può curare le ferite (le sue o quelle di altri) con il tocco. Ogni giorno può curare un numero totale di punti ferita pari al suo livello moltiplicato per il suo bonus di carisma. Un paladino può scegliere di dividere la sua guarigione tra più bersagli e non è obbligato ad usarla tutta in una volta. Usare l'imposizione delle mani è un'azione standard. </p> \n <p> & nbsp; </p> \n <p> In alternativa, un paladino può usare uno o tutti questi poteri curativi per infliggere danni a creature non morte. Usare l'imposizione delle mani in questo modo richiede un attacco di tocco in mischia riuscito e non provoca un attacco di opportunità. Il paladino decide quanti punti della sua assegnazione giornaliera usare come danno dopo aver toccato con successo una creatura non morta.</p>",
+            "classes": [
+                [
+                    "Paladino",
+                    2
+                ]
+            ]
+        },
+        {
+            "id": "Martial Weapon Proficiency (All)",
+            "name": "Competenza nelle Armi da Guerra (Tutte)",
+            "description": "<p>Sai come usare qualsiasi tipo di arma da guerra in combattimento. Effettui normalmente i tiri per colpire con l'arma selezionata.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Psychic Warrior",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Purity of Body",
+            "name": "Purezza del Corpo",
+            "description": "Al 5° livello, un monaco guadagna l’immunità a tutte le malattie tranne le malattie soprannaturali e magiche.",
+            "classes": [
+                [
+                    "Monk",
+                    5
                 ]
             ]
         },
@@ -270,7 +376,53 @@
         {
             "id": "Shield Proficiency",
             "name": "Competenza negli Scudi",
-            "description": "<p>Puoi usare uno scudo e subire solo le penalità standard. Quando si utilizza uno scudo di cui non si è competenti, si subisce la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, comprese le prove di Cavalcare.</p>"
+            "description": "<p>Puoi usare uno scudo e subire solo le penalità standard. Quando si utilizza uno scudo di cui non si è competenti, si subisce la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, comprese le prove di Cavalcare.</p>",
+            "classes": [
+                [
+                    "Aristocratico (PNG)",
+                    1
+                ],
+                [
+                    "Barbaro",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Guerriero",
+                    1
+                ],
+                [
+                    "Combattente (PNG)",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Soulknife",
+                    1
+                ],
+                [
+                    "Psychic Warrior",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Simple Weapon Proficiency",
@@ -340,6 +492,28 @@
             ]
         },
         {
+            "id": "Slow Fall",
+            "name": "Caduta Lenta",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">: A partire dal 4° livello, un monaco può sfruttare un muro che sia ad un braccio di distanza per rallentare la sua discesa. Il monaco subisce danni come se la caduta fosse 6 metri più breve di quanto non sia realmente. La sua capacità di rallentare la caduta (cioè di ridurre l’altezza effettiva della caduta quando è vicino a un muro) migliora con l’aumento di livello fino a quando, al 20° livello, il monaco può usare un muro vicino per rallentare la discesa e cadere da qualsiasi altezza senza farsi male. </span></p>",
+            "classes": [
+                [
+                    "Monk",
+                    4
+                ]
+            ]
+        },
+        {
+            "id": "Speak with Master",
+            "name": "Parlare con il Padrone",
+            "description": "<p>Se il padrone è di 5° livello o superiore, il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici.</p>",
+            "classes": [
+                [
+                    "Famiglio",
+                    5
+                ]
+            ]
+        },
+        {
             "id": "Summon Familiar",
             "name": "Evocare Famiglio",
             "description": "<p>Un famiglio è un normale animale che acquisisce nuovi poteri e diventa una bestia magica quando viene chiamato al servizio da uno stregone o un mago. Mantiene l'aspetto, i Dadi Vita, il bonus di attacco base, i bonus ai tiri salvezza base, le abilità e i talenti dell'animale normale che era una volta, ma viene considerato come una bestia magica invece che come un animale ai fini di qualsiasi effetto che dipenda dal suo genere. Solo un animale normale e non modificato può diventare un famiglio. Un compagno animale non può funzionare anche come famiglio.</p>\n<p>Un famiglio concede anche abilità speciali al suo padrone (uno stregone o un mago), come indicato nella tabella sottostante. Queste abilità speciali si applicano solo quando il maestro e il famiglio si trovano entro 1 miglio l'uno dall'altro.</p>\n<p>I livelli delle diverse classi che hanno diritto ai famigli si sommano allo scopo di determinare le abilità del famiglio che dipendono dal livello del maestro.</p>\n<p>You can read more on familiars here @Compendium[D35E.srd-rules.pW4b8Hf6BimV87Uq]{Familiars}</p>",
@@ -359,6 +533,17 @@
             ]
         },
         {
+            "id": "Thousand Faces",
+            "name": "Mille Volti",
+            "description": "<p>Al 13 ° livello, un druido ottiene la capacità di cambiare il suo aspetto a piacimento, come se usasse 'incantesimo @Compendium[D35E.spells.q1oxGkhKHoXO1uBb]{Alter Self}, ma solo nella sua forma normale.</p>",
+            "classes": [
+                [
+                    "Druid",
+                    13
+                ]
+            ]
+        },
+        {
             "id": "Tower Shield Proficiency",
             "name": "Competenza nello Scudo Torre",
             "description": "<p>Puoi usare uno scudo torre e subire solo le penalità standard. Quando usi uno scudo con cui non sei competente, subisci la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, incluse le prove di Cavalcare.</p>",
@@ -374,6 +559,21 @@
                 [
                     "Combattente (PNG)",
                     1
+                ]
+            ]
+        },
+        {
+            "id": "Woodland Stride",
+            "name": "Andatura nel Bosco",
+            "description": "<p>Puoi muoverti attraverso qualsiasi tipo di sottobosco (come spine naturali, rovi, aree ricoperte di vegetazione e terreno simile) alla tua velocità normale e senza subire danni o subire altri impedimenti. Tuttavia, spine, rovi e aree ricoperte di vegetazione che sono stati magicamente manipolati per impedire il movimento hanno comunque effetto.</p>",
+            "classes": [
+                [
+                    "Druid",
+                    2
+                ],
+                [
+                    "Ranger",
+                    7
                 ]
             ]
         }
