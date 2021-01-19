@@ -10,7 +10,7 @@
             "description": "<p>Un monaco può spostarsi magicamente tra gli spazi, come per l’incantesimo porta dimensionale, una volta al giorno. Il suo livello da incantatore è la metà del suo attuale livello da monaco (arrotondato per difetto)</p>",
             "classes": [
                 [
-                    "Monk",
+                    "Monaco",
                     12
                 ]
             ]
@@ -190,6 +190,25 @@
             ]
         },
         {
+            "id": "Bonus Feat (Monk)",
+            "name": "Talento Bonus (Monaco)",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 1° livello, un monaco può selezionare Lotta Migliorata o Pugno Stordente come talento bonus. Al 2° livello, può selezionare Riflessi in Combattimento o Deviare Frecce come talento bonus. Al 6° livello, può selezionare Disarmare Migliorato o Sbilanciare Migliorato come talento bonus. Un monaco non ha bisogno di nessuno dei prerequisiti normalmente richiesti per questi talenti per selezionarli.</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 1</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.pH0sb40LgQjTlXVs]{Improved Grapple}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.1ZlPOPJxzl8rnwHr]{Stunning Fist}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 2</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.rJ7H4RC2xMCzR7gv]{Combat Reflexes}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.8VmsGB8g05PNUulB]{Deflect Arrows}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 6</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.9igITV6htZUcgpWr]{Improved Trip}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.4Xq3pc59Kv2f4xro]{Improved Disarm}</span></strong></p>",
+            "classes": [
+                [
+                    "Monaco",
+                    1
+                ],
+                [
+                    "Monaco",
+                    2
+                ],
+                [
+                    "Monaco",
+                    6
+                ]
+            ]
+        },
+        {
             "id": "Bonus Feat (Wizard)",
             "name": "Talento Bonus (Mago)",
             "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5°, 10°, 15° e 20° livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
@@ -231,6 +250,17 @@
                 [
                     "Paladino",
                     1
+                ]
+            ]
+        },
+        {
+            "id": "Divine Grace",
+            "name": "Grazia Divina",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 2° livello, un paladino ottiene un bonus pari al suo bonus di Carisma (se presente) a tutti i Tiri Salvezza.</span></p>",
+            "classes": [
+                [
+                    "Paladino",
+                    2
                 ]
             ]
         },
@@ -324,7 +354,7 @@
             "description": "Al 5° livello, un monaco guadagna l’immunità a tutte le malattie tranne le malattie soprannaturali e magiche.",
             "classes": [
                 [
-                    "Monk",
+                    "Monaco",
                     5
                 ]
             ]
@@ -497,8 +527,19 @@
             "description": "<p><span style=\"color: #191813; font-size: 13px;\">: A partire dal 4° livello, un monaco può sfruttare un muro che sia ad un braccio di distanza per rallentare la sua discesa. Il monaco subisce danni come se la caduta fosse 6 metri più breve di quanto non sia realmente. La sua capacità di rallentare la caduta (cioè di ridurre l’altezza effettiva della caduta quando è vicino a un muro) migliora con l’aumento di livello fino a quando, al 20° livello, il monaco può usare un muro vicino per rallentare la discesa e cadere da qualsiasi altezza senza farsi male. </span></p>",
             "classes": [
                 [
-                    "Monk",
+                    "Monaco",
                     4
+                ]
+            ]
+        },
+        {
+            "id": "Smite Evil",
+            "name": "Punire il Male",
+            "description": "<p>Una volta al giorno, un paladino può tentare di punire il male con un normale attacco in mischia. Aggiunge il suo bonus di Carisma (se presente) al suo tiro per colpire e infligge 1 danno extra per livello da paladino. Se il paladino colpisce accidentalmente una creatura che non è malvagia, punire non ha effetto, ma l'abilità è comunque utilizzata per quel giorno. </p> \n <p> Al 5° livello, e successivamente ogni cinque livelli, il paladino può punire il male una volta in più al giorno, come indicato nella tabella, fino ad un massimo di cinque volte al giorno al 20° livello.</p>",
+            "classes": [
+                [
+                    "Paladin",
+                    1
                 ]
             ]
         },
@@ -563,12 +604,61 @@
             ]
         },
         {
+            "id": "Track",
+            "name": "Seguire Tracce",
+            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Effetto</span></h3>\n<p>Trovare tracce o seguirle per 1 miglio richiede una prova di sopravvivenza riuscita. Ogni volta che le tracce diventano difficili da seguire si esegue una nuova prova di sopravvivenza. </p> \n <p> Ti muovi a metà della tua velocità normale (o alla tua velocità normale o fino al doppio della velocità normale con una penalità alla prova). La CD dipende dalla superficie e dalle condizioni prevalenti, come indicato nella tabella seguente:</p>\n<table class=\"d20\">\n<tbody>\n<tr>\n<th>Superficie</th>\n<th>CD Sopravvivenza</th>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Molto Soffice</td>\n<td>5</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Compatto</td>\n<td>15</td>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Soffice</td>\n<td>10</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Duro</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>\n<p><em><span id=\"Very_Soft_Ground\" class=\"mw-headline\">Terreno Molto Soffice</span></em></p>\n<p>Qualsiasi superficie (neve fresca, polvere spessa, fango umido) che trattiene impronte profonde e chiare.</p>\n<p><em><span id=\"Soft_Ground\" class=\"mw-headline\">Terreno Soffice</span></em></p>\n<p>Qualsiasi superficie abbastanza morbida da cedere alla pressione, ma più solida del fango umido o della neve fresca, in cui una creatura lascia impronte frequenti ma poco profonde.</p>\n<p><em><span id=\"Firm_Ground\" class=\"mw-headline\">Terreno Compatto</span></em></p>\n<p>La maggior parte delle normali superfici esterne (come prati, campi, boschi e simili) o superfici interne eccezionalmente morbide o sporche (tappeti spessi e pavimenti molto sporchi o polverosi). La creatura potrebbe lasciare delle tracce (rami spezzati o ciuffi di capelli), ma lascia impronte solo occasionali o parziali.</p>\n<p><em><span id=\"Hard_Ground\" class=\"mw-headline\">Terreno Duro</span></em></p>\n<p>Qualsiasi superficie dove non compaiono affatto le impronte, come la roccia nuda o un pavimento interno. La maggior parte dei corsi d'acqua rientra in questa categoria, poiché qualsiasi impronta lasciata viene oscurata o lavata via. La creatura lascia solo piccoli segni (graffi o sassolini spostati). </p> \n <p> Diversi modificatori possono essere applicati alla prova di Sopravvivenza, come indicato nella tabella sottostante.</p>\n<table class=\"d20 minimize\">\n<tbody>\n<tr>\n<th align=\"left\">Condizione</th>\n<th>Sopravvivenza<br>Mod CD</th>\n</tr>\n<tr>\n<td align=\"left\">Ogni tre creature nel gruppo seguito</td>\n<td>\u20131</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Dimensioni o taglia delle creature seguite:<sup>1</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Fine</td>\n<td>+8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Minuta</td>\n<td>+4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Minuscola</td>\n<td>+2</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Piccola</td>\n<td>+1</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Media</td>\n<td>+0</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Grande</td>\n<td>\u20131</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Enorme</td>\n<td>\u20132</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Mastodontica</td>\n<td>\u20134</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Colossale</td>\n<td>\u20138</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Ogni 24 da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr>\n<td align=\"left\">Ogni ora di pioggia da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Caduta neve fresca da quando sono state lasciate le tracce</td>\n<td>+10</td>\n</tr>\n<tr>\n<td align=\"left\">Poca visibilità:<sup>2</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Notte nuvolosa o senza luna</td>\n<td>+6</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Moonlight</td>\n<td>+3</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Fog or precipitation</td>\n<td>+3</td>\n</tr>\n<tr>\n<td align=\"left\">Il gruppo seguito copre le tracce (e si muove a velocità dimezzata)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td class=\"foot\" colspan=\"2\">\n<ol>\n<li>Per un gruppo di taglie miste, applica solo il modificatore per la categoria di taglia più grande.</li>\n<li>Applica solo il modificatore più grande di questa categoria.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Se fallisci una rpova di sopravvivenza, puoi riprovare dopo 1 ora (all'aperto) o 10 minuti (al chiuso) di ricerca.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Senza questo talento, puoi usare l'abilità Sopravvivenza per trovare le tracce, ma puoi seguirle solo se la CD per l'attività è 10 o inferiore. In alternativa, puoi usare l'abilità Cercare per trovare un'impronta o un segno simile del passaggio di una creatura usando le CD fornite sopra, ma non puoi usare Cercare per seguire le tracce, anche se qualcun altro le ha già trovate.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Special</span></h3>\n<p>Un ranger ha automaticamente Seguire Tracce come talento bonus. Non ha bisogno di selezionarlo.</p>\n<p>Questo talento non permette di trovare o seguire le tracce lasciate da una creatura sotto l'effetto dell'incantesimo <em> Passare senza traccia </em>.foo</p>\n<p>&nbsp;</p>",
+            "classes": [
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Turn/Rebuke Undead",
+            "name": "Scacciare/Intimorire Non Morti",
+            "description": "<p>Qualsiasi chierico (o paladino), indipendentemente dall'allineamento, ha il potere di influenzare le creature non morte canalizzando il potere della sua fede attraverso il suo simbolo sacro (o empio) (vedi @Compendium[D35E.srd-rules.TtCDZqtfB75FHqZp]{Turn or Rebuke Undead}). </p> \n <p> Un chierico buono (o un chierico neutrale che adora una divinità buona) può scacciare o distruggere creature non morte. Un chierico malvagio (o un chierico neutrale che adora una divinità malvagia) invece intimorisce o comanda tali creature. Un chierico neutrale di una divinità neutrale deve scegliere se la sua capacità di scacciare funziona come quella di un chierico buono o di un chierico malvagio. Una volta effettuata questa scelta, non può essere annullata. Questa decisione determina anche se il chierico può lanciare cure spontanee o infliggere danni.</p>\n<p>Un chierico può tentare di scacciare i non morti un numero di volte al giorno pari a 3 + il suo modificatore di Carisma. Un chierico con 5 o più gradi in Conoscenza (religione) ottiene un bonus di +2 quando si effettuano prove di scacciare non morti.</p>",
+            "classes": [
+                [
+                    "Cleric",
+                    1
+                ],
+                [
+                    "Paladin",
+                    4
+                ]
+            ]
+        },
+        {
+            "id": "Uncanny Dodge",
+            "name": "Schivare Prodigioso",
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Conservi il tuo bonus di Destrezza alla CA (se presente) anche se sei colto alla sprovvista o colpito da un attaccante invisibile. Tuttavia, perdi comunque il bonus di Destrezza alla CA se immobilizzato.</span></p>",
+            "classes": [
+                [
+                    "Barbaro",
+                    2
+                ],
+                [
+                    "Ladro",
+                    4
+                ],
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Difensore Nanico",
+                    2
+                ]
+            ]
+        },
+        {
             "id": "Woodland Stride",
             "name": "Andatura nel Bosco",
             "description": "<p>Puoi muoverti attraverso qualsiasi tipo di sottobosco (come spine naturali, rovi, aree ricoperte di vegetazione e terreno simile) alla tua velocità normale e senza subire danni o subire altri impedimenti. Tuttavia, spine, rovi e aree ricoperte di vegetazione che sono stati magicamente manipolati per impedire il movimento hanno comunque effetto.</p>",
             "classes": [
                 [
-                    "Druid",
+                    "Druido",
                     2
                 ],
                 [
