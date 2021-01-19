@@ -265,6 +265,17 @@
             ]
         },
         {
+            "id": "Divine Health",
+            "name": "Salute Divina",
+            "description": "<p>Un paladino diventa immune a tutte le malattie, comprese le malattie soprannaturali e magiche</p>",
+            "classes": [
+                [
+                    "Paladino",
+                    3
+                ]
+            ]
+        },
+        {
             "id": "Endurance",
             "name": "Resistenza Fisica",
             "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>Ottieni un bonus di +4 alle seguenti prove e tiri salvezza: prove di Nuotare effettuate per resistere ai danni non letali, prove di Costituzione effettuate per continuare a correre, prove di Costituzione effettuate per evitare danni non letali da una marcia forzata, prove di Costituzione effettuate per trattenere il respiro, prove di Costituzione fatte per evitare danni non letali da fame o sete, tiri salvezza su Tempra fatti per evitare danni non letali da ambienti caldi o freddi e tiri salvezza su Tempra per resistere ai danni da soffocamento. Inoltre, puoi dormire con un'armatura leggera o media senza diventare affaticato.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Un personaggio senza questo talento che dorme in un'armatura media o più pesante diventa automaticamente affaticato il giorno successivo.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Speciale</span></h3>\n<p>Un ranger ottiene automaticamente Resistenza come talento bonus al 3° livello. Non ha bisogno di selezionarlo.</p>\n<p>&nbsp;</p>",
@@ -295,6 +306,21 @@
                 [
                     "Compagno Animale",
                     3
+                ]
+            ]
+        },
+        {
+            "id": "Hide in Plain Sight",
+            "name": "Nascondersi in Piena Vista",
+            "description": "<p>Mentre ti trovi in qualsiasi tipo di terreno naturale, puoi usare l'abilità Nascondersi anche mentre sei osservato.</p>",
+            "classes": [
+                [
+                    "Ranger",
+                    17
+                ],
+                [
+                    "Assassino",
+                    8
                 ]
             ]
         },
@@ -540,6 +566,29 @@
                 [
                     "Paladin",
                     1
+                ]
+            ]
+        },
+        {
+            "id": "Sneak Attack",
+            "name": "Attacco Furtivo",
+            "description": "<div>Se il ladro riesce a colpire un avversario quando non è in grado di difendersi efficacemente dal suo attacco, può colpire un punto vitale per infliggere danni extra.</div>\n<div>L'attacco del ladro infligge danni extra in qualsiasi momento al suo bersaglio verrebbe negato un bonus di Destrezza alla CA (indipendentemente dal fatto che il bersaglio abbia effettivamente un bonus di Destrezza o meno), o quando il ladro fiancheggia il suo bersaglio. Questo danno extra è 1d6 al 1° livello e successivamente aumenta di 1d6 ogni due livelli da Ladro. Se il ladro ottiene un colpo critico con un attacco furtivo, questo danno extra non viene moltiplicato.</div>\n<div>Gli attacchi a distanza possono essere considerati attacchi furtivi solo se il bersaglio si trova entro 9 metri.</div>",
+            "classes": [
+                [
+                    "Ladro",
+                    1
+                ],
+                [
+                    "Arcane Trickster",
+                    2
+                ],
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Guardia Nera",
+                    4
                 ]
             ]
         },
