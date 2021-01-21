@@ -375,6 +375,16 @@
             ]
         },
         {
+            "id": "Nature Sense",
+            "name": "Senso della Natura",
+            "classes": [
+                [
+                    "Druido",
+                    1
+                ]
+            ]
+        }
+        {
             "id": "Purity of Body",
             "name": "Purezza del Corpo",
             "description": "Al 5° livello, un monaco guadagna l’immunità a tutte le malattie tranne le malattie soprannaturali e magiche.",
@@ -382,6 +392,17 @@
                 [
                     "Monaco",
                     5
+                ]
+            ]
+        },
+        {
+            "id": "Quivering Palm",
+            "name": "Palmo Tremante",
+            "description": "<p>A partire dal 15° livello, un monaco può sviluppare delle vibrazioni nel corpo di un’altra creatura che, se così desidera, possono essere fatali. Il monaco può usare l’attacco palmo tremante una volta alla settimana e deve dichiarare le sue intenzioni prima di effettuare il tiro per colpire. Costrutti, melme, vegetali, non morti, creature incorporee e creature immuni a colpi critici non ne subiscono gli effetti. Altrimenti, se il monaco colpisce con successo e il bersaglio subisce danni dal colpo, l’attacco del palmo tremante ha avuto effetto. Quindi, il monaco può scegliere di uccidere la vittima in qualsiasi momento, purché ciò accada entro un giorno per livello del monaco. Per farlo egli deve semplicemente desiderare che la vittima muoia (un’azione gratuita) e, a meno che la vittima non superi un tiro salvezza sulla Tempra (CD 10 + 1/2 del livello del monaco + modificatore di Saggezza), muore. Se il tiro salvezza ha successo, il bersaglio non sarà più soggetto agli effetti di quel particolare attacco con palmo tremante (ma potrà essere colpito da un nuovo attacco in futuro).</p>",
+            "classes": [
+                [
+                    "Monaco",
+                    15
                 ]
             ]
         },
@@ -600,6 +621,16 @@
                 [
                     "Famiglio",
                     5
+                ]
+            ]
+        },
+        {
+            "id": "Still Mind",
+            "name": "Mente Lucida",
+            "classes": [
+                [
+                    "Monaco",
+                    3
                 ]
             ]
         },

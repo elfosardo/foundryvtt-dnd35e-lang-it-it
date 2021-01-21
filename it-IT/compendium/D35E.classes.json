@@ -229,6 +229,108 @@
         "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(0 0, 0 22%, 26% 56%, 30% 91%, 24% 100%, 100% 100%, 100% 0%);\" src=\"systems/D35E/icons/art/fighter-female.png\" alt=\"\" width=\"350\" height=\"426\">Alcuni prendono le armi per gloria, ricchezza o vendetta. Altri combattono per mettersi alla prova, per proteggere gli altri o perché non sanno fare nient'altro. Altri ancora imparano i metodi delle armi per affinare i loro corpi in battaglia e dimostrare il loro coraggio nella fucina della guerra. Signori del campo di battaglia, i combattenti sono un gruppo disparato, si allenano con molte armi o solo una, perfezionano gli usi dell'armatura, apprendono le tecniche di combattimento di maestri esotici e studiano l'arte del combattimento, il tutto per modellarsi in armi viventi. Molto più che semplici teppisti, questi abili guerrieri rivelano la vera mortalità delle loro armi, trasformando pezzi di metallo in armi capaci di domare regni, massacrare mostri e risvegliare i cuori degli eserciti. Soldati, cavalieri, cacciatori e artisti della guerra, i combattenti sono campioni senza precedenti e guai a coloro che osano opporsi a loro.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d10.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del guerriero (e l'abilità chiave per ciascuna abilità) sono Arrampicarsi (For), Artigianato (Int), Addestrare Animali (Car), Intimidire (Car), Salto (For), Cavalcare (Des) e Nuotare (For).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 2 + modificatore INT.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>"
       },
       {
+        "id": "Monk",
+        "name": "Monaco",
+        "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/monk-male.png\" alt=\"\" width=\"300\">Per i veri esemplari, l'arte della guerra trascende il campo di battaglia: è uno stile di vita, una dottrina, uno stato d'animo. Questi artisti-guerrieri cercano metodi di battaglia al di là di spade e scudi, trovando armi al loro interno capaci di paralizzare o uccidere come qualsiasi lama. Questi monaci (così chiamati poiché aderiscono ad antiche filosofie e rigide discipline marziali) elevano i loro corpi per diventare armi da guerra, da asceti dalla mentalità battagliera a combattenti autodidatti. I monaci percorrono il sentiero della disciplina e coloro che hanno la volontà di perseguirlo scoprono dentro di sé non quello che sono, ma quello che dovrebbero essere.</p>\n<p class=\"p1\"><strong>Allineamento:</strong> Qualsiasi Legale.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d8.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del monaco (e la caratteristica chiave per ciascuna abilità) sono Equilibrio (Des), Scalare (For), Concentrazione (Cos), Artigianato (Int), Diplomazia (Car), Artista della Fuga (Des), Nascondersi (Des), Saltare (Str), Conoscenza (arcana) (Int), Conoscenza (religione) (Int), Ascoltare (Sag), Muoversi Silenziosamente (Des), Intrattenere (Car), Professione (Sag), Percepire Intenzioni (Sag), Osservare (Sag), Nuotare (For) e Acrobazia (Desx).</p>\n<p class=\"p1\"><strong>Punti abilità al 1° livello:</strong> (4 + modificatore Int) x4.</p>\n<p class=\"p1\"><strong>Punti abilità ad ogni livello aggiuntivo:</strong> 4 + modificatore Int.</p>\n<h2 class=\"p1\">Ex-Monaci</h2>\n<p class=\"p1\">Un monaco che diventa non legale non può guadagnare nuovi livelli come monaco ma conserva tutte le capacità del monaco.</p>\n<p class=\"p1\">Come un membro di qualsiasi altra classe, un monaco può essere un personaggio multiclasse, ma i monaci multiclasse devono affrontare una restrizione speciale. Un monaco che guadagna una nuova classe o (se è già multiclasse) guadagna un livello in un'altra classe non può mai più aumentare il suo livello da monaco, sebbene mantenga tutte le sue abilità da monaco.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
+        "nonActiveClassAbilities": [
+          [
+              0,
+              "Competenza nelle Armi e nelle Armature",
+              "I monaci sono competenti con ascia, balestra (leggera o pesante), bastone ferrato, fionda, giavellotto, kama, nunchaku, pugnale, randello, sai, shuriken e siangham. I monaci non sono competenti nelle armature e negli scudi. Quando indossa un’armatura, utilizza uno scudo, o trasporta un carico medio o pesante, un monaco perde il bonus alla CA per la Saggezza, insieme al movimento veloce e la raffica di colpi."
+          ],
+          [
+              1,
+              "Bonus alla CA (Str)",
+              "Un monaco è ben addestrato a schivare i colpi e sviluppa un “sesto senso” che gli permette di evitare anche attacchi non anticipati. Quando con ingombro nullo o leggero e senza armatura, un monaco somma il suo bonus di Saggezza (se presente) alla CA. In aggiunta un monaco guadagna un bonus di +1 alla CA al 5° livello. Questo bonus aumenta di +1 per ogni 5 livelli da monaco successivi (+2 al 10°, +3 al 15° e +4 al 20°). Questi bonus alla CA si applicano anche contro gli attacchi di contatto o quando il monaco è colto alla sprovvista. Egli perde questo bonus quando è immobilizzato o indifeso, quando indossa una qualsiasi armatura, trasporta uno scudo, o indossa un carico medio o pesante."
+          ],
+          [
+              6,
+              "Caduta Lenta 9 m.",
+              ""
+          ],
+          [
+              8,
+              "Caduta Lenta 12 m.",
+              ""
+          ],
+          [
+              10,
+              "Caduta Lenta 15 m.",
+              ""
+          ],
+          [
+              12,
+              "Caduta Lenta 18 m.",
+              ""
+          ],
+          [
+              14,
+              "Caduta Lenta 21 m.",
+              ""
+          ],
+          [
+              16,
+              "Caduta Lenta 24 m.",
+              ""
+          ],
+          [
+              18,
+              "Caduta Lenta 27 m.",
+              ""
+          ],
+          [
+              20,
+              "Caduta Lenta (qualsiasi altezza)",
+              ""
+          ],
+          [
+              11,
+              "Raffica Superiore",
+              ""
+          ],
+          [
+              17,
+              "Lingua del Sole e della Luna",
+              "Un monaco di 17° livello o più può parlare con qualsiasi creatura vivente."
+          ],
+          [
+              17,
+              "Corpo senza tempo (Str)",
+              "Dopo aver raggiunto il 17° livello, il monaco non subisce più le penalità di caratteristica per l’invecchiamento e non può essere invecchiato magicamente (qualsiasi penalità che abbia già subito rimane). I bonus continuano ad accumularsi e il monaco comunque muore di vecchiaia quando arriva il momento."
+          ],
+          [
+              3,
+              "Movimento veloce (Str)",
+              " Al 3° livello, il monaco riceve un bonus di potenziamento alla sua velocità, come mostrato sulla Tabella: Monaco. Un monaco con l’armatura o che trasporta un carico medio o pesante perde questa velocità extra."
+          ],
+          [
+              6,
+              "Movimento Veloce 6 m.",
+              ""
+          ],
+          [
+              9,
+              "Movimento Veloce 9 m.",
+              ""
+          ],
+          [
+              12,
+              "Movimento Veloce 12 m.",
+              ""
+          ],
+          [
+              15,
+              "Movimento Veloce 15 m.",
+              ""
+          ],
+          [
+              18,
+              "Movimento Veloce 18 m.",
+              ""
+          ]
+      ]
+      },
+      {
         "id": "Paladin",
         "name": "Paladino",
         "description": "<p class=\"p1\"><img style=\"border: none; float: right; shape-outside: polygon(40% 0, 0 30%, 0 90%, 30% 100%, 100% 100%, 100% 0);\" src=\"systems/D35E/icons/art/paladin-male.png\" alt=\"\" width=\"300\">Attraverso pochi eletti e degni risplende il potere del divino. Chiamati paladini, queste anime nobili dedicano le loro spade e le loro vite alla battaglia contro il male. Cavalieri, crociati e legislatori, i paladini cercano non solo di diffondere la giustizia divina, ma di incarnare gli insegnamenti delle divinità virtuose che servono. Nel perseguire i loro nobili obiettivi, aderiscono alle ferree leggi della moralità e della disciplina. Come ricompensa per la loro rettitudine, questi santi campioni sono benedetti con doni per aiutarli nelle loro ricerche: poteri per bandire il male, guarire gli innocenti e ispirare i fedeli. Anche se le loro convinzioni potrebbero portarli in conflitto con le anime che salvano, i paladini affrontano infinite sfide di fede e oscure tentazioni, rischiando la vita per fare il bene e lottando per realizzare un futuro più luminoso.</p>\n<p class=\"p1\"><strong>Allineamento: </strong>Lawful good.</p>\n<p class=\"p1\"><strong>Dado Vita:</strong> d10.</p>\n<h2 class=\"p1\">Abilità di Classe</h2>\n<p class=\"p1\">Le abilità di classe del paladino (e l'abilità chiave per ciascuna abilità) sono Concentrazione (Costituzione), Artigianato (Int), Diplomazia (Cha), Addestrare Animali (Cha), Guarigione (Sag), Conoscenza (nobiltà e regalità) (Int), Conoscenza (religione) (Int), Professione (Sag), Cavalcare (Dex) e Percepire Intenzioni (Sag).</p>\n<p class=\"p1\"><strong>Punti Abilità al 1o livello:</strong> (2 + modificatore INT) x4.</p>\n<p class=\"p1\"><strong>Punti Abilità ad ogni livello addizionale:</strong> 2 + modificatore INT.</p>\n<h2 class=\"p1\">Ex-Paladini</h2>\n<p class=\"p1\">Un paladino che cessa di essere legale buono, che intenzionalmente commette un atto malvagio o che viola grossolanamente il codice di condotta perde tutti gli incantesimi e le abilità del paladino (incluso il servizio della cavalcatura del paladino, ma non le competenze in armi, armature e scudi ). Non può progredire ulteriormente nei livelli come paladino. Riacquista le sue capacità e può riprendere ad avanzare come paladino se espia le sue colpe (vedi la descrizione dell'incantesimo <em> espiazione </em>), come appropriato.</p>\n<p class=\"p1\">Come un membro di qualsiasi altra classe, un paladino può essere un personaggio multiclasse, ma i paladini multiclasse devono affrontare una restrizione speciale. Un paladino che ottiene un livello in una classe diversa dal paladino non può mai più aumentare il suo livello da paladino, sebbene mantenga tutte le sue abilità da paladino.</p>\n<p><br><span style=\"font-size: 13px; opacity: 0.8;\">Some description after&nbsp; Pathfinder RPG Core Rulebook. \u00a9 2009, Paizo Publishing, LLC; Author: Jason Bulmahn, based on material by Jonathan Tweet, Monte Cook, and Skip Williams. Artwork by Daniel Comerci.</span></p>",
