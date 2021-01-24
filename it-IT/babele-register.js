@@ -1,3 +1,4 @@
+
 Hooks.once('init', () => {
 
 	if(typeof Babele !== 'undefined') {
@@ -6,5 +7,6 @@ Hooks.once('init', () => {
 			lang: 'it',
 			dir: 'compendium'
 		});
-    }
+	}
+
 });
