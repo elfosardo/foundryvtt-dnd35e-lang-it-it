@@ -1716,247 +1716,929 @@
         },
         {
             "id": "Damnation",
-            "name": ""
+            "name": "Damnation"
         },
         {
             "id": "Dancing Lights",
-            "name": ""
+            "name": "Luci Danzanti",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Darkness",
-            "name": ""
+            "name": "Oscurità",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Darkvision",
-            "name": ""
+            "name": "Scurovisione",
+            "class": [
+                [
+                    "Ranger",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Daylight",
-            "name": ""
+            "name": "Luce Diurna",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Daze",
-            "name": ""
+            "name": "Frastornare",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Daze Monster",
-            "name": ""
+            "name": "Frastornare Mostri",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Death Knell",
-            "name": ""
+            "name": "Rintocco di Morte",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Death Ward",
-            "name": ""
+            "name": "Interdizione alla Morte",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Paladino",
+                    4
+                ]
+            ]
         },
         {
             "id": "Deathwatch",
-            "name": ""
+            "name": "Visione della Morte",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Deeper Darkness",
-            "name": ""
+            "name": "Oscurità Profonda",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ]
+            ]
         },
         {
             "id": "Deep Slumber",
-            "name": ""
+            "name": "Sonno Profondo",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Delayed Blast Fireball",
-            "name": ""
+            "name": "Palla di Fuoco Ritardata",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ]
+            ]
         },
         {
             "id": "Delay Poison",
-            "name": ""
+            "name": "Ritarda Veleno",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Demand",
-            "name": ""
+            "name": "Esigere",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Demise Unseen",
-            "name": ""
+            "name": "Demise Unseen"
         },
         {
             "id": "Desecrate",
-            "name": ""
+            "name": "Dissacrare",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Destruction",
-            "name": ""
+            "name": "Distruzione",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ]
         },
         {
             "id": "Detect Animals or Plants",
-            "name": ""
+            "name": "Individuazione di Animali o Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Chaos",
-            "name": ""
+            "name": "Individuazione del Caos",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Evil",
-            "name": ""
+            "name": "Individuazione del Male",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Good",
-            "name": ""
+            "name": "Individuazione del Bene",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Law",
-            "name": ""
+            "name": "Individuazione della Legge",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Magic",
-            "name": ""
+            "name": "Individuazione del Magico",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Detect Poison",
-            "name": ""
+            "name": "Individuazione del Veleno",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Detect Scrying",
-            "name": ""
+            "name": "Individuazione dello Scrutamento",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Detect Secret Doors",
-            "name": ""
+            "name": "Individuazione delle Porte Segrete",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Snares and Pits",
-            "name": ""
+            "name": "Individuazione di Calappi e Trabocchetti",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Detect Thoughts",
-            "name": ""
+            "name": "Individuazione dei Pensieri",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Detect Undead",
-            "name": ""
+            "name": "Individuazione dei Non Morti",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Dictum",
-            "name": ""
+            "name": "Dettame",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ]
         },
         {
             "id": "Dimensional Anchor",
-            "name": ""
+            "name": "Ancora Dimensionale",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Dimensional Lock",
-            "name": ""
+            "name": "Serratura Dimensionale",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Dimension Door",
-            "name": ""
+            "name": "Porta Dimensionale",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Diminish Plants",
-            "name": ""
+            "name": "Rimpicciolire Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Dire Winter",
-            "name": ""
+            "name": "Dire Winter"
         },
         {
             "id": "Discern Lies",
-            "name": ""
+            "name": "Rivela Bugie",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Paladino",
+                    3
+                ]
+            ]
         },
         {
             "id": "Discern Location",
-            "name": ""
+            "name": "Rivela Locazioni",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Disguise Self",
-            "name": ""
+            "name": "Camuffare Se Stesso",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Disintegrate",
-            "name": ""
+            "name": "Disintegrazione",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Dismissal",
-            "name": ""
+            "name": "Congedo",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Dispel Chaos",
-            "name": ""
+            "name": "Dissolvi il Caos",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Paladino",
+                    4
+                ]
+            ]
         },
         {
             "id": "Dispel Evil",
-            "name": ""
+            "name": "Dissolvi il Male",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Paladino",
+                    4
+                ]
+            ]
         },
         {
             "id": "Dispel Good",
-            "name": ""
+            "name": "Dissolvi il Bene",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ]
         },
         {
             "id": "Dispel Law",
-            "name": ""
+            "name": "Dissolvi la Legge",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ]
         },
         {
             "id": "Dispel Magic",
-            "name": ""
+            "name": "Dissolvi Magie",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Displacement",
-            "name": ""
+            "name": "Distorsione",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Disrupting Weapon",
-            "name": ""
+            "name": "Arma Distruttiva",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ]
         },
         {
             "id": "Disrupt Undead",
-            "name": ""
+            "name": "Distruggere Non Morti",
+            "class": [
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Divination",
-            "name": ""
+            "name": "Divinazione",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ]
+            ]
         },
         {
             "id": "Divine Favor",
-            "name": ""
+            "name": "Favore Divino",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
         },
         {
             "id": "Divine Power",
-            "name": ""
+            "name": "Potere Divino",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ]
+            ]
         },
         {
             "id": "Dominate Animal",
-            "name": ""
+            "name": "Dominare Animali",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ]
+            ]
         },
         {
             "id": "Dominate Monster",
-            "name": ""
+            "name": "Dominare Mostri",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Dominate Person",
-            "name": ""
+            "name": "Dominare Persone",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Doom",
-            "name": ""
+            "name": "Devastazione",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Dragon Knight (Ritual)",
-            "name": ""
+            "name": "Dragon Knight (Ritual)"
         },
         {
             "id": "Dragon Strike (Ritual)",
-            "name": ""
+            "name": "Dragon Strike (Ritual)"
         },
         {
             "id": "Dream",
-            "name": ""
+            "name": "Sogno",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Dreamscape",
-            "name": ""
+            "name": "Dreamscape"
         },
         {
             "id": "Dweomer of Transference",
-            "name": ""
+            "name": "Dweomer of Transference",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Eagle's Splendor",
