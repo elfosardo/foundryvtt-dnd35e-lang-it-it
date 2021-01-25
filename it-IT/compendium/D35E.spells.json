@@ -20,67 +20,247 @@
         },
         {
             "id": "Acid Fog",
-            "name": "Nebbia Acida"
+            "name": "Nebbia Acida",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Acid Splash",
-            "name": "Fiotto Acido"
+            "name": "Fiotto Acido",
+            "class": [
+                [
+                    "Mago",
+                    0
+                ]
+            ]
         },
         {
             "id": "Aid",
-            "name": "Aiuto"
+            "name": "Aiuto",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Air Walk",
-            "name": "Camminare nell'Aria"
+            "name": "Camminare nell'Aria",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    4
+                ]
+            ]
         },
         {
             "id": "Alarm",
-            "name": "Allarme"
+            "name": "Allarme",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Align Weapon",
-            "name": "Allineare Arma"
+            "name": "Allineare Arma",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Alter Self",
-            "name": "Alterare se stessi"
+            "name": "Alterare se stessi",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Analyze Dweomer",
-            "name": "Analizzare Dweomer"
+            "name": "Analizzare Dweomer",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Animal Growth",
-            "name": "Crescita Animale"
+            "name": "Crescita Animale",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Ranger",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Animal Messenger",
-            "name": "Animale Messaggero"
+            "name": "Animale Messaggero",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Animal Shapes",
-            "name": "Forme Animali"
+            "name": "Forme Animali",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Animal Trance",
-            "name": "Trance Animale"
+            "name": "Trance Animale",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ]
+            ]
         },
         {
             "id": "Animate Dead",
-            "name": "Animare Morti"
+            "name": "Animare Morti",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Animate Objects",
-            "name": "Animare Oggetti"
+            "name": "Animare Oggetti",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ]
+            ]
         },
         {
             "id": "Animate Plants",
-            "name": "Animare Vegetali"
+            "name": "Animare Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Animate Rope",
-            "name": "Animare Corde"
+            "name": "Animare Corde",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Animus Blast",
@@ -92,35 +272,115 @@
         },
         {
             "id": "Antilife Shell",
-            "name": "Guscio Anti-Vita"
+            "name": "Guscio Anti-Vita",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Antimagic Field",
-            "name": "Campo Anti-Magia"
+            "name": "Campo Anti-Magia",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Antipathy",
-            "name": "Antipatia"
+            "name": "Antipatia",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Antiplant Shell",
-            "name": "Guscio Anti-Vegetali"
+            "name": "Guscio Anti-Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ]
+            ]
         },
         {
             "id": "Arcane Eye",
-            "name": "Occhio Arcano"
+            "name": "Occhio Arcano",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Arcane Lock",
-            "name": "Serratura Arcana"
+            "name": "Serratura Arcana",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ]
+            ]
         },
         {
             "id": "Arcane Mark",
-            "name": "Sigillo Arcano"
+            "name": "Sigillo Arcano",
+            "class": [
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Arcane Sight",
-            "name": "Vista Arcana"
+            "name": "Vista Arcana",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Armor Of Darkness",
@@ -128,7 +388,21 @@
         },
         {
             "id": "Astral Projection",
-            "name": "Protezione Astrale"
+            "name": "Protezione Astrale",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Atonement",
@@ -146,7 +420,13 @@
         },
         {
             "id": "Augury",
-            "name": "Augurio"
+            "name": "Augurio",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Awaken",
