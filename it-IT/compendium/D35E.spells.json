@@ -763,7 +763,7 @@
             "name": "Forza del Toro",
             "class": [
                 [
-                    "Blackguard",
+                    "Guardia Nera",
                     2
                 ],
                 [
@@ -790,7 +790,7 @@
         },
         {
             "id": "Burning Hands",
-            "name": "",
+            "name": "Mani Brucianti",
             "class": [
                 [
                     "Mago",
@@ -804,231 +804,915 @@
         },
         {
             "id": "Call Lightning",
-            "name": ""
+            "name": "Invocare il Fulmine",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ]
+            ]
         },
         {
             "id": "Call Lightning Storm",
-            "name": ""
+            "name": "Invoare Tempesta di Fulmini",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Calm Animals",
-            "name": ""
+            "name": "Calmare Animali",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Calm Emotions",
-            "name": ""
+            "name": "Calmare Emozioni",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Cat's Grace",
-            "name": ""
+            "name": "Grazia del Gatto",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Cause Fear",
-            "name": ""
+            "name": "Incuti Paura",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Chain Lightning",
-            "name": ""
+            "name": "Catena di Fulmini",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Changestaff",
-            "name": ""
+            "name": "Trasforma Bastone",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Chaos Hammer",
-            "name": ""
+            "name": "Chaos Hammer"
         },
         {
             "id": "Charm Animal",
-            "name": ""
+            "name": "Charme su Animali",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Charm Monster",
-            "name": ""
+            "name": "Charme sui Mostri",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Charm Person",
-            "name": ""
+            "name": "Charme su Persone",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Chill Metal",
-            "name": ""
+            "name": "Gelare il Metallo",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ]
         },
         {
             "id": "Chill Touch",
-            "name": ""
+            "name": "Tocco Gelido",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ]
+            ]
         },
         {
             "id": "Circle of Death",
-            "name": ""
+            "name": "Cerchio di Morte",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Clairaudience/Clairvoyance",
-            "name": ""
+            "name": "Chiaroudienza/Chiaroveggenza",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Clenched Fist",
-            "name": ""
+            "name": "Pugno Serrato",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Cloak of Chaos",
-            "name": ""
+            "name": "Mantello del Caos",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ]
         },
         {
             "id": "Clone",
-            "name": ""
+            "name": "Clone",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Cloudkill",
-            "name": ""
+            "name": "Nube Mortale",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Color Spray",
-            "name": ""
+            "name": "Spruzzo Colorato",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Command",
-            "name": ""
+            "name": "Comando",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Command Plants",
-            "name": ""
+            "name": "Comandare Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Command Undead",
-            "name": ""
+            "name": "Comandare Non Morti",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Commune",
-            "name": ""
+            "name": "Comunione",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ]
         },
         {
             "id": "Commune with Nature",
-            "name": ""
+            "name": "Comunione con la Natura",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ]
         },
         {
             "id": "Comprehend Languages",
-            "name": ""
+            "name": "Comprensione dei Linguaggi",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Cone of Cold",
-            "name": ""
+            "name": "Cono di Freddo",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Confusion",
-            "name": ""
+            "name": "Confusione",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Consecrate",
-            "name": ""
+            "name": "Consacrare",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Contact Other Plane",
-            "name": ""
+            "name": "Contattare altri Piani",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Contagion",
-            "name": ""
+            "name": "Contagio",
+            "class": [
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Contingency",
-            "name": ""
+            "name": "Contingenza",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Contingent Resurrection",
-            "name": ""
+            "name": "Contingent Resurrection"
         },
         {
             "id": "Continual Flame",
-            "name": ""
+            "name": "Fiamma Perenne",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Control Plants",
-            "name": ""
+            "name": "Controllare Vegetali",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Control Undead",
-            "name": ""
+            "name": "Controllare Non Morti",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Control Water",
-            "name": ""
+            "name": "Controllare Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]            
         },
         {
             "id": "Control Weather",
-            "name": ""
+            "name": "Controllare Tempo Atmosferico",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Druido",
+                    7
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Control Winds",
-            "name": ""
+            "name": "Controllare Venti",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Corrupt Weapon",
-            "name": ""
+            "name": "Corrompere un'Arma",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ]
+            ]
         },
         {
             "id": "Create Food and Water",
-            "name": ""
+            "name": "Creare Cibo e Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ]
         },
         {
             "id": "Create Greater Undead",
-            "name": ""
+            "name": "Creare Non Morti Superiori",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Create Living Vault (Ritual)",
-            "name": ""
+            "name": "Create Living Vault (Ritual)"
         },
         {
             "id": "Create Undead",
-            "name": ""
+            "name": "Creare Non Morti",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Create Water",
-            "name": ""
+            "name": "Creare Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
         },
         {
             "id": "Creeping Doom",
-            "name": ""
+            "name": "Piaga Strisciante",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Crown Of Glory",
-            "name": ""
+            "name": "Crown Of Glory"
         },
         {
             "id": "Crown of Vermin",
-            "name": ""
+            "name": "Crown of Vermin"
         },
         {
             "id": "Crushing Despair",
-            "name": ""
+            "name": "Disperazione Opprimente",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Crushing Hand",
-            "name": ""
+            "name": "Mano Stritolatrice",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
+        },
+        {
+            "id": "Cure Critical Wounds, Mass",
+            "name": "Cure Ferite Critiche di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Druido",
+                    9
+                ]
+            ]
         },
         {
             "id": "Cure Critical Wounds",
-            "name": ""
+            "name": "Cura Ferite Critiche",
+            "class": [
+                [
+                    "Guardia Nera",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    5
+                ]
+            ]
+        },
+        {
+            "id": "Cure Light Wounds, Mass",
+            "name": "Cure Ferite Leggere di Massa",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Cure Light Wounds",
-            "name": ""
+            "name": "Cura Ferite Leggere",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ]
         },
         {
             "id": "Cure Minor Wounds",
-            "name": ""
+            "name": "Cura Ferite Minori",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ]
+            ]
+        },
+        {
+            "id": "Cure Moderate Wounds, Mass",
+            "name": "Cura Ferite Moderate di Massa",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Cure Moderate Wounds",
-            "name": ""
+            "name": "Cura Ferite Moderate",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
+        },
+        {
+            "id": "Cure Serious Wounds, Mass",
+            "name": "Cura Ferite Gravi di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Cure Serious Wounds",
-            "name": ""
+            "name": "Cuira Ferite Gravi",
+            "class": [
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Paladino",
+                    4
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ]
         },
         {
             "id": "Curse Water",
-            "name": ""
+            "name": "Maledire l'Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Damnation",
