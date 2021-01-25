@@ -430,103 +430,377 @@
         },
         {
             "id": "Awaken",
-            "name": "Risveglio"
+            "name": "Risveglio",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Baleful Polymorph",
-            "name": ""
+            "name": "Metamorfosi Funesta",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Baleful Transportation",
-            "name": ""
+            "name": "Trasposizione Funesta",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ]
+            ]
         },
         {
             "id": "Bane",
-            "name": ""
+            "name": "Anatema",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Banishment",
-            "name": ""
+            "name": "Esilio",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Barkskin",
-            "name": ""
+            "name": "Pelle Coriacea",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ]
         },
         {
             "id": "Bear's Endurance",
-            "name": ""
+            "name": "Resistenza dell'Orso",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Bestow Curse",
-            "name": ""
+            "name": "Scagliare Maledizione",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Binding",
-            "name": ""
+            "name": "Legame",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Black Tentacles",
-            "name": ""
+            "name": "tentacoli Neri",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Blade Barrier",
-            "name": ""
+            "name": "Barriera di Lame",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ]
+            ]
         },
         {
             "id": "Blasphemy",
-            "name": ""
+            "name": "Blasfemia",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ]
         },
         {
             "id": "Bless",
-            "name": ""
+            "name": "Benedizione",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
         },
         {
             "id": "Bless Water",
-            "name": ""
+            "name": "Benedire l'Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
         },
         {
             "id": "Bless Weapon",
-            "name": ""
+            "name": "Benedire un'Arma",
+            "class": [
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
+        },
+        {
+            "id": "Blight",
+            "name": "Inaridire",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Blindness/Deafness",
-            "name": ""
+            "name": "Cecità/Sordità",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Blink",
-            "name": ""
+            "name": "Intermittenza",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Blur",
-            "name": ""
+            "name": "Sfocatura",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Bolt Of Glory",
-            "name": ""
+            "name": "Bolt Of Glory"
         },
         {
             "id": "Bolts of Bedevilment",
-            "name": ""
+            "name": "Bolts of Bedevilment"
         },
         {
             "id": "Brain Spider",
-            "name": ""
+            "name": "Ragno Mentale",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ]
         },
         {
             "id": "Break Enchantment",
-            "name": ""
+            "name": "Spezzare Incantamento",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Paladino",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Bull's Strength",
-            "name": ""
+            "name": "Forza del Toro",
+            "class": [
+                [
+                    "Blackguard",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Burning Hands",
-            "name": ""
-        },
-        {
-            "id": "call ligh",
-            "name": ""
+            "name": "",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Call Lightning",
