@@ -2748,15 +2748,15 @@
             "name": "Contrastare Elementi",
             "class": [
                 [
-                    "Cleric",
+                    "Chierico",
                     1
                 ],
                 [
-                    "Druid",
+                    "Druido",
                     1
                 ],
                 [
-                    "Paladin",
+                    "Paladino",
                     1
                 ],
                 [
@@ -2764,17 +2764,17 @@
                     1
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     1
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     1
                 ]
             ],
             "domain": [
                 [
-                    "Sun",
+                    "Sole",
                     1
                 ]
             ]
@@ -2784,15 +2784,15 @@
             "name": "Risucchio di Energia",
             "class": [
                 [
-                    "Cleric",
+                    "Chierico",
                     9
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     9
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     9
                 ]
             ]
@@ -2802,11 +2802,11 @@
             "name": "Debilitazione",
             "class": [
                 [
-                    "Wizard",
+                    "Mago",
                     4
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     4
                 ]
             ]
@@ -2816,11 +2816,11 @@
             "name": "Ingrandire Persone di Massa",
             "class": [
                 [
-                    "Wizard",
+                    "Mago",
                     4
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     4
                 ]
             ]
@@ -2830,17 +2830,17 @@
             "name": "Ingrandire Persone",
             "class": [
                 [
-                    "Wizard",
+                    "Mago",
                     1
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     1
                 ]
             ],
             "domain": [
                 [
-                    "Strength",
+                    "Forza",
                     1
                 ]
             ]
@@ -2854,7 +2854,7 @@
             "name": "Intralciare",
             "class": [
                 [
-                    "Druid",
+                    "Druido",
                     1
                 ],
                 [
@@ -2864,7 +2864,7 @@
             ],
             "domain": [
                 [
-                    "Plant",
+                    "Vegetale",
                     1
                 ]
             ]
@@ -2874,17 +2874,17 @@
             "name": "Estasiare",
             "class": [
                 [
-                    "Bard",
+                    "Bardo",
                     2
                 ],
                 [
-                    "Cleric",
+                    "Chierico",
                     2
                 ]
             ],
             "domain": [
                 [
-                    "Nobility",
+                    "Nobiltà",
                     2
                 ]
             ]
@@ -2894,13 +2894,13 @@
             "name": "Scudo Entropico",
             "class": [
                 [
-                    "Cleric",
+                    "Chierico",
                     1
                 ]
             ],
             "domain": [
                 [
-                    "Luck",
+                    "Fortuna",
                     1
                 ]
             ]
@@ -2926,15 +2926,15 @@
             "name": "Cancellare",
             "class": [
                 [
-                    "Bard",
+                    "Bardo",
                     1
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     1
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     1
                 ]
             ],
@@ -2954,15 +2954,15 @@
             "name": "Transizione Eterea",
             "class": [
                 [
-                    "Cleric",
+                    "Chierico",
                     7
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     7
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     7
                 ]
             ]
@@ -2972,15 +2972,15 @@
             "name": "Forma Eterea",
             "class": [
                 [
-                    "Cleric",
+                    "Chierico",
                     9
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     9
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     9
                 ]
             ]
@@ -2990,15 +2990,15 @@
             "name": "Ritirata Rapida",
             "class": [
                 [
-                    "Bard",
+                    "Bardo",
                     1
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     1
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     1
                 ]
             ]
@@ -3008,11 +3008,11 @@
             "name": "Rune Esplosive",
             "class": [
                 [
-                    "Wizard",
+                    "Mago",
                     3
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     3
                 ]
             ],
@@ -3028,15 +3028,15 @@
             "name": "Sguardo Penetrante",
             "class": [
                 [
-                    "Bard",
+                    "Bardo",
                     6
                 ],
                 [
-                    "Wizard",
+                    "Mago",
                     6
                 ],
                 [
-                    "Sorcerer",
+                    "Stregone",
                     6
                 ]
             ]
