@@ -1,6 +1,6 @@
 {
     "name": "FoundryVTT-dnd35e-it",
-    "title": "DnD3.5e Italian Translation",
+    "title": "3.5e Translation Italian",
     "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
     "version": "0.2.1",
     "minimumCoreVersion" : "0.7.8",
