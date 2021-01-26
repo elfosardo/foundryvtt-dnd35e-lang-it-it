@@ -1,7 +1,8 @@
 {
     "label": "Incantesimi",
     "mapping": {
-        "class": "data.learnedAt.class"
+        "class": "data.learnedAt.class",
+        "domain": "data.learnedAt.domain"
     },
     "entries": [
         {
@@ -2641,100 +2642,404 @@
             ]
         },
         {
+            "id": "Eagle's Splendor, Mass",
+            "name": "Splendore dell'Aquila di Massa",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
+        },
+        {
             "id": "Eagle's Splendor",
-            "name": ""
+            "name": "Splendore dell'Aquila",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Earthquake",
-            "name": ""
+            "name": "Terremoto",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Eclipse",
-            "name": ""
+            "name": "Eclipse"
         },
         {
             "id": "Eidolon",
-            "name": ""
+            "name": "Eidolon"
         },
         {
             "id": "Elemental Swarm",
-            "name": ""
+            "name": "Sciame Elementale",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    9
+                ],
+                [
+                    "Terra",
+                    9
+                ],
+                [
+                    "Fuoco",
+                    9
+                ],
+                [
+                    "Acqua",
+                    9
+                ]
+            ]
         },
         {
             "id": "Endure Elements",
-            "name": ""
+            "name": "Contrastare Elementi",
+            "class": [
+                [
+                    "Cleric",
+                    1
+                ],
+                [
+                    "Druid",
+                    1
+                ],
+                [
+                    "Paladin",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Wizard",
+                    1
+                ],
+                [
+                    "Sorcerer",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Sun",
+                    1
+                ]
+            ]
         },
         {
             "id": "Energy Drain",
-            "name": ""
+            "name": "Risucchio di Energia",
+            "class": [
+                [
+                    "Cleric",
+                    9
+                ],
+                [
+                    "Wizard",
+                    9
+                ],
+                [
+                    "Sorcerer",
+                    9
+                ]
+            ]
         },
         {
             "id": "Enervation",
-            "name": ""
+            "name": "Debilitazione",
+            "class": [
+                [
+                    "Wizard",
+                    4
+                ],
+                [
+                    "Sorcerer",
+                    4
+                ]
+            ]
+        },
+        {
+            "id": "Enlarge Person, Mass",
+            "name": "Ingrandire Persone di Massa",
+            "class": [
+                [
+                    "Wizard",
+                    4
+                ],
+                [
+                    "Sorcerer",
+                    4
+                ]
+            ]
         },
         {
             "id": "Enlarge Person",
-            "name": ""
+            "name": "Ingrandire Persone",
+            "class": [
+                [
+                    "Wizard",
+                    1
+                ],
+                [
+                    "Sorcerer",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Strength",
+                    1
+                ]
+            ]
         },
         {
             "id": "Enslave (Ritual)",
-            "name": ""
+            "name": "Enslave (Ritual)"
         },
         {
             "id": "Entangle",
-            "name": ""
+            "name": "Intralciare",
+            "class": [
+                [
+                    "Druid",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Plant",
+                    1
+                ]
+            ]
         },
         {
             "id": "Enthrall",
-            "name": ""
+            "name": "Estasiare",
+            "class": [
+                [
+                    "Bard",
+                    2
+                ],
+                [
+                    "Cleric",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Nobility",
+                    2
+                ]
+            ]
         },
         {
             "id": "Entropic Shield",
-            "name": ""
+            "name": "Scudo Entropico",
+            "class": [
+                [
+                    "Cleric",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Luck",
+                    1
+                ]
+            ]
         },
         {
             "id": "Epic Counterspell",
-            "name": ""
+            "name": "Epic Counterspell"
         },
         {
             "id": "Epic Mage Armor",
-            "name": ""
+            "name": "Epic Mage Armor"
         },
         {
             "id": "Epic Repulsion",
-            "name": ""
+            "name": "Epic Repulsion"
         },
         {
             "id": "Epic Spell Reflection",
-            "name": ""
+            "name": "Epic Spell Reflection"
         },
         {
             "id": "Erase",
-            "name": ""
+            "name": "Cancellare",
+            "class": [
+                [
+                    "Bard",
+                    1
+                ],
+                [
+                    "Wizard",
+                    1
+                ],
+                [
+                    "Sorcerer",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    1
+                ]
+            ]
         },
         {
             "id": "Eternal Freedom",
-            "name": ""
+            "name": "Eternal Freedom"
         },
         {
             "id": "Ethereal Jaunt",
-            "name": ""
+            "name": "Transizione Eterea",
+            "class": [
+                [
+                    "Cleric",
+                    7
+                ],
+                [
+                    "Wizard",
+                    7
+                ],
+                [
+                    "Sorcerer",
+                    7
+                ]
+            ]
         },
         {
             "id": "Etherealness",
-            "name": ""
+            "name": "Forma Eterea",
+            "class": [
+                [
+                    "Cleric",
+                    9
+                ],
+                [
+                    "Wizard",
+                    9
+                ],
+                [
+                    "Sorcerer",
+                    9
+                ]
+            ]
         },
         {
             "id": "Expeditious Retreat",
-            "name": ""
+            "name": "Ritirata Rapida",
+            "class": [
+                [
+                    "Bard",
+                    1
+                ],
+                [
+                    "Wizard",
+                    1
+                ],
+                [
+                    "Sorcerer",
+                    1
+                ]
+            ]
         },
         {
             "id": "Explosive Runes",
-            "name": ""
+            "name": "Rune Esplosive",
+            "class": [
+                [
+                    "Wizard",
+                    3
+                ],
+                [
+                    "Sorcerer",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    4
+                ]
+            ]
         },
         {
             "id": "Eyebite",
-            "name": ""
+            "name": "Sguardo Penetrante",
+            "class": [
+                [
+                    "Bard",
+                    6
+                ],
+                [
+                    "Wizard",
+                    6
+                ],
+                [
+                    "Sorcerer",
+                    6
+                ]
+            ]
         },
         {
             "id": "Fabricate",
