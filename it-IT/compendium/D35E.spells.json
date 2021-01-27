@@ -4243,95 +4243,351 @@
         },
         {
             "id": "Gaseous Form",
-            "name": ""
+            "name": "Forma Gassosa",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    3
+                ]
+            ]
         },
         {
             "id": "Gate",
-            "name": ""
+            "name": "Portale",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Gloria",
+                    9
+                ]
+            ]
         },
         {
             "id": "GATHERING OF MAGGOTS",
-            "name": ""
+            "name": "GATHERING OF MAGGOTS"
         },
         {
             "id": "Geas/Quest",
-            "name": ""
+            "name": "Costrizione/Cerca",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    6
+                ],
+                [
+                    "Nobiltà",
+                    6
+                ]
+            ]
         },
         {
             "id": "Genesis",
-            "name": ""
+            "name": "Genesis",
+            "domain": [
+                [
+                    "Creazione",
+                    9
+                ]
+            ]
         },
         {
             "id": "Gentle Repose",
-            "name": ""
+            "name": "Riposo Inviolato",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Riposo",
+                    2
+                ]
+            ]
         },
         {
             "id": "Ghost Sound",
-            "name": ""
+            "name": "Suono Fantasma",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Ghoul Touch",
-            "name": ""
+            "name": "Tocco del Ghoul",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Giant Vermin",
-            "name": ""
+            "name": "Parassiti Giganti",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    4
+                ]
+            ]
         },
         {
             "id": "Glibness",
-            "name": ""
+            "name": "Loquacità",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Bardo",
+                    3
+                ]
+            ]
         },
         {
             "id": "Glitterdust",
-            "name": ""
+            "name": "Polvere Luccicante",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Globe of Invulnerability",
-            "name": ""
+            "name": "Globo di Invulnerabilità",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ]
+            ]
         },
         {
             "id": "Glossolalia",
-            "name": ""
+            "name": "Glossolalia",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ]
+            ]
         },
         {
             "id": "Glyph of Warding",
-            "name": ""
+            "name": "Glifo di Interdizione",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    3
+                ]
+            ]
         },
         {
             "id": "Goodberry",
-            "name": ""
+            "name": "Bacche Benefiche",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ]
+            ]
         },
         {
             "id": "Good Hope",
-            "name": ""
+            "name": "Buone Speranze",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ]
+            ]
         },
         {
             "id": "Grasping Hand",
-            "name": ""
+            "name": "Mano Stringente",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Forza",
+                    7
+                ]
+            ]
         },
         {
             "id": "Grease",
-            "name": ""
+            "name": "Unto",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Greater Ruin",
-            "name": ""
+            "name": "Greater Ruin"
         },
         {
             "id": "Greater Spell Resistance",
-            "name": ""
+            "name": "Greater Spell Resistance"
         },
         {
             "id": "Guards and Wards",
-            "name": ""
+            "name": "Vigilanza e Interdizione",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Guidance",
-            "name": ""
+            "name": "Guida",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ]
+            ]
         },
         {
             "id": "Gust of Wind",
-            "name": ""
+            "name": "Folata di Vento",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Hallow",
