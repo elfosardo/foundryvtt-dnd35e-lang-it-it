@@ -985,6 +985,12 @@
                     "Druido",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Tempo Atmosferico",
+                    3
+                ]
             ]
         },
         {
@@ -993,6 +999,12 @@
             "class": [
                 [
                     "Druido",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Tempo Atmosferico",
                     5
                 ]
             ]
@@ -1009,6 +1021,12 @@
                     "Ranger",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    1
+                ]
             ]
         },
         {
@@ -1021,6 +1039,16 @@
                 ],
                 [
                     "Chierico",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    2
+                ],
+                [
+                    "Legge",
                     2
                 ]
             ]
@@ -1079,6 +1107,12 @@
                     "Stregone",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    1
+                ]
             ]
         },
         {
@@ -1091,6 +1125,12 @@
                 ],
                 [
                     "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
                     6
                 ]
             ]
@@ -1107,7 +1147,13 @@
         },
         {
             "id": "Chaos Hammer",
-            "name": "Chaos Hammer"
+            "name": "Martello del Caos",
+            "domain": [
+                [
+                    "Caos",
+                    4
+                ]
+            ]
         },
         {
             "id": "Charm Animal",
@@ -1139,6 +1185,12 @@
                     "Stregone",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    5
+                ]
             ]
         },
         {
@@ -1155,6 +1207,12 @@
                 ],
                 [
                     "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
                     1
                 ]
             ]
@@ -1213,6 +1271,12 @@
                     "Stregone",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    3
+                ]
             ]
         },
         {
@@ -1227,6 +1291,12 @@
                     "Stregone",
                     8
                 ]
+            ],
+            "domain": [
+                [
+                    "Forza",
+                    8
+                ]
             ]
         },
         {
@@ -1235,6 +1305,12 @@
             "class": [
                 [
                     "Chierico",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
                     8
                 ]
             ]
@@ -1303,6 +1379,12 @@
                     "Ranger",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    4
+                ]
             ]
         },
         {
@@ -1341,6 +1423,12 @@
                     "Ranger",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    5
+                ]
             ]
         },
         {
@@ -1377,6 +1465,12 @@
                     "Stregone",
                     5
                 ]
+            ],
+            "domain": [
+                [
+                    "Acqua",
+                    6
+                ]
             ]
         },
         {
@@ -1393,6 +1487,16 @@
                 ],
                 [
                     "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Follia",
+                    4
+                ],
+                [
+                    "Inganno",
                     4
                 ]
             ]
@@ -1445,6 +1549,12 @@
                     "Stregone",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    3
+                ]
             ]
         },
         {
@@ -1491,6 +1601,12 @@
                     "Druido",
                     8
                 ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    8
+                ]
             ]
         },
         {
@@ -1527,7 +1643,13 @@
                     "Stregone",
                     6
                 ]
-            ]            
+            ]    ,
+            "domain": [
+                [
+                    "Acqua",
+                    4
+                ]
+            ]        
         },
         {
             "id": "Control Weather",
@@ -1549,6 +1671,16 @@
                     "Stregone",
                     7
                 ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    7
+                ],
+                [
+                    "Tempo Atmosferico",
+                    7
+                ]
             ]
         },
         {
@@ -1558,6 +1690,16 @@
                 [
                     "Druido",
                     5
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    5
+                ],
+                [
+                    "Tempo Atmosferico",
+                    6
                 ]
             ]
         },
@@ -1579,6 +1721,12 @@
                     "Chierico",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Creazione",
+                    3
+                ]
             ]
         },
         {
@@ -1595,6 +1743,12 @@
                 ],
                 [
                     "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Morte",
                     8
                 ]
             ]
@@ -1619,6 +1773,16 @@
                     "Stregone",
                     6
                 ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    6
+                ],
+                [
+                    "Male",
+                    6
+                ]
             ]
         },
         {
@@ -1637,6 +1801,12 @@
                     "Paladino",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Creazione",
+                    1
+                ]
             ]
         },
         {
@@ -1647,11 +1817,23 @@
                     "Druido",
                     7
                 ]
+            ],
+            "domain": [
+                [
+                    "Rettili",
+                    7
+                ]
             ]
         },
         {
             "id": "Crown Of Glory",
-            "name": "Crown Of Glory"
+            "name": "Crown Of Glory",
+            "domain": [
+                [
+                    "Gloria",
+                    8
+                ]
+            ]
         },
         {
             "id": "Crown of Vermin",
@@ -1687,6 +1869,12 @@
                     "Stregone",
                     9
                 ]
+            ],
+            "domain": [
+                [
+                    "Forza",
+                    9
+                ]
             ]
         },
         {
@@ -1700,6 +1888,12 @@
                 [
                     "Druido",
                     9
+                ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    8
                 ]
             ]
         },
@@ -1723,6 +1917,12 @@
                     "Druido",
                     5
                 ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    4
+                ]
             ]
         },
         {
@@ -1740,6 +1940,12 @@
                 [
                     "Druido",
                     6
+                ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    5
                 ]
             ]
         },
@@ -1770,6 +1976,12 @@
                 [
                     "Ranger",
                     2
+                ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    1
                 ]
             ]
         },
@@ -1833,6 +2045,12 @@
                     "Ranger",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    2
+                ]
             ]
         },
         {
@@ -1877,6 +2095,12 @@
                     "Ranger",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    3
+                ]
             ]
         },
         {
@@ -1912,7 +2136,7 @@
             ]
         },
         {
-            "id": "Oscurità",
+            "id": "Darkness",
             "name": "Oscurità",
             "class": [
                 [
