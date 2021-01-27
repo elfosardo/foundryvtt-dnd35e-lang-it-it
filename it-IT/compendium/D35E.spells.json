@@ -2261,6 +2261,12 @@
                     "Chierico",
                     2
                 ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    2
+                ]
             ]
         },
         {
@@ -2279,6 +2285,16 @@
                     "Paladino",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    4
+                ],
+                [
+                    "Riposo",
+                    4
+                ]
             ]
         },
         {
@@ -2287,6 +2303,12 @@
             "class": [
                 [
                     "Chierico",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Riposo",
                     1
                 ]
             ]
@@ -2305,6 +2327,12 @@
                 ],
                 [
                     "Chierico",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
                     3
                 ]
             ]
@@ -2379,6 +2407,16 @@
                     "Stregone",
                     8
                 ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    8
+                ],
+                [
+                    "Nobiltà",
+                    8
+                ]
             ]
         },
         {
@@ -2393,6 +2431,12 @@
                     "Chierico",
                     2
                 ]
+            ],
+            "domain": [
+                [
+                    "Male",
+                    2
+                ]
             ]
         },
         {
@@ -2401,6 +2445,16 @@
             "class": [
                 [
                     "Chierico",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    7
+                ],
+                [
+                    "Riposo",
                     7
                 ]
             ]
@@ -2553,6 +2607,12 @@
                     "Stregone",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    1
+                ]
             ]
         },
         {
@@ -2583,6 +2643,12 @@
                 ],
                 [
                     "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
                     2
                 ]
             ]
@@ -2635,6 +2701,12 @@
                     "Stregone",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    7
+                ]
             ]
         },
         {
@@ -2675,6 +2747,12 @@
                     "Stregone",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    4
+                ]
             ]
         },
         {
@@ -2707,6 +2785,12 @@
                     "Paladino",
                     3
                 ]
+            ],
+            "domain": [
+                [
+                    "Nobiltà",
+                    4
+                ]
             ]
         },
         {
@@ -2723,6 +2807,12 @@
                 ],
                 [
                     "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
                     8
                 ]
             ]
@@ -2747,6 +2837,12 @@
                     "Stregone",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    1
+                ]
             ]
         },
         {
@@ -2760,6 +2856,12 @@
                 [
                     "Stregone",
                     6
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    7
                 ]
             ]
         },
@@ -2793,6 +2895,12 @@
                     "Paladino",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    5
+                ]
             ]
         },
         {
@@ -2807,6 +2915,12 @@
                     "Paladino",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Bene",
+                    5
+                ]
             ]
         },
         {
@@ -2817,6 +2931,12 @@
                     "Chierico",
                     5
                 ]
+            ],
+            "domain": [
+                [
+                    "Male",
+                    5
+                ]
             ]
         },
         {
@@ -2825,6 +2945,12 @@
             "class": [
                 [
                     "Chierico",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
                     5
                 ]
             ]
@@ -2855,6 +2981,12 @@
                 ],
                 [
                     "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
                     3
                 ]
             ]
@@ -2899,6 +3031,12 @@
                     "Stregone",
                     0
                 ]
+            ],
+            "domain": [
+                [
+                    "Gloria",
+                    1
+                ]
             ]
         },
         {
@@ -2907,6 +3045,12 @@
             "class": [
                 [
                     "Chierico",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
                     4
                 ]
             ]
@@ -2923,6 +3067,12 @@
                     "Paladino",
                     1
                 ]
+            ],
+            "domain": [
+                [
+                    "Nobiltà",
+                    1
+                ]
             ]
         },
         {
@@ -2933,6 +3083,12 @@
                     "Chierico",
                     4
                 ]
+            ],
+            "domain": [
+                [
+                    "Guerra",
+                    4
+                ]
             ]
         },
         {
@@ -2941,6 +3097,12 @@
             "class": [
                 [
                     "Druido",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Animale",
                     3
                 ]
             ]
@@ -2955,6 +3117,12 @@
                 ],
                 [
                     "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
                     9
                 ]
             ]
@@ -3102,6 +3270,16 @@
                 [
                     "Druido",
                     8
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    8
+                ],
+                [
+                    "Terra",
+                    7
                 ]
             ]
         },
