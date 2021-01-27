@@ -3625,131 +3625,621 @@
         },
         {
             "id": "Fabricate",
-            "name": ""
+            "name": "Fabbricare",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    5
+                ]
+            ]
         },
         {
             "id": "Faerie Fire",
-            "name": ""
+            "name": "Luminescenza",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ]
+            ]
         },
         {
             "id": "False Life",
-            "name": ""
+            "name": "Vita Falsata",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "False Vision",
-            "name": ""
+            "name": "Visione Falsa",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    5
+                ]
+            ]
         },
         {
             "id": "Fear",
-            "name": ""
+            "name": "Paura",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Feather Fall",
-            "name": ""
+            "name": "Caduta Morbida",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Feeblemind",
-            "name": ""
+            "name": "Regressione Mentale",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Find the Path",
-            "name": ""
+            "name": "Scopri il Percorso",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    6
+                ],
+                [
+                    "Viaggio",
+                    6
+                ]
+            ]
         },
         {
             "id": "Find Traps",
-            "name": ""
+            "name": "Scopri Trappole",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Finger of Death",
-            "name": ""
+            "name": "Dito della Morte",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Fireball",
-            "name": ""
+            "name": "Palla di Fuoco",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Fire Seeds",
-            "name": ""
+            "name": "Semi di Fuoco",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    6
+                ],
+                [
+                    "Sole",
+                    6
+                ]
+            ]
         },
         {
             "id": "Fire Shield",
-            "name": ""
+            "name": "Scudo di Fuoco",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    5
+                ],
+                [
+                    "Sole",
+                    4
+                ]
+            ]
         },
         {
             "id": "Fire Storm",
-            "name": ""
+            "name": "Tempesta di Fuoco",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Druido",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    7
+                ]
+            ]
         },
         {
             "id": "Fire Trap",
-            "name": ""
+            "name": "Trappola di Fuoco",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Flame Arrow",
-            "name": ""
+            "name": "Freccia Infuocata",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Flame Blade",
-            "name": ""
+            "name": "Lama Infuocata",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ]
         },
         {
             "id": "Flame Strike",
-            "name": ""
+            "name": "Colpo Infuocato",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Sole",
+                    5
+                ],
+                [
+                    "Guerra",
+                    5
+                ]
+            ]
         },
         {
             "id": "Flaming Sphere",
-            "name": ""
+            "name": "Sfera Infuocata",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Flare",
-            "name": ""
+            "name": "Lampo",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Flesh to Stone",
-            "name": ""
+            "name": "Carne in Pietra",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Floating Disk",
-            "name": ""
+            "name": "Disco Fluttuante",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Fly",
-            "name": ""
+            "name": "Volare",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    3
+                ]
+            ]
         },
         {
             "id": "Fog Cloud",
-            "name": ""
+            "name": "Nube di Nebbia",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Acqua",
+                    2
+                ],
+                [
+                    "Tempo Atmosferico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Forbiddance",
-            "name": ""
+            "name": "Proibizione",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ]
+            ]
         },
         {
             "id": "Forcecage",
-            "name": ""
+            "name": "Gabbia di Forza",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Forceful Hand",
-            "name": ""
+            "name": "Mano Possente",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Foresight",
-            "name": ""
+            "name": "Previsione",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    9
+                ]
+            ]
+        },
+        {
+            "id": "Fox's Cunning, Mass",
+            "name": "Astuzia della Volpe di Massa",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Fox's Cunning",
-            "name": ""
+            "name": "Astuzia della Volpe",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Freedom",
-            "name": ""
+            "name": "Libertà",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    9
+                ]
+            ]
         },
         {
             "id": "Freedom of Movement",
-            "name": ""
+            "name": "Libertà di Movimento",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Guardia Nera",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    4
+                ],
+                [
+                    "Fortuna",
+                    4
+                ]
+            ]
         },
         {
             "id": "Freezing Sphere",
-            "name": ""
+            "name": "Sfera Congelante",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Gaseous Form",
