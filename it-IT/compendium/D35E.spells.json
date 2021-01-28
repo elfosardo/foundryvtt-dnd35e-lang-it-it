@@ -4591,111 +4591,451 @@
         },
         {
             "id": "Hallow",
-            "name": ""
+            "name": "Santificare",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Hallucinatory Terrain",
-            "name": ""
+            "name": "Terreno Illusorio",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Halt Undead",
-            "name": ""
+            "name": "Fermare Non Morti",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Hardening",
-            "name": ""
+            "name": "Indurire",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    7
+                ]
+            ]
         },
         {
             "id": "Harm",
-            "name": ""
+            "name": "Ferire",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    6
+                ]
+            ]
         },
         {
             "id": "Haste",
-            "name": ""
+            "name": "Velocità",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Heal",
-            "name": ""
+            "name": "Guarigione",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    6
+                ]
+            ]
         },
         {
             "id": "Heal Mount",
-            "name": ""
+            "name": "Guarire Cavalcatura",
+            "class": [
+                [
+                    "Paladino",
+                    3
+                ]
+            ]
         },
         {
             "id": "Heat Metal",
-            "name": ""
+            "name": "Riscaldare il Metallo",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Sole",
+                    2
+                ]
+            ]
         },
         {
             "id": "Hellball",
-            "name": ""
+            "name": "Hellball"
         },
         {
             "id": "Helping Hand",
-            "name": ""
+            "name": "Mano in Aiuto",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ]
         },
         {
             "id": "Heroes' Feast",
-            "name": ""
+            "name": "Banchetto degli Eroi",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    6
+                ],
+                [
+                    "Creazione",
+                    6
+                ]
+            ]
         },
         {
             "id": "Heroism",
-            "name": ""
+            "name": "Eroismo",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    4
+                ]
+            ]
         },
         {
             "id": "Hide from Animals",
-            "name": ""
+            "name": "Nascondersi agli Animali",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Hide from Undead",
-            "name": ""
+            "name": "Nascondersi ai Non Morti",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Hideous Laughter",
-            "name": ""
+            "name": "Risata Incontenibile",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Hold Animal",
-            "name": ""
+            "name": "Blocca Animali",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    2
+                ]
+            ]
         },
         {
             "id": "Hold Monster",
-            "name": ""
+            "name": "Blocca Mostri",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    6
+                ]
+            ]
         },
         {
             "id": "Hold Person",
-            "name": ""
+            "name": "Blocca Persone",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Hold Portal",
-            "name": ""
+            "name": "Blocca Porte",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Holy Aura",
-            "name": ""
+            "name": "Aura Sacra",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Bene",
+                    8
+                ]
+            ]
         },
         {
             "id": "Holy Smite",
-            "name": ""
+            "name": "Punizione Sacra",
+            "domain": [
+                [
+                    "Gloria",
+                    4
+                ],
+                [
+                    "Bene",
+                    4
+                ]
+            ]
         },
         {
             "id": "Holy Sword",
-            "name": ""
+            "name": "Spada Sacra",
+            "class": [
+                [
+                    "Paladino",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Gloria",
+                    5
+                ]
+            ]
         },
         {
             "id": "Holy Word",
-            "name": ""
+            "name": "Parola Sacra",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Bene",
+                    7
+                ]
+            ]
         },
         {
             "id": "Horrid Wilting",
-            "name": ""
+            "name": "Orrido Avvizzimento",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Acqua",
+                    8
+                ]
+            ]
         },
         {
             "id": "Hypnotic Pattern",
-            "name": ""
+            "name": "Trama Ipnotica",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Hypnotism",
-            "name": ""
+            "name": "Ipnosi",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Ice Storm",
