@@ -5485,79 +5485,259 @@
         },
         {
             "id": "Jump",
-            "name": ""
+            "name": "Saltare",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Keen Edge",
-            "name": ""
+            "name": "Estremità Affilata",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ]
+            ]
         },
         {
             "id": "Kinetic Control",
-            "name": ""
+            "name": "Kinetic Control"
         },
         {
             "id": "Knock",
-            "name": ""
+            "name": "Scassinare",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ]
+            ]
         },
         {
             "id": "Know Direction",
-            "name": ""
+            "name": "Conoscere Direzione",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ]
+            ]
         },
         {
             "id": "Legend Lore",
-            "name": ""
+            "name": "Conoscenza delle Leggende",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    7
+                ]
+            ]
         },
         {
             "id": "Lesser Orb of Fire",
-            "name": ""
+            "name": "Globo di Fuoco Inferiore",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ]
+            ]
         },
         {
             "id": "Let Go of Me",
-            "name": ""
+            "name": "Let Go of Me"
         },
         {
             "id": "Levitate",
-            "name": ""
+            "name": "Levitazione",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ]
+            ]
         },
         {
             "id": "Light",
-            "name": ""
+            "name": "Luce",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Lightning Bolt",
-            "name": ""
+            "name": "Fulmine",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ]
+            ]
         },
         {
             "id": "Limited Wish",
-            "name": ""
+            "name": "Desiderio Limitato",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ]
+            ]
         },
         {
             "id": "Liveoak",
-            "name": ""
+            "name": "Querciaviva",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Living Lightning",
-            "name": ""
+            "name": "Living Lightning"
         },
         {
             "id": "Locate Creature",
-            "name": ""
+            "name": "Localizza Creatura",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Locate Object",
-            "name": ""
+            "name": "Localizza Oggetto",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    2
+                ]
+            ]
         },
         {
             "id": "Longstrider",
-            "name": ""
+            "name": "Passo Veloce",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    1
+                ]
+            ]
         },
         {
             "id": "Lord of Nightmares",
-            "name": ""
+            "name": "Lord of Nightmares"
         },
         {
             "id": "Lullaby",
-            "name": ""
+            "name": "Ninna Nanna",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ]
+            ]
         },
         {
             "id": "Maddening Scream",
