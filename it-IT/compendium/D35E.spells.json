@@ -5039,95 +5039,449 @@
         },
         {
             "id": "Ice Storm",
-            "name": ""
+            "name": "Tempesta di Ghiaccio",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Acqua",
+                    5
+                ]
+            ]
         },
         {
             "id": "Identify",
-            "name": ""
+            "name": "Identificare",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    2
+                ]
+            ]
         },
         {
             "id": "Illusory Script",
-            "name": ""
+            "name": "Scritto Illusorio",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Illusory Wall",
-            "name": ""
+            "name": "Muro Illusorio",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Imbue with Spell Ability",
-            "name": ""
+            "name": "Infondere Capacità Magiche",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    4
+                ]
+            ]
         },
         {
             "id": "Implosion",
-            "name": ""
+            "name": "Implosione",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    9
+                ]
+            ]
         },
         {
             "id": "Imprisonment",
-            "name": ""
+            "name": "Imprigionare",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Incendiary Cloud",
-            "name": ""
+            "name": "Nube Incendiaria",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    8
+                ]
+            ]
+        },
+        {
+            "id": "Inflict Critical Wounds, Mass",
+            "name": "Infliggi Ferite Critiche di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ]
         },
         {
             "id": "Inflict Critical Wounds",
-            "name": ""
+            "name": "Infliggi Ferite Critiche",
+            "class": [
+                [
+                    "Guardia Nera",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    4
+                ]
+            ]
+        },
+        {
+            "id": "Inflict Light Wounds, Mass",
+            "name": "Infliggi Ferite Leggere di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    5
+                ]
+            ]
         },
         {
             "id": "Inflict Light Wounds",
-            "name": ""
+            "name": "Infliggi Ferite Leggere",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Distruzione",
+                    1
+                ]
+            ]
         },
         {
             "id": "Inflict Minor Wounds",
-            "name": ""
+            "name": "Infliggi Ferite Minori",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ]
+            ]
+        },
+        {
+            "id": "Inflict Moderate Wounds, Mass",
+            "name": "Infliggi Ferite Medie di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ]
+            ]
         },
         {
             "id": "Inflict Moderate Wounds",
-            "name": ""
+            "name": "Infliggi Ferite Medie",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
+        },
+        {
+            "id": "Inflict Serious Wounds, Mass",
+            "name": "Infliggi Ferite Gravi di Massa",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ]
         },
         {
             "id": "Inflict Serious Wounds",
-            "name": ""
+            "name": "Infliggi Ferite Gravi",
+            "class": [
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ]
+            ]
         },
         {
             "id": "Insanity",
-            "name": ""
+            "name": "Demenza",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    7
+                ],
+                [
+                    "Follia",
+                    7
+                ]
+            ]
         },
         {
             "id": "Insect Plague",
-            "name": ""
+            "name": "Piaga degli Insetti",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Instant Summons",
-            "name": ""
+            "name": "Evocazioni Istantanee",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    7
+                ]
+            ]
         },
         {
             "id": "Interposing Hand",
-            "name": ""
+            "name": "Mano Interposta",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ]
+            ]
         },
         {
             "id": "Invisibility",
-            "name": ""
+            "name": "Invisibilità",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    2
+                ]
+            ]
         },
         {
             "id": "Invisibility Purge",
-            "name": ""
+            "name": "Epurare Invisibilità",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ]
         },
         {
             "id": "Invisibility Sphere",
-            "name": ""
+            "name": "Sfera di Invisibilità",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Iron Body",
-            "name": ""
+            "name": "Corpo di Ferro",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    8
+                ]
+            ]
         },
         {
             "id": "Ironwood",
-            "name": ""
+            "name": "Legno di Ferro",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Irresistible Dance",
-            "name": ""
+            "name": "Danza Irresistibile",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Jump",
