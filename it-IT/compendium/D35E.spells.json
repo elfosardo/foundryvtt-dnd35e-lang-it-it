@@ -6563,215 +6563,993 @@
         },
         {
             "id": "Nailed to the Sky",
-            "name": ""
+            "name": "Nailed to the Sky"
         },
         {
             "id": "Neutralize Poison",
-            "name": ""
+            "name": "Neutralizza Veleno",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Paladino",
+                    4
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Nightmare",
-            "name": ""
+            "name": "Incubo",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
+                    7
+                ]
+            ]
         },
         {
             "id": "Nondetection",
-            "name": ""
+            "name": "Anti-individuazione",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Ranger",
+                    4
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    3
+                ]
+            ]
         },
         {
             "id": "Obscure Object",
-            "name": ""
+            "name": "Occulta Oggetto",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Obscuring Mist",
-            "name": ""
+            "name": "Foschia Occultante",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    1
+                ],
+                [
+                    "Oscurità",
+                    1
+                ],
+                [
+                    "Acqua",
+                    1
+                ],
+                [
+                    "Tempo Atmosferico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Open/Close",
-            "name": ""
+            "name": "Aprire/Chiudere",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Order’s Wrath",
-            "name": ""
+            "name": "Collera dell'Ordine",
+            "domain": [
+                [
+                    "Legge",
+                    4
+                ]
+            ]
         },
         {
             "id": "Origin of Species: Achaierai",
-            "name": ""
+            "name": "Origin of Species: Achaierai"
         },
         {
             "id": "Overland Flight",
-            "name": ""
+            "name": "Volo Giornaliero",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Owl's Wisdom",
-            "name": ""
+            "name": "Saggezza del Gufo",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Passwall",
-            "name": ""
+            "name": "Passapareti",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Pass without Trace",
-            "name": ""
+            "name": "Passare senza Tracce",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Peripety",
-            "name": ""
+            "name": "Peripety"
         },
         {
             "id": "Permanency",
-            "name": ""
+            "name": "",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Permanent Image",
-            "name": ""
+            "name": "Immagine Permanente",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Creazione",
+                    7
+                ]
+            ]
         },
         {
             "id": "Persistent Image",
-            "name": ""
+            "name": "Immagine Persistente",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Pestilence",
-            "name": ""
+            "name": "Pestilence"
         },
         {
             "id": "Phantasmal Killer",
-            "name": ""
+            "name": "Allucinazione Mortale",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Follia",
+                    6
+                ]
+            ]
         },
         {
             "id": "Phantom Steed",
-            "name": ""
+            "name": "Destriero Fantomatico",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Phantom Trap",
-            "name": ""
+            "name": "Trappola",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Phase Door",
-            "name": ""
+            "name": "Porta in Fase",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    8
+                ]
+            ]
         },
         {
             "id": "Planar Ally",
-            "name": ""
+            "name": "Alleato PLanare",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ]
+            ]
         },
         {
             "id": "Planar Binding",
-            "name": ""
+            "name": "Legame Planare",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Plane Shift",
-            "name": ""
+            "name": "Spostamento Planare",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Plant Growth",
-            "name": ""
+            "name": "Crescita Vegetale",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    3
+                ]
+            ]
         },
         {
             "id": "Poison",
-            "name": ""
+            "name": "Veleno",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Guardia Nera",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Rettili",
+                    4
+                ]
+            ]
         },
         {
             "id": "Polar Ray",
-            "name": ""
+            "name": "Raggio Polare",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Polymorph",
-            "name": ""
+            "name": "Metamorfosi",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Polymorph Any Object",
-            "name": ""
+            "name": "Metamorfosi di un Oggetto",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    8
+                ]
+            ]
         },
         {
             "id": "Power Word Blind",
-            "name": ""
+            "name": "Parola del Potere, Accecare",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
+                    8
+                ],
+                [
+                    "Guerra",
+                    7
+                ]
+            ]
         },
         {
             "id": "Power Word Kill",
-            "name": ""
+            "name": "Parola del Potere, Uccidere",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
+                    9
+                ],
+                [
+                    "Guerra",
+                    9
+                ]
+            ]
         },
         {
             "id": "Power Word Stun",
-            "name": ""
+            "name": "Parola del Potere, Stordire",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Guerra",
+                    8
+                ]
+            ]
         },
         {
             "id": "Prayer",
-            "name": ""
+            "name": "Preghiera",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    3
+                ]
+            ]
         },
         {
             "id": "Prestidigitation",
-            "name": ""
+            "name": "Prestidigitazione",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Prismatic Sphere",
-            "name": ""
+            "name": "Sfera Prismatica",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    9
+                ],
+                [
+                    "Protezione",
+                    9
+                ],
+                [
+                    "Sole",
+                    9
+                ]
+            ]
         },
         {
             "id": "Prismatic Spray",
-            "name": ""
+            "name": "Spruzzo Prismatico",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Prismatic Wall",
-            "name": ""
+            "name": "Muro Prismatico",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Probe Thoughts",
-            "name": ""
+            "name": "Sonda Pensieri",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Produce Flame",
-            "name": ""
+            "name": "Produrre Fiamma",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    2
+                ]
+            ]
         },
         {
             "id": "Programmed Image",
-            "name": ""
+            "name": "Immagine Programmata",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Project Image",
-            "name": ""
+            "name": "Immagine Proiettata",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Protection from Arrows",
-            "name": ""
+            "name": "Protezione dalle Frecce",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Protection from Chaos",
-            "name": ""
+            "name": "Protezione dal Caos",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    1
+                ]
+            ]
         },
         {
             "id": "Protection from Energy",
-            "name": ""
+            "name": "Protezione dall'Energia",
+            "class": [
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Fortuna",
+                    3
+                ],
+                [
+                    "Protezione",
+                    3
+                ]
+            ]
         },
         {
             "id": "Protection from Evil",
-            "name": ""
+            "name": "Protezione dal Male",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Bene",
+                    1
+                ]
+            ]
         },
         {
             "id": "Protection from Good",
-            "name": ""
+            "name": "Protezione dal Bene",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Male",
+                    1
+                ]
+            ]
         },
         {
             "id": "Protection from Law",
-            "name": ""
+            "name": "Protezione dalla Legge",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
+                    1
+                ]
+            ]
         },
         {
             "id": "Protection from Spells",
-            "name": ""
+            "name": "Protezione dagli Incantesimi",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    8
+                ]
+            ]
         },
         {
             "id": "Prying Eyes",
-            "name": ""
+            "name": "Occhi Indagatori",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
+                    6
+                ]
+            ]
         },
         {
             "id": "Psychic Turmoil",
-            "name": ""
+            "name": "Tumulto Psichico",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Purify Food and Drink",
-            "name": ""
+            "name": "Purificare Cibo e Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ]
+            ]
         },
         {
             "id": "Pyrotechnics",
-            "name": ""
+            "name": "Pirotecnica",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Quench",
