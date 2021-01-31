@@ -5741,195 +5741,825 @@
         },
         {
             "id": "Maddening Scream",
-            "name": ""
+            "name": "Urlo Esasperante",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Follia",
+                    8
+                ]
+            ]
         },
         {
             "id": "Mage Armor",
-            "name": ""
+            "name": "Armatura Magica",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ]
+            ]
         },
         {
             "id": "Mage Hand",
-            "name": ""
+            "name": "Mano del Mago",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Mage's Disjunction",
-            "name": ""
+            "name": "Disgiunzione",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    9
+                ]
+            ]
         },
         {
             "id": "Mage's Faithful Hound",
-            "name": ""
+            "name": "Segugio Fedele",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ]
+            ]
         },
         {
             "id": "Mage's Lucubration",
-            "name": ""
+            "name": "Elucubrazione Arcana",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ]
+            ]
         },
         {
             "id": "Mage's Magnificent Mansion",
-            "name": ""
+            "name": "Reggia Meravigliosa",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ]
+            ]
         },
         {
             "id": "Mage's Private Sanctum",
-            "name": ""
+            "name": "Santuario Privato",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ]
+            ]
         },
         {
             "id": "Mage's Sword",
-            "name": ""
+            "name": "Spada Magica",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ]
+            ]
         },
         {
             "id": "Magic Aura",
-            "name": ""
+            "name": "Aura Magica",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    1
+                ]
+            ]
         },
         {
             "id": "Magic Circle against Chaos",
-            "name": ""
+            "name": "Cerchio Magico contro il Caos",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    3
+                ]
+            ]
         },
         {
             "id": "Magic Circle against Evil",
-            "name": ""
+            "name": "Cerchio Magico contro il Male",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Bene",
+                    3
+                ]
+            ]
         },
         {
             "id": "Magic Circle against Good",
-            "name": ""
+            "name": "Cerchio Magico contro il Bene",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Male",
+                    3
+                ]
+            ]
         },
         {
             "id": "Magic Circle against Law",
-            "name": ""
+            "name": "Cerchio Magico contro la Legge",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
+                    3
+                ]
+            ]
         },
         {
             "id": "Magic Fang",
-            "name": ""
+            "name": "Zanna Magica",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Rettili",
+                    1
+                ]
+            ]
         },
         {
             "id": "Magic Jar",
-            "name": ""
+            "name": "Giara Magica",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ]
+            ]
         },
         {
             "id": "Magic Missile",
-            "name": ""
+            "name": "Dardo Incantato",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ]
+            ]
         },
         {
             "id": "Magic Mouth",
-            "name": ""
+            "name": "Bocca Magica",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Magic Stone",
-            "name": ""
+            "name": "Pietra Magica",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Druido",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    1
+                ]
+            ]
         },
         {
             "id": "Magic Vestment",
-            "name": ""
+            "name": "Veste Magica",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Nobiltà",
+                    3
+                ],
+                [
+                    "Forza",
+                    3
+                ],
+                [
+                    "Guerra",
+                    3
+                ]
+            ]
         },
         {
             "id": "Magic Weapon",
-            "name": ""
+            "name": "Arma Magica",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Guerra",
+                    1
+                ]
+            ]
         },
         {
             "id": "Major Creation",
-            "name": ""
+            "name": "Creazione Maggiore",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Creazione",
+                    5
+                ],
+                [
+                    "Artificio",
+                    6
+                ]
+            ]
         },
         {
             "id": "Major Image",
-            "name": ""
+            "name": "Immagine Maggiore",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Make Whole",
-            "name": ""
+            "name": "Rendere Integro",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Mark of Justice",
-            "name": ""
+            "name": "Sigillo di Giustizia",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Paladino",
+                    4
+                ]
+            ]
         },
         {
             "id": "Mass Frog",
-            "name": ""
+            "name": "Mass Frog"
         },
         {
             "id": "Maze",
-            "name": ""
+            "name": "Labirinto",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ]
+            ]
         },
         {
             "id": "Meld into Stone",
-            "name": ""
+            "name": "Scolpire Pietra",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ]
+            ]
         },
         {
             "id": "Mending",
-            "name": ""
+            "name": "Riparare",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Mental Pinnacle",
-            "name": ""
+            "name": "Pinnacolo Mentale",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Message",
-            "name": ""
+            "name": "Messaggio",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Meteor Swarm",
-            "name": ""
+            "name": "Sciame di Meteore",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ]
+            ]
         },
         {
             "id": "Mind Blank",
-            "name": ""
+            "name": "Vuoto Mentale",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    8
+                ],
+                [
+                    "Protezione",
+                    8
+                ]
+            ]
         },
         {
             "id": "Mind Fog",
-            "name": ""
+            "name": "Nebbia Mentale",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Minor Creation",
-            "name": ""
+            "name": "Creazione Minore",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    4
+                ],
+                [
+                    "Creazione",
+                    4
+                ]
+            ]
         },
         {
             "id": "Minor Image",
-            "name": ""
+            "name": "Immagine Minore",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Creazione",
+                    2
+                ]
+            ]
         },
         {
             "id": "Miracle",
-            "name": ""
+            "name": "Miracolo",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Fortuna",
+                    9
+                ]
+            ]
         },
         {
             "id": "Mirage Arcana",
-            "name": ""
+            "name": "Miraggio Arcano",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Mirror Image",
-            "name": ""
+            "name": "Immagine Speculare",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Misdirection",
-            "name": ""
+            "name": "Dissimulare",
+            "class": [
+                [
+                    "Assassino",
+                    3
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Mislead",
-            "name": ""
+            "name": "Fuorviare",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Fortuna",
+                    6
+                ],
+                [
+                    "Inganno",
+                    6
+                ]
+            ]
         },
         {
             "id": "Mnemonic Enhancer",
-            "name": ""
+            "name": "Potenziatore Mnemonico",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ]
+            ]
         },
         {
             "id": "Modify Memory",
-            "name": ""
+            "name": "Modificare Memoria",
+            "class": [
+                [
+                    "Assassino",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ]
+            ]
         },
         {
             "id": "Moment of Prescience",
-            "name": ""
+            "name": "Momento di Prescienza",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Fortuna",
+                    8
+                ]
+            ]
         },
         {
             "id": "Momento Mori",
-            "name": ""
+            "name": "Momento Mori"
         },
         {
             "id": "Mount",
-            "name": ""
+            "name": "Cavalcatura",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Move Earth",
-            "name": ""
+            "name": "Muovere il Terreno",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Mummy Dust",
-            "name": ""
+            "name": "Mummy Dust"
         },
         {
             "id": "Nailed to the Sky",
