@@ -7553,139 +7553,581 @@
         },
         {
             "id": "Quench",
-            "name": ""
+            "name": "Estinguere Fuoco",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ]
+            ]
         },
         {
             "id": "Rage",
-            "name": ""
+            "name": "Ira",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Follia",
+                    3
+                ]
+            ]
         },
         {
             "id": "Rainbow Pattern",
-            "name": ""
+            "name": "Trama Iridescente",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Rain of Fire",
-            "name": ""
+            "name": "Rain of Fire"
         },
         {
             "id": "Raise Dead",
-            "name": ""
+            "name": "Rianimare Morti",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ]
         },
         {
             "id": "Raise Island",
-            "name": ""
+            "name": "Raise Island"
         },
         {
             "id": "Ray of Enfeeblement",
-            "name": ""
+            "name": "Raggio di Indebolimento",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Ray of Exhaustion",
-            "name": ""
+            "name": "Raggio di Esaurimento",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Ray of Frost",
-            "name": ""
+            "name": "Raggio di Gelo",
+            "class": [
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Read Magic",
-            "name": ""
+            "name": "Lettura del Magico",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Reduce Animal",
-            "name": ""
+            "name": "Ridurre Animali",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Reduce Person",
-            "name": ""
+            "name": "Ridurre Persone",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Refuge",
-            "name": ""
+            "name": "Rifugio",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    7
+                ],
+                [
+                    "Libertà",
+                    7
+                ]
+            ]
         },
         {
             "id": "Regenerate",
-            "name": ""
+            "name": "Rigenerazione",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Druido",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Guarigione",
+                    7
+                ]
+            ]
         },
         {
             "id": "Reincarnate",
-            "name": ""
+            "name": "Reincarnazione",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ]
+            ]
         },
         {
             "id": "Remove Blindness/Deafness",
-            "name": ""
+            "name": "Rimuovi Cecità/Sordità",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ]
+            ]
         },
         {
             "id": "Remove Curse",
-            "name": ""
+            "name": "Rimuovi Maledizione",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Paladino",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    3
+                ]
+            ]
         },
         {
             "id": "Remove Disease",
-            "name": ""
+            "name": "Rimuovi Malattia",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Remove Fear",
-            "name": ""
+            "name": "Rimuovi Paura",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    1
+                ]
+            ]
         },
         {
             "id": "Remove Paralysis",
-            "name": ""
+            "name": "Rimuovi Paralisi",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Libertà",
+                    2
+                ]
+            ]
         },
         {
             "id": "Repel Metal or Stone",
-            "name": ""
+            "name": "Respingere Metallo o Pietra",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Repel Vermin",
-            "name": ""
+            "name": "Respingere Parassiti",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Repel Wood",
-            "name": ""
+            "name": "Respingere Legno",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    6
+                ]
+            ]
         },
         {
             "id": "Repulsion",
-            "name": ""
+            "name": "Repulsione",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Nobiltà",
+                    7
+                ],
+                [
+                    "Protezione",
+                    7
+                ]
+            ]
         },
         {
             "id": "Resilient Sphere",
-            "name": ""
+            "name": "Sfera Elastica",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Resistance",
-            "name": ""
+            "name": "Resistenza",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ],
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Paladino",
+                    1
+                ],
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Resist Energy",
-            "name": ""
+            "name": "Resistere all'Energia",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ],
+                [
+                    "Ranger",
+                    1
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    3
+                ]
+            ]
         },
         {
             "id": "Restoration",
-            "name": ""
+            "name": "Ristorare",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Paladino",
+                    4
+                ]
+            ]
         },
         {
             "id": "Resurrection",
-            "name": ""
+            "name": "Resurrezione",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ]
         },
         {
             "id": "Reverse Gravity",
-            "name": ""
+            "name": "Inversione della Gravità",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Righteous Might",
-            "name": ""
+            "name": "Giusto Potere",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Forza",
+                    5
+                ]
+            ]
         },
         {
             "id": "Rope Trick",
-            "name": ""
+            "name": "Trucco della Corda",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Ruin",
-            "name": ""
+            "name": "Ruin"
         },
         {
             "id": "Rusting Grasp",
-            "name": ""
+            "name": "Stretta Corrosiva",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ]
+            ]
         },
         {
             "id": "Safe Time",
