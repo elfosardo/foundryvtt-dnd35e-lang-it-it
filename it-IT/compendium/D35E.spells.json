@@ -8131,419 +8131,1785 @@
         },
         {
             "id": "Safe Time",
-            "name": ""
+            "name": "Safe Time"
         },
         {
             "id": "Sanctuary",
-            "name": ""
+            "name": "Santuario",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ],
+            "domain": [
+                [
+                    "Protezione",
+                    1
+                ]
+            ]
         },
         {
             "id": "Scare",
-            "name": ""
+            "name": "Spaventare",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Scintillating Pattern",
-            "name": ""
+            "name": "Trama Scintillante",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Scorching Ray",
-            "name": ""
+            "name": "Raggio Rovente",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Screen",
-            "name": ""
+            "name": "Schermo",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    7
+                ]
+            ]
         },
         {
             "id": "Scrying",
-            "name": ""
+            "name": "Scrutare",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Sculpt Sound",
-            "name": ""
+            "name": "Modellare Suono",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ]
+            ]
         },
         {
             "id": "Searing Light",
-            "name": ""
+            "name": "Luce Incandescente",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Gloria",
+                    3
+                ],
+                [
+                    "Sole",
+                    3
+                ]
+            ]
         },
         {
             "id": "Secret Chest",
-            "name": ""
+            "name": "Scrigno Segreto",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Secret Page",
-            "name": ""
+            "name": "Pagina Segreta",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    2
+                ]
+            ]
         },
         {
             "id": "Secure Shelter",
-            "name": ""
+            "name": "Riparo Sicuro",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "See Invisibility",
-            "name": ""
+            "name": "Vedere Invisibilità",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Seeming",
-            "name": ""
+            "name": "Sembrare",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Sending",
-            "name": ""
+            "name": "Inviare",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Sepia Snake Sigil",
-            "name": ""
+            "name": "Sigillo del Serpente",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Sequester",
-            "name": ""
+            "name": "Celare",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Shades",
-            "name": ""
+            "name": "Ombre",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Shadow Conjuration",
-            "name": ""
+            "name": "Ombra di una Evocazione",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Shadow Evocation",
-            "name": ""
+            "name": "Ombra di una Invocazione",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Shadow Walk",
-            "name": ""
+            "name": "Camminare nelle Ombre",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Shambler",
-            "name": ""
+            "name": "Cumulo Strisciante",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    9
+                ]
+            ]
         },
         {
             "id": "Shapechange",
-            "name": ""
+            "name": "Trasformazione",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    9
+                ],
+                [
+                    "Rettili",
+                    9
+                ]
+            ]
         },
         {
             "id": "Shatter",
-            "name": ""
+            "name": "Frantumare",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
+                    2
+                ],
+                [
+                    "Distruzione",
+                    2
+                ]
+            ]
         },
         {
             "id": "Shield",
-            "name": ""
+            "name": "Scudo",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Shield of Faith",
-            "name": ""
+            "name": "Scudo della Fede",
+            "class": [
+                [
+                    "Chierico",
+                    1
+                ]
+            ]
         },
         {
             "id": "Shield of Law",
-            "name": ""
+            "name": "Scudo della Legge",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Legge",
+                    8
+                ]
+            ]
         },
         {
             "id": "Shield Other",
-            "name": ""
+            "name": "Scudo su Altri",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Protezione",
+                    2
+                ]
+            ]
         },
         {
             "id": "Shillelagh",
-            "name": ""
+            "name": "Randello Incantato",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ]
+            ]
         },
         {
             "id": "Shocking Grasp",
-            "name": ""
+            "name": "Stretta Folgorante",
+            "class": [
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Shout",
-            "name": ""
+            "name": "Grido",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Shrink Item",
-            "name": ""
+            "name": "Restringere Oggetto",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Silence",
-            "name": ""
+            "name": "Silenzio",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Silent Image",
-            "name": ""
+            "name": "Immagine Silenziosa",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Simulacrum",
-            "name": ""
+            "name": "Simulacro",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Slay Living",
-            "name": ""
+            "name": "Distruggere Viventi",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    5
+                ],
+                [
+                    "Riposo",
+                    5
+                ]
+            ]
         },
         {
             "id": "Sleep",
-            "name": ""
+            "name": "Sonno",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Sleet Storm",
-            "name": ""
+            "name": "Tempesta di Nevischio",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Tempo Atmosferico",
+                    4
+                ]
+            ]
         },
         {
             "id": "Slow",
-            "name": ""
+            "name": "Lentezza",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Snare",
-            "name": ""
+            "name": "Calappio",
+            "class": [
+                [
+                    "Ranger",
+                    2
+                ],
+                [
+                    "Druido",
+                    3
+                ]
+            ]
         },
         {
             "id": "Soften Earth and Stone",
-            "name": ""
+            "name": "Ammorbidire Terra e Pietra",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    2
+                ]
+            ]
         },
         {
             "id": "Solid Fog",
-            "name": ""
+            "name": "Nebbia Solida",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Song of Discord",
-            "name": ""
+            "name": "Canto di Discordia",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ]
+            ]
         },
         {
             "id": "Soul Bind",
-            "name": ""
+            "name": "Legare Anima",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Soul Dominion",
-            "name": ""
+            "name": "Soul Dominion"
         },
         {
             "id": "Soul Scry",
-            "name": ""
+            "name": "Soul Scry"
         },
         {
             "id": "Sound Burst",
-            "name": ""
+            "name": "Suono Dirompente",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ]
+            ]
         },
         {
             "id": "Speak with Animals",
-            "name": ""
+            "name": "Parlare con gli Animali",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Speak with Dead",
-            "name": ""
+            "name": "Parlare con i Morti",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Riposo",
+                    3
+                ]
+            ]
         },
         {
             "id": "Speak with Plants",
-            "name": ""
+            "name": "Parlare con i Vegetali",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ]
         },
         {
             "id": "Spectral Hand",
-            "name": ""
+            "name": "Mano Spettrale",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Spell Immunity",
-            "name": ""
+            "name": "Immunità agli Incantesimi",
+            "class": [
+                [
+                    "Chierico",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Protezione",
+                    4
+                ],
+                [
+                    "Forza",
+                    4
+                ]
+            ]
         },
         {
             "id": "Spell Resistance",
-            "name": ""
+            "name": "Resistenza agli Incantesimi",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Magia",
+                    5
+                ],
+                [
+                    "Protezione",
+                    5
+                ]
+            ]
         },
         {
             "id": "Spellstaff",
-            "name": ""
+            "name": "Bastone dell'Incantesimo",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Spell Turning",
-            "name": ""
+            "name": "Riflettere Incantesimo",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Fortuna",
+                    7
+                ],
+                [
+                    "Magia",
+                    7
+                ]
+            ]
         },
         {
             "id": "Spell Worm",
-            "name": ""
+            "name": "Spell Worm"
         },
         {
             "id": "Spider Climb",
-            "name": ""
+            "name": "Movimenti del Ragno",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Spike Growth",
-            "name": ""
+            "name": "Crescita di Spine",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ]
         },
         {
             "id": "Spike Stones",
-            "name": ""
+            "name": "Rocce Aguzze",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    4
+                ]
+            ]
         },
         {
             "id": "Spiritual Weapon",
-            "name": ""
+            "name": "Arma Spirituale",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Guerra",
+                    2
+                ]
+            ]
         },
         {
             "id": "Statue",
-            "name": ""
+            "name": "Statua",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Status",
-            "name": ""
+            "name": "Status",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    2
+                ]
+            ]
         },
         {
             "id": "Stinking Cloud",
-            "name": ""
+            "name": "Nube Maleodorante",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Stone Shape",
-            "name": ""
+            "name": "Fondersi nella Pietra",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    3
+                ],
+                [
+                    "Terra",
+                    3
+                ]
+            ]
         },
         {
             "id": "Stoneskin",
-            "name": ""
+            "name": "Pelle di Pietra",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    6
+                ],
+                [
+                    "Forza",
+                    6
+                ]
+            ]
         },
         {
             "id": "Stone Tell",
-            "name": ""
+            "name": "Pietre Parlanti",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Stone to Flesh",
-            "name": ""
+            "name": "Pietra in Carne",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Storm of Vengeance",
-            "name": ""
+            "name": "Tempesta di Vendetta",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ],
+                [
+                    "Chierico",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Nobiltà",
+                    9
+                ],
+                [
+                    "Tempo Atmosferico",
+                    9
+                ]
+            ]
         },
         {
             "id": "Suggestion",
-            "name": ""
+            "name": "Suggestione",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Charme",
+                    3
+                ]
+            ]
         },
         {
             "id": "Summon Behemoth",
-            "name": ""
+            "name": "Summon Behemoth"
         },
         {
             "id": "Summon Instrument",
-            "name": ""
+            "name": "Evoca Strumento",
+            "class": [
+                [
+                    "Bardo",
+                    0
+                ]
+            ]
         },
         {
             "id": "Summon Monster I",
-            "name": ""
+            "name": "Evoca Mostri I",
+            "class": [
+                [
+                    "Guardia Nera",
+                    1
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Summon Monster II",
-            "name": ""
+            "name": "Evoca Mostri II",
+            "class": [
+                [
+                    "Guardia Nera",
+                    2
+                ],
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Summon Monster III",
-            "name": ""
+            "name": "Evoca Mostri III",
+            "class": [
+                [
+                    "Guardia Nera",
+                    3
+                ],
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Summon Monster IV",
-            "name": ""
+            "name": "Evoca Mostri IV",
+            "class": [
+                [
+                    "Guardia Nera",
+                    4
+                ],
+                [
+                    "Bardo",
+                    4
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Summon Monster IX",
-            "name": ""
+            "name": "Evoca Mostri IX",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ],
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
+                    9
+                ],
+                [
+                    "Male",
+                    9
+                ],
+                [
+                    "Bene",
+                    9
+                ],
+                [
+                    "Legge",
+                    9
+                ]
+            ]
         },
         {
             "id": "Summon Monster V",
-            "name": ""
+            "name": "Evoca Mostri V",
+            "class": [
+                [
+                    "Bardo",
+                    5
+                ],
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Oscurità",
+                    5
+                ]
+            ]
         },
         {
             "id": "Summon Monster VI",
-            "name": ""
+            "name": "Evoca Mostri VI",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Summon Monster VII",
-            "name": ""
+            "name": "Evoca Mostri VII",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Summon Monster VIII",
-            "name": ""
+            "name": "Evoca Mostri VIII",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally I",
-            "name": ""
+            "name": "Evoca Alleato Naturale I",
+            "class": [
+                [
+                    "Druido",
+                    1
+                ],
+                [
+                    "Ranger",
+                    1
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally II",
-            "name": ""
+            "name": "Evoca Alleato Naturale II",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    2
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally III",
-            "name": ""
+            "name": "Evoca Alleato Naturale III",
+            "class": [
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally IV",
-            "name": ""
+            "name": "Evoca Alleato Naturale IV",
+            "class": [
+                [
+                    "Druido",
+                    4
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    4
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally IX",
-            "name": ""
+            "name": "Evoca Alleato Naturale IX",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally V",
-            "name": ""
+            "name": "Evoca Alleato Naturale V",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally VI",
-            "name": ""
+            "name": "Evoca Alleato Naturale VI",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally VII",
-            "name": ""
+            "name": "Evoca Alleato Naturale VII",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Summon Nature's Ally VIII",
-            "name": ""
+            "name": "Evoca Alleato Naturale VIII",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Animale",
+                    8
+                ]
+            ]
         },
         {
             "id": "Summon Swarm",
-            "name": ""
+            "name": "Evoca Sciame",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Sunbeam",
-            "name": ""
+            "name": "Bagliore Solare",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Gloria",
+                    7
+                ],
+                [
+                    "Sole",
+                    7
+                ]
+            ]
         },
         {
             "id": "Sunburst",
-            "name": ""
+            "name": "Esplosione Solare",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Sole",
+                    8
+                ]
+            ]
         },
         {
             "id": "Superb Dispelling",
-            "name": ""
+            "name": "Superb Dispelling"
         },
         {
             "id": "Surelife",
-            "name": ""
+            "name": "Vita Certa",
+            "domain": [
+                [
+                    "Riposo",
+                    8
+                ]
+            ]
         },
         {
             "id": "Symbol of Death",
-            "name": ""
+            "name": "Simbolo di Morte",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    8
+                ]
+            ]
         },
         {
             "id": "Symbol of Fear",
-            "name": ""
+            "name": "Simbolo di Paura",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Symbol of Insanity",
-            "name": ""
+            "name": "Simbolo di Demenza",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Symbol of Pain",
-            "name": ""
+            "name": "Simbolo di Dolore",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Symbol of Persuasion",
-            "name": ""
+            "name": "Simbolo di Persuasione",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Symbol of Sleep",
-            "name": ""
+            "name": "Simbolo di Sonno",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Symbol of Stunning",
-            "name": ""
+            "name": "Simbolo di Stordimento",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Symbol of Weakness",
-            "name": ""
+            "name": "Simbolo di Debolezza",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ],
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Sympathetic Vibration",
-            "name": ""
+            "name": "Vibrazione Armonica",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ]
+            ]
         },
         {
             "id": "Sympathy",
-            "name": ""
+            "name": "Simpatia",
+            "class": [
+                [
+                    "Druido",
+                    9
+                ],
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    8
+                ]
+            ]
         },
         {
             "id": "Telekinesis",
