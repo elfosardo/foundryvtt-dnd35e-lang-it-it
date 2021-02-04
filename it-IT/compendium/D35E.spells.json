@@ -46,6 +46,10 @@
                 [
                     "Mago",
                     0
+                ],
+                [
+                    "Stregone",
+                    0
                 ]
             ]
         },
@@ -435,6 +439,10 @@
             "class": [
                 [
                     "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
                     2
                 ]
             ]
@@ -1233,6 +1241,10 @@
             "class": [
                 [
                     "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
                     1
                 ]
             ]
@@ -2365,6 +2377,10 @@
             "class": [
                 [
                     "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
                     7
                 ]
             ]
@@ -4448,6 +4464,10 @@
                 [
                     "Mago",
                     6
+                ],
+                [
+                    "Stregone",
+                    6
                 ]
             ]
         },
@@ -5376,6 +5396,10 @@
                 [
                     "Mago",
                     5
+                ],
+                [
+                    "Stregone",
+                    5
                 ]
             ]
         },
@@ -5516,6 +5540,10 @@
                 [
                     "Mago",
                     3
+                ],
+                [
+                    "Stregone",
+                    3
                 ]
             ]
         },
@@ -5529,6 +5557,10 @@
             "class": [
                 [
                     "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
                     2
                 ]
             ]
@@ -5578,6 +5610,10 @@
                 [
                     "Mago",
                     1
+                ],
+                [
+                    "Stregone",
+                    1
                 ]
             ]
         },
@@ -5591,6 +5627,10 @@
             "class": [
                 [
                     "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
                     2
                 ]
             ]
@@ -5628,6 +5668,9 @@
                 [
                     "Mago",
                     3
+                ],
+                [
+                    "Stregone"
                 ]
             ]
         },
@@ -5637,6 +5680,10 @@
             "class": [
                 [
                     "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
                     7
                 ]
             ]
@@ -5766,6 +5813,10 @@
                 [
                     "Mago",
                     1
+                ],
+                [
+                    "Stregone",
+                    1
                 ]
             ]
         },
@@ -5814,6 +5865,10 @@
                 [
                     "Mago",
                     5
+                ],
+                [
+                    "Stregone",
+                    5
                 ]
             ]
         },
@@ -5834,6 +5889,10 @@
                 [
                     "Mago",
                     7
+                ],
+                [
+                    "Stregone",
+                    7
                 ]
             ]
         },
@@ -5844,6 +5903,10 @@
                 [
                     "Mago",
                     5
+                ],
+                [
+                    "Stregone",
+                    5
                 ]
             ]
         },
@@ -5853,6 +5916,10 @@
             "class": [
                 [
                     "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
                     7
                 ]
             ]
@@ -6025,6 +6092,10 @@
             "class": [
                 [
                     "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
                     1
                 ]
             ]
@@ -6200,6 +6271,10 @@
                 [
                     "Mago",
                     8
+                ],
+                [
+                    "Stregone",
+                    8
                 ]
             ]
         },
@@ -6281,6 +6356,10 @@
             "class": [
                 [
                     "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
                     9
                 ]
             ]
@@ -9913,259 +9992,1017 @@
         },
         {
             "id": "Telekinesis",
-            "name": ""
+            "name": "Telecinesi",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Telekinetic Sphere",
-            "name": ""
+            "name": "Sfera Telecinetica",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Telepathic Bond",
-            "name": ""
+            "name": "Legame Telepatico",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Comunità",
+                    5
+                ]
+            ]
         },
         {
             "id": "Teleport",
-            "name": ""
+            "name": "Teletrasporto",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Viaggio",
+                    5
+                ]
+            ]
         },
         {
             "id": "Teleportation Circle",
-            "name": ""
+            "name": "Cerchio di Teletrasporto",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Rune",
+                    9
+                ]
+            ]
         },
         {
             "id": "Teleport Object",
-            "name": ""
+            "name": "Teletrasporto degli Oggetti",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Temporal Stasis",
-            "name": ""
+            "name": "Stasi Temporale",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Time Duplicate",
-            "name": ""
+            "name": "Time Duplicate"
         },
         {
             "id": "Time Stop",
-            "name": ""
+            "name": "Fermare il Tempo",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Inganno",
+                    9
+                ]
+            ]
         },
         {
             "id": "Tiny Hut",
-            "name": ""
+            "name": "Capanna",
+            "class": [
+                [
+                    "Bardo",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Tongues",
-            "name": ""
+            "name": "Linguaggi",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Chierico",
+                    4
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Touch of Fatigue",
-            "name": ""
+            "name": "Tocco di Affaticamento",
+            "class": [
+                [
+                    "Mago",
+                    0
+                ],
+                [
+                    "Stregone",
+                    0
+                ]
+            ]
         },
         {
             "id": "Touch of Idiocy",
-            "name": ""
+            "name": "Tocco di Idiozia",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Touch Of Madness",
-            "name": ""
+            "name": "Tocco di Follia",
+            "domain": [
+                [
+                    "Follia",
+                    2
+                ]
+            ]
         },
         {
             "id": "Transformation",
-            "name": ""
+            "name": "",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Transmute Metal to Wood",
-            "name": ""
+            "name": "Trasmutare Metallo in Legno",
+            "class": [
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Transmute Mud to Rock",
-            "name": ""
+            "name": "trasmutare Fango in Roccia",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Transmute Rock to Mud",
-            "name": ""
+            "name": "Trasmutare Roccia in Fango",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Transport via Plants",
-            "name": ""
+            "name": "Trasporto Vegetale",
+            "class": [
+                [
+                    "Druido",
+                    6
+                ]
+            ]
         },
         {
             "id": "Trap the Soul",
-            "name": ""
+            "name": "Intrappolare l'Anima",
+            "class": [
+                [
+                    "Mago",
+                    8
+                ],
+                [
+                    "Stregone",
+                    8
+                ]
+            ]
         },
         {
             "id": "Tree Shape",
-            "name": ""
+            "name": "Forma Arborea",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Tree Stride",
-            "name": ""
+            "name": "Traslazione Arborea",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Ranger",
+                    4
+                ]
+            ]
         },
         {
             "id": "True Creation",
-            "name": ""
+            "name": "Creazione Vera",
+            "domain": [
+                [
+                    "Creazione",
+                    8
+                ],
+                [
+                    "Artificio",
+                    8
+                ]
+            ]
         },
         {
             "id": "True Resurrection",
-            "name": ""
+            "name": "Resurrezione Pura",
+            "class": [
+                [
+                    "Chierico",
+                    9
+                ]
+            ]
         },
         {
             "id": "True Seeing",
-            "name": ""
+            "name": "Visione del Vero",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    7
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Conoscenza",
+                    5
+                ]
+            ]
         },
         {
             "id": "True Strike",
-            "name": ""
+            "name": "Colpo Accurato",
+            "class": [
+                [
+                    "Assassino",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Undeath to Death",
-            "name": ""
+            "name": "Non Morto a Morto",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ],
+                [
+                    "Chierico",
+                    6
+                ]
+            ],
+            "domain": [
+                [
+                    "Riposo",
+                    6
+                ]
+            ]
         },
         {
             "id": "Undetectable Alignment",
-            "name": ""
+            "name": "Allineamento Imperscrutabile",
+            "class": [
+                [
+                    "Assassino",
+                    2
+                ],
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ]
+            ]
         },
         {
             "id": "Unhallow",
-            "name": ""
+            "name": "Profanare",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    5
+                ]
+            ]
         },
         {
             "id": "Unholy Aura",
-            "name": ""
+            "name": "Aura Sacrilega",
+            "class": [
+                [
+                    "Chierico",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Male",
+                    8
+                ]
+            ]
         },
         {
             "id": "Unholy Blight",
-            "name": ""
+            "name": "Influenza Sacrilega",
+            "domain": [
+                [
+                    "Male",
+                    4
+                ]
+            ]
         },
         {
             "id": "Unseen Servant",
-            "name": ""
+            "name": "Servitore Inosservato",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Vampiric Touch",
-            "name": ""
+            "name": "Tocco del Vampiro",
+            "class": [
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ]
         },
         {
             "id": "Veil",
-            "name": ""
+            "name": "Velo",
+            "class": [
+                [
+                    "Bardo",
+                    6
+                ],
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Vengeful Gaze of God",
-            "name": ""
+            "name": "Vengeful Gaze of God"
         },
         {
             "id": "Ventriloquism",
-            "name": ""
+            "name": "Ventriloquio",
+            "class": [
+                [
+                    "Bardo",
+                    1
+                ],
+                [
+                    "Mago",
+                    1
+                ],
+                [
+                    "Stregone",
+                    1
+                ]
+            ]
         },
         {
             "id": "Verdigris",
-            "name": ""
+            "name": "Verdigris"
         },
         {
             "id": "Verdigris Tsunami",
-            "name": ""
+            "name": "Verdigris Tsunami"
         },
         {
             "id": "Virtue",
-            "name": ""
+            "name": "Virtù",
+            "class": [
+                [
+                    "Chierico",
+                    0
+                ],
+                [
+                    "Druido",
+                    0
+                ],
+                [
+                    "Paladino",
+                    1
+                ]
+            ]
         },
         {
             "id": "Vision",
-            "name": ""
+            "name": "Visione",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Wail of the Banshee",
-            "name": ""
+            "name": "Lamento della Banshee",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Morte",
+                    9
+                ],
+                [
+                    "Riposo",
+                    9
+                ]
+            ]
         },
         {
             "id": "Wall of Fire",
-            "name": ""
+            "name": "Muro di Fuoco",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ],
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ],
+            "domain": [
+                [
+                    "Fuoco",
+                    4
+                ]
+            ]
         },
         {
             "id": "Wall of Force",
-            "name": ""
+            "name": "Muro di Forza",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Wall of Ice",
-            "name": ""
+            "name": "Muro di Ghiaccio",
+            "class": [
+                [
+                    "Mago",
+                    4
+                ],
+                [
+                    "Stregone",
+                    4
+                ]
+            ]
         },
         {
             "id": "Wall of Iron",
-            "name": ""
+            "name": "Muro di Ferro",
+            "class": [
+                [
+                    "Mago",
+                    6
+                ],
+                [
+                    "Stregone",
+                    6
+                ]
+            ]
         },
         {
             "id": "Wall of Stone",
-            "name": ""
+            "name": "Muro di Pietra",
+            "class": [
+                [
+                    "Chierico",
+                    5
+                ],
+                [
+                    "Druido",
+                    6
+                ],
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Terra",
+                    5
+                ]
+            ]
         },
         {
             "id": "Wall of Thorns",
-            "name": ""
+            "name": "Muro di Spine",
+            "class": [
+                [
+                    "Druido",
+                    5
+                ]
+            ],
+            "domain": [
+                [
+                    "Vegetale",
+                    5
+                ]
+            ]
         },
         {
             "id": "Warp Wood",
-            "name": ""
+            "name": "Deformare Legno",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ]
         },
         {
             "id": "Water Breathing",
-            "name": ""
+            "name": "Respirare Sott'Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Acqua",
+                    3
+                ]
+            ]
         },
         {
             "id": "Water Walk",
-            "name": ""
+            "name": "Camminare sull'Acqua",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Ranger",
+                    3
+                ]
+            ]
         },
         {
             "id": "Waves of Exhaustion",
-            "name": ""
+            "name": "Onde di Esaurimento",
+            "class": [
+                [
+                    "Mago",
+                    7
+                ],
+                [
+                    "Stregone",
+                    7
+                ]
+            ]
         },
         {
             "id": "Waves of Fatigue",
-            "name": ""
+            "name": "Onde di Affaticamento",
+            "class": [
+                [
+                    "Mago",
+                    5
+                ],
+                [
+                    "Stregone",
+                    5
+                ]
+            ]
         },
         {
             "id": "Web",
-            "name": ""
+            "name": "Ragnatela",
+            "class": [
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Weird",
-            "name": ""
+            "name": "Fatale",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ],
+            "domain": [
+                [
+                    "Follia",
+                    9
+                ]
+            ]
         },
         {
             "id": "Whirlwind",
-            "name": ""
+            "name": "Turbine",
+            "class": [
+                [
+                    "Druido",
+                    8
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    8
+                ],
+                [
+                    "Tempo Atmosferico",
+                    8
+                ]
+            ]
         },
         {
             "id": "Whispering Wind",
-            "name": ""
+            "name": "Vento Sussurrante",
+            "class": [
+                [
+                    "Bardo",
+                    2
+                ],
+                [
+                    "Mago",
+                    2
+                ],
+                [
+                    "Stregone",
+                    2
+                ]
+            ]
         },
         {
             "id": "Wind Walk",
-            "name": ""
+            "name": "Camminare nel Vento",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    7
+                ]
+            ]
         },
         {
             "id": "Wind Wall",
-            "name": ""
+            "name": "Muro di Vento",
+            "class": [
+                [
+                    "Chierico",
+                    3
+                ],
+                [
+                    "Druido",
+                    3
+                ],
+                [
+                    "Ranger",
+                    2
+                ],
+                [
+                    "Mago",
+                    3
+                ],
+                [
+                    "Stregone",
+                    3
+                ]
+            ],
+            "domain": [
+                [
+                    "Aria",
+                    2
+                ]
+            ]
         },
         {
             "id": "Wish",
-            "name": ""
+            "name": "Desiderio",
+            "class": [
+                [
+                    "Mago",
+                    9
+                ],
+                [
+                    "Stregone",
+                    9
+                ]
+            ]
         },
         {
             "id": "Wood Shape",
-            "name": ""
+            "name": "Forma Arborea",
+            "class": [
+                [
+                    "Druido",
+                    2
+                ]
+            ],
+            "domain": [
+                [
+                    "Artificio",
+                    2
+                ]
+            ]
         },
         {
             "id": "Word of Chaos",
-            "name": ""
+            "name": "Parola del Caos",
+            "class": [
+                [
+                    "Chierico",
+                    7
+                ]
+            ],
+            "domain": [
+                [
+                    "Caos",
+                    7
+                ]
+            ]
         },
         {
             "id": "Word of Recall",
-            "name": ""
+            "name": "Parola del Ritiro",
+            "class": [
+                [
+                    "Chierico",
+                    6
+                ],
+                [
+                    "Druido",
+                    8
+                ]
+            ]
         },
         {
             "id": "Zone of Silence",
-            "name": ""
+            "name": "Zona di Silenzio",
+            "class": [
+                [
+                    "Bardo",
+                    4
+                ]
+            ]
         },
         {
             "id": "Zone of Truth",
-            "name": ""
+            "name": "Zona di Verità",
+            "class": [
+                [
+                    "Chierico",
+                    2
+                ],
+                [
+                    "Paladino",
+                    2
+                ]
+            ]
         }
     ]
 }
