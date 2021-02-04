@@ -9,7 +9,7 @@
     "dependencies": [{
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.22"
+      "version": "1.24"
     }],
   
     "author": "elfosardo",
