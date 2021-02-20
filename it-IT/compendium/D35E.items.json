@@ -1,0 +1,525 @@
+{
+    "label": "Equipaggiamento",
+    "entries": [
+        {
+            "id": "Acid",
+            "name": "Acido"
+        },
+        {
+            "id": "Alchemist\u2019s fire",
+            "name": "Fuoco dell'Alchimista"
+        },
+        {
+            "id": "Alchemist\u2019s lab",
+            "name":"Laboratorio da Alchimista"
+        },
+        {
+            "id": "Antitoxin",
+            "name": "Antitossina"
+        },
+        {
+            "id": "Artisan\u2019s outfit",
+            "name": "Abito da Artigiano"
+        },
+        {
+            "id": "Artisan\u2019s tools",
+            "name": "Arnesi da Artigiano"
+        },
+        {
+            "id": "Artisan\u2019s tools, masterworked",
+            "name": "Arnesi da Artigiano Perfetti"
+        },
+        {
+            "id": "Backpack, Common",
+            "name": "Zaino, Comune"
+        },
+        {
+            "id": "Backpack, Masterwork",
+            "name": "Zaino, Perfetto"
+        },
+        {
+            "id": "Barding, Large creature",
+            "name": "Bardatura, Creatura Grande"
+        },
+        {
+            "id": "Barding, Medium creature",
+            "name": "Bardatura, Creatura Media"
+        },
+        {
+            "id": "Barrel",
+            "name": "Barile"
+        },
+        {
+            "id": "Basket",
+            "name": "Cesto"
+        },
+        {
+            "id": "Bedroll",
+            "name": "Giaciglio"
+        },
+        {
+            "id": "Bell",
+            "name": "Campanella"
+        },
+        {
+            "id": "Bit and bridle",
+            "name": "Morso e Briglie"
+        },
+        {
+            "id": "Blanket, winter",
+            "name": "Coperta Invernale"
+        },
+        {
+            "id": "Block and tackle",
+            "name": "Carrucola e Paranco"
+        },
+        {
+            "id": "Bottle, wine, glass",
+            "name": "Bottiglia di vetro per vino"
+        },
+        {
+            "id": "Bucket",
+            "name": "Secchio"
+        },
+        {
+            "id": "Caltrops",
+            "name": "Tribolo"
+        },
+        {
+            "id": "Candle",
+            "name": "Candela"
+        },
+        {
+            "id": "Canvas",
+            "name": "Tela"
+        },
+        {
+            "id": "Case, map or scroll",
+            "name": "Custodia per mappe o pergamene"
+        },
+        {
+            "id": "Chain, 10 ft.",
+            "name": "Catena (3 m)"
+        },
+        {
+            "id": "Chalk",
+            "name": "Gessetto"
+        },
+        {
+            "id": "Chest",
+            "name": "Cassa"
+        },
+        {
+            "id": "Cleric\u2019s vestments",
+            "name": "Veste da Chierico"
+        },
+        {
+            "id": "Climber\u2019s kit",
+            "name": "Attrezzi da Scalatore"
+        },
+        {
+            "id": "Cold weather outfit",
+            "name": "Abito Invernale"
+        },
+        {
+            "id": "Courtier\u2019s outfit",
+            "name": "Abito da Cortigiano"
+        },
+        {
+            "id": "Crowbar",
+            "name": "Piede di Porco"
+        },
+        {
+            "id": "Disguise kit",
+            "name": "Trucchi per il cammuffamento"
+        },
+        {
+            "id": "Dog, guard",
+            "name": "Cane da guardia"
+        },
+        {
+            "id": "Dog, riding",
+            "name": "Cane da galoppo"
+        },
+        {
+            "id": "Donkey or mule",
+            "name": "Asino o mulo"
+        },
+        {
+            "id": "Entertainer\u2019s outfit",
+            "name": "Abito da Intrattenitore"
+        },
+        {
+            "id": "Exotic Saddle, Military",
+            "name": "Sella Esotica Militare"
+        },
+        {
+            "id": "Exotic Saddle, Pack",
+            "name": "Sella Esotica da Carico"
+        },
+        {
+            "id": "Exotic Saddle, Riding",
+            "name": "Sella Esotica da Galoppo"
+        },
+        {
+            "id": "Explorer\u2019s outfit",
+            "name": "Abito da Esploratore"
+        },
+        {
+            "id": "Feed",
+            "name": "Nutrimento (al giorno)"
+        },
+        {
+            "id": "Firewood",
+            "name": "Legna da ardere"
+        },
+        {
+            "id": "Fishhook",
+            "name": "Amo da pesca"
+        },
+        {
+            "id": "Fishing net, 25 sq. ft.",
+            "name": "Rete da pesca (2,25 m2)"
+        },
+        {
+            "id": "Flask",
+            "name": "Fiala"
+        },
+        {
+            "id": "Flint and steel",
+            "name": "Acciarino e Pietra Focaia"
+        },
+        {
+            "id": "Hammer",
+            "name": "Martello"
+        },
+        {
+            "id": "Healer\u2019s kit",
+            "name": "Borsa del Guaritore"
+        },
+        {
+            "id": "Holly and mistletoe",
+            "name": "Agrifoglio e Vischio"
+        },
+        {
+            "id": "Holy symbol, silver",
+            "name": "Simbolo Sacro d'Argento"
+        },
+        {
+            "id": "Holy symbol, wooden",
+            "name": "Simbolo Sacro di Legno"
+        },
+        {
+            "id": "Holy water",
+            "name": "Acquasanta"
+        },
+        {
+            "id": "Horse, heavy",
+            "name": "Cavallo Pesante"
+        },
+        {
+            "id": "Horse, light",
+            "name": "Cavallo Leggero"
+        },
+        {
+            "id": "Hourglass",
+            "name": "Clessidra"
+        },
+        {
+            "id": "Ink, 1 oz. vial",
+            "name": "Inchiostro (fiala da 30 gr)"
+        },
+        {
+            "id": "Inkpen",
+            "name": "Pennino"
+        },
+        {
+            "id": "Jug, clay",
+            "name": "Brocca di Ceramica"
+        },
+        {
+            "id": "Ladder, 10-foot",
+            "name": "Scala a pioli (3 m)"
+        },
+        {
+            "id": "Lamp, common",
+            "name": "Lampada Comune"
+        },
+        {
+            "id": "Lantern, bullseye",
+            "name": "Lanterna a Lente Sporgente"
+        },
+        {
+            "id": "Lantern, hooded",
+            "name": "Lanterna Schermabile"
+        },
+        {
+            "id": "Lock, Amazing",
+            "name": "Serratura, Eccezionale"
+        },
+        {
+            "id": "Lock, Average",
+            "name": "Serratura, Media"
+        },
+        {
+            "id": "Lock, Good",
+            "name": "Serratura, Media"
+        },
+        {
+            "id": "Lock, Very simple",
+            "name": "Serratura, Molto Semplice"
+        },
+        {
+            "id": "Magnifying glass",
+            "name": "Lente d'Ingrandimento"
+        },
+        {
+            "id": "Manacles",
+            "name": "Manette"
+        },
+        {
+            "id": "Manacles, Masterworked",
+            "name": "Manette Perfette"
+        },
+        {
+            "id": "Mirror, small steel",
+            "name": "Specchio piccolo di metallo"
+        },
+        {
+            "id": "Monk\u2019s outfit",
+            "name": "Abito da Monaco"
+        },
+        {
+            "id": "Mug/Tankard, clay",
+            "name": "Caraffa di Ceramica"
+        },
+        {
+            "id": "Musical instrument, common",
+            "name": "Strumento Musicale Comune"
+        },
+        {
+            "id": "Musical instrument, masterworked",
+            "name": "Strumento Musicale Perfetto"
+        },
+        {
+            "id": "Noble\u2019s outfit",
+            "name": "Abito da Nobile"
+        },
+        {
+            "id": "Oil, 1-pint flask",
+            "name": "Olio (ampolla da 0,5 l)"
+        },
+        {
+            "id": "Paper",
+            "name": "Carta (foglio)"
+        },
+        {
+            "id": "Parchment",
+            "name": "Pergamena (foglio)"
+        },
+        {
+            "id": "Peasant\u2019s outfit",
+            "name": "Abito da Contadino"
+        },
+        {
+            "id": "Pick, miner\u2019s",
+            "name": "Piccone da Minatore"
+        },
+        {
+            "id": "Pitcher, clay",
+            "name": "Boccale di Ceramica"
+        },
+        {
+            "id": "Piton",
+            "name": "Chiodo da Rocciatore"
+        },
+        {
+            "id": "Pole, 10-foot",
+            "name": "Asta (3 m)"
+        },
+        {
+            "id": "Pony",
+            "name": "Pony"
+        },
+        {
+            "id": "Pot, iron",
+            "name": "Pentola di Ferro"
+        },
+        {
+            "id": "Pouch, belt",
+            "name": "Borsa da Cintura"
+        },
+        {
+            "id": "Pouch, Spell Component",
+            "name": "Borsa per Componenti di Incantesimi"
+        },
+        {
+            "id": "Ram, portable",
+            "name": "Ariete Portatile"
+        },
+        {
+            "id": "Rations, Trail",
+            "name": "Razioni da Viaggio (al giorno)"
+        },
+        {
+            "id": "Rope, hempen, 1m.",
+            "name": "Corda di Canapa"
+        },
+        {
+            "id": "Rope, silk, 1m.",
+            "name": "Corda di Seta"
+        },
+        {
+            "id": "Royal outfit",
+            "name": "Abito Reale"
+        },
+        {
+            "id": "Sack",
+            "name": "Sacco"
+        },
+        {
+            "id": "Saddlebags",
+            "name": "Sacche da Sella"
+        },
+        {
+            "id": "Saddle, Military ",
+            "name": "Sella Militare"
+        },
+        {
+            "id": "Saddle, Pack",
+            "name": "Sella da Carico"
+        },
+        {
+            "id": "Saddle, Riding",
+            "name": "Sella da Galoppo"
+        },
+        {
+            "id": "Scale, merchant\u2019s",
+            "name": "Bilancia da Mercante"
+        },
+        {
+            "id": "Scholar\u2019s outfit",
+            "name": "Abito da Studioso"
+        },
+        {
+            "id": "Sealing wax",
+            "name": "Ceralacca"
+        },
+        {
+            "id": "Sewing needle",
+            "name": "Ago da Cucito"
+        },
+        {
+            "id": "Signal whistle",
+            "name": "Fischietto"
+        },
+        {
+            "id": "Signet ring",
+            "name": "Anello con Sigillo"
+        },
+        {
+            "id": "Sledge",
+            "name": "Slitta"
+        },
+        {
+            "id": "Smokestick",
+            "name": "Bastone di Fumo"
+        },
+        {
+            "id": "Soap",
+            "name": "Sapone"
+        },
+        {
+            "id": "Spade or shovel",
+            "name": "Vanga o Badile"
+        },
+        {
+            "id": "Spellbook",
+            "name": "Libro degli Incantesimi"
+        },
+        {
+            "id": "Spellbook, Traveling",
+            "name": "Libro degli Incantesimi da Viaggio"
+        },
+        {
+            "id": "Spyglass",
+            "name": "Cannocchiale"
+        },
+        {
+            "id": "Stabling",
+            "name": "Stallaggio"
+        },
+        {
+            "id": "Sunrod",
+            "name": "Verga del Sole"
+        },
+        {
+            "id": "Tanglefoot Bag",
+            "name": "Borsa dell'Impedimento"
+        },
+        {
+            "id": "Tent",
+            "name": "Tenda"
+        },
+        {
+            "id": "Thieves\u2019 tools",
+            "name": "Attrezzi da Scasso"
+        },
+        {
+            "id": "Thieves\u2019 tools masterworked",
+            "name": "Attrezzi da Scasso Perfetti"
+        },
+        {
+            "id": "Thunderstone",
+            "name": "Pietra del Tuono"
+        },
+        {
+            "id": "Tindertwig",
+            "name": "Tizzone Ardente"
+        },
+        {
+            "id": "Tools, masterworked",
+            "name": "Attrezzi Perfetti"
+        },
+        {
+            "id": "Torch",
+            "name": "Torcia"
+        },
+        {
+            "id": "Torch, Everburning",
+            "name": "Torcia Inestinguibile"
+        },
+        {
+            "id": "Traveler\u2019s outfit",
+            "name": "Abito da Viaggiatore"
+        },
+        {
+            "id": "Vial, ink or potion",
+            "name": "Fiala, inchiostro o pozione"
+        },
+        {
+            "id": "Warhorse, heavy",
+            "name": "Cavallo da Guerra Pesante"
+        },
+        {
+            "id": "Warhorse, light",
+            "name": "Cavallo da Guerra Leggero"
+        },
+        {
+            "id": "Warpony",
+            "name": "Pony da Guerra"
+        },
+        {
+            "id": "Water clock",
+            "name": "Orologio ad Acqua"
+        },
+        {
+            "id": "Waterskin",
+            "name": "Otre"
+        },
+        {
+            "id": "Whetstone",
+            "name": "Cote per Affilare"
+        },
+    ]
+}
