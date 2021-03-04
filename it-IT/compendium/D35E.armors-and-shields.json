@@ -1,0 +1,77 @@
+{
+    "label": "Armature e Scudi",
+    "entries": [
+        {
+            "id": "Banded Mail",
+            "name": "Corazza di Bande"
+        },
+        {
+            "id": "Breastplate",
+            "name": "Corazza di Piastre"
+        },
+        {
+            "id": "Buckler",
+            "name": "Buckler"
+        },
+        {
+            "id": "Chainmail",
+            "name": "Cotta di Maglia"
+        },
+        {
+            "id": "Chain Shirt",
+            "name": "Giaco di Maglia"
+        },
+        {
+            "id": "Full Plate",
+            "name": "Armatura Completa"
+        },
+        {
+            "id": "Half-Plate",
+            "name": "Mezza Armatura"
+        },
+        {
+            "id": "Heavy Steel Shield",
+            "name": "Scudo Pesante di Metallo"
+        },
+        {
+            "id": "Heavy Wooden Shield",
+            "name": "Scudo Pesante di Legno"
+        },
+        {
+            "id": "Hide Armor",
+            "name": "Pelle"
+        },
+        {
+            "id": "Leather Armor",
+            "name": "Cuoio"
+        },
+        {
+            "id": "Light Steel Shield",
+            "name": "Scudo Leggero di Metallo"
+        },
+        {
+            "id": "Light Wooden Shield",
+            "name": "Scudo Leggero di Legno"
+        },
+        {
+            "id": "Padded Armor",
+            "name": "Imbottita"
+        },
+        {
+            "id": "Scale Mail",
+            "name": "Corazza a Scaglie"
+        },
+        {
+            "id": "Splint Mail",
+            "name": "Corazza a Strisce"
+        },
+        {
+            "id": "Studded Leather Armor",
+            "name": "Cuoio Borchiato"
+        },
+        {
+            "id": "Tower Shield",
+            "name": "Scudo Torre"
+        }
+    ]
+}
