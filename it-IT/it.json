@@ -2,13 +2,11 @@
   "D35E 1": "D35E",
   "D35E.title": "D35E",
   "D35E.description": "Un sistema completo per l'esecuzione di partite di Dungeons & Dragons 3.5E in Foundry VTT.",
-
   "D35E.ActorSheetPFCharacter": "Personaggio",
   "D35E.ActorSheetPFNPC": "PNG",
   "D35E.ActorSheetPFNPCLite": "PNG (Semplice)",
   "D35E.ActorSheetPFNPCMonster": "PNG (Statistiche)",
   "D35E.ActorSheetPFNPCLoot": "Bottino",
-
   "SETTINGS.D35EDiagN": "Regola per il movimento in diagonale",
   "SETTINGS.D35EDiagL": "Configura quale regola per il movimento in diagonale deve essere utilizzata per le partite all'interno di questo sistema.",
   "SETTINGS.D35EInitTBN": "Spareggio Iniziativa sulla Destrezza",
@@ -37,7 +35,6 @@
   "SETTINGS.D35ELowLightVisionModeH": "Quando attivo, i giocatori che non hanno alcun token selezionato non beneficeranno della Visione Crepuscolare (si applica anche a Scurovisione).",
   "SETTINGS.D35PreloadCompendiumsN": "Precarica i Compendium",
   "SETTINGS.D35PreloadCompendiumsH": "Precarica compendium browsers durante il caricamento della pagina.",
-
   "SETTINGS.D35EHealthConfigName": "Configurazione dei PF",
   "SETTINGS.D35EHealthConfigLabel": "Configura i PF",
   "SETTINGS.D35EHealthConfigHint": "Configura i calcoli dei PF",
@@ -57,51 +54,41 @@
   "SETTINGS.D35EHealthConfigWoundsAndVigorPCHint":  "Usa le regole opzionali di Ferite e Vigore per i PG.",
   "SETTINGS.D35EHealthConfigWoundsAndVigorNPCName": "Ferite e Vigore per PNG",
   "SETTINGS.D35EHealthConfigWoundsAndVigorNPCHint": "Usa le regole opzionali di Ferite e Vigore per i PNG.",
-
   "SETTINGS.D35EUnitsN": "Sistema di unità di misura",
   "SETTINGS.D35EUnitsL": "Sistema di unità di misura usato nel mondo",
   
   "TOKEN.VisionLowLight": "Visione Crepuscolare",
   "TOKEN.VisionDarkvision": "Scurovisione",
-
   "D35E.ApplyDamage": "Applica Danno",
   "D35E.ApplyCriticalDamage": "Applica Danno Critico",
   "D35E.ApplyHealing": "Applica Cura",
   "D35E.ApplyCriticalHealing": "Applica Cura Critica",
-
   "D35E.RollsForInitiative": "{0} tira per l'iniziativa!",
-
   "D35E.FlagsInstructions": "Configura talenti e tratti del personaggio per regolare il sistema di D35E.",
   "D35E.FlagsTitle": "Configura Tratti Speciali",
   "D35E.FlagsSave": "Aggiorna Tratti Speciali",
-
   "D35E.AbilityStr": "Forza",
   "D35E.AbilityDex": "Destrezza",
   "D35E.AbilityCon": "Costituzione",
   "D35E.AbilityInt": "Intelligenza",
   "D35E.AbilityWis": "Saggezza",
   "D35E.AbilityCha": "Carisma",
-
   "D35E.AbilityShortStr": "For",
   "D35E.AbilityShortDex": "Des",
   "D35E.AbilityShortCon": "Cos",
   "D35E.AbilityShortInt": "Int",
   "D35E.AbilityShortWis": "Sag",
   "D35E.AbilityShortCha": "Car",
-
   "D35E.SavingThrowFort": "Tempra",
   "D35E.SavingThrowRef": "Riflessi",
   "D35E.SavingThrowWill": "Volontà",
-
   "D35E.ACNormal": "CA",
   "D35E.ACTouch": "Contatto",
   "D35E.ACFlatFooted": "Colto alla sprovvista",
   "D35E.CMDFlatFooted": "CMD Colto alla sprovvista",
-
   "D35E.ACTypeNormal": "Parata",
   "D35E.ACTypeTouch": "Schivata",
   "D35E.ACTypeFlatFooted": "Misc",
-
   "D35E.CondBlind": "Accecato",
   "D35E.CondDazzled": "Abbagliato",
   "D35E.CondDeaf": "Assordato",
@@ -115,7 +102,6 @@
   "D35E.CondFear": "Impaurito",
   "D35E.CondSickened": "Infermo",
   "D35E.CondStunned": "Stordito",
-
   "D35E.CondTypeBleed": "Sanguinamento",
   "D35E.CondTypeBlind": "Accecamento",
   "D35E.CondTypeConfuse": "Confusione",
@@ -133,14 +119,11 @@
   "D35E.CondTypePetrify": "Pietrificazione",
   "D35E.CondTypeStun": "Stordimento",
   "D35E.CondTypeSleep": "Sonno",
-
   "D35E.CostGP": "Costo (MO)",
-
   "D35E.ClassType": "Tipo di Classe",
   "D35E.ClassTypeBase": "Classe Base",
   "D35E.ClassTypePrestige": "Classe di Prestigio",
   "D35E.ClassTypeRacial": "Classe di Razza",
-
   "D35E.ActionMWAK": "Attacco Arma da Mischia",
   "D35E.ActionRWAK": "Attacco Arma a Distanza",
   "D35E.ActionMSAK": "Attacco Incantesimo in Mischia",
@@ -149,7 +132,6 @@
   "D35E.ActionSave": "Tiro Salvezza",
   "D35E.ActionHeal": "Cura",
   "D35E.ActionOther": "Altro",
-
   "D35E.AlignmentLG": "Legale Buono",
   "D35E.AlignmentNG": "Neutrale Buono",
   "D35E.AlignmentCG": "Caotico Buono",
@@ -159,17 +141,14 @@
   "D35E.AlignmentLE": "Legale Malvagio",
   "D35E.AlignmentNE": "Neutrale Malvagio",
   "D35E.AlignmentCE": "Caotico Malvagio",
-
   "D35E.ChatReqMats": "Materiali Richiesti",
   "D35E.ChatOtherFormula": "Altra Formula",
-
   "D35E.Currency": "Monete",
   "D35E.WeightlessCurrency": "Monete Senza Peso",
   "D35E.CurrencyPP": "MP",
   "D35E.CurrencyGP": "MO",
   "D35E.CurrencySP": "MA",
   "D35E.CurrencyCP": "MR",
-
   "D35E.DistPersonal": "Personale",
   "D35E.DistTouch": "Contatto",
   "D35E.DistClose": "Vicino",
@@ -177,7 +156,6 @@
   "D35E.DistLong": "Lontano",
   "D35E.DistFt": "Piedi",
   "D35E.DistMi": "Miglia",
-
   "D35E.ItemContainerCapacity": "Capacità",
   "D35E.ItemContainerCapacityItems": "Oggetti",
   "D35E.ItemContainerCapacityType": "Tipo di Capacità",
@@ -186,23 +164,19 @@
   "D35E.ItemContainerHeader": "Contenitori",
   "D35E.ItemContainerProperties": "Proprietà del Contenitore",
   "D35E.ItemContainerWeightless": "Contenuti Senza Peso",
-
   "D35E.LootTypeGear": "Equipaggiamento",
   "D35E.LootTypeAmmo": "Munizioni",
   "D35E.LootTypeTradeGoods": "Beni di Scambio",
-
   "D35E.SenseBS": "Vista Cieca",
   "D35E.SenseDV": "Scurovisione",
   "D35E.SenseTS": "Percezione Tellurica",
   "D35E.SenseTR": "Vista Pura",
   "D35E.SenseLL": "Visione Crepuscolare",
-
   "D35E.FlyManeuverabilityClumsy": "Maldestra",
   "D35E.FlyManeuverabilityPoor": "Povera",
   "D35E.FlyManeuverabilityAverage": "Media",
   "D35E.FlyManeuverabilityGood": "Buona",
   "D35E.FlyManeuverabilityPerfect": "Perfetta",
-
   "D35E.BuffTarAC": "CA",
   "D35E.BuffTarACGeneric": "Generico",
   "D35E.BuffTarACArmor": "Armatura",
@@ -222,7 +196,6 @@
   "D35E.BuffTarIntChecks": "Prove di Intelligenza",
   "D35E.BuffTarWisChecks": "Prove di Saggezza",
   "D35E.BuffTarChaChecks": "Prove di Carisma",
-
   "D35E.SkillApr": "Valutare",
   "D35E.SkillBlc": "Equilibrio",
   "D35E.SkillBlf": "Raggirare",
@@ -267,7 +240,6 @@
   "D35E.SkillTmb": "Acrobazia",
   "D35E.SkillUMD": "Utilizzare Oggetti Magici",
   "D35E.SkillUro": "Utilizzare Corde",
-
   "D35E.TargetAlly": "Alleato",
   "D35E.TargetCreature": "Creatura",
   "D35E.TargetCylinder": "Cilindro",
@@ -282,7 +254,6 @@
   "D35E.TargetSquare": "Quadrato",
   "D35E.TargetSpace": "Spazio",
   "D35E.TargetWall": "Muro",
-
   "D35E.TimeInst": "Istantanea",
   "D35E.TimeTurn": "Turni",
   "D35E.TimeRound": "Round",
@@ -292,28 +263,22 @@
   "D35E.TimeMonth": "Mesi",
   "D35E.TimeYear": "Anni",
   "D35E.TimePerm": "Permanente",
-
   "D35E.TraitArmorProf": "Competenza nelle Armature",
   "D35E.TraitWeaponProf": "Competenza nelle Armi",
-
   "D35E.SpellPrepAtWill": "A Volontà",
   "D35E.SpellPrepPrepared": "Preparato",
   "D35E.SpellPrepSpontaneous": "Spontaneo",
-
   "D35E.SpellComponentVerbal": "Verbale",
   "D35E.SpellComponentSomatic": "Somatica",
   "D35E.SpellComponentMaterial": "Materiale",
   "D35E.SpellComponentFocus": "Focus",
   "D35E.SpellComponentDivineFocus": "Focus Divino",
-
   "D35E.SpellComponentDivineFocusAlone": "FD",
   "D35E.SpellComponentDivineFocusMaterial": "M/FD",
   "D35E.SpellComponentDivineFocusFocus": "F/FD",
-
   "D35E.MeasureTemplateCone": "Cono",
   "D35E.MeasureTemplateCircle": "Cerchio",
   "D35E.MeasureTemplateRay": "Raggio",
-
   "D35E.ItemTypeWeapon": "Arma",
   "D35E.ItemTypeEquipment": "Equipaggiamento",
   "D35E.ItemTypeLoot": "Bottino",
@@ -323,13 +288,11 @@
   "D35E.ItemTypeSpell": "Incantesimo",
   "D35E.ItemTypeFeat": "Talento",
   "D35E.ItemTypeAttack": "Attacco",
-
   "D35E.WeaponType": "Tipo di Arma",
   "D35E.WeaponTypeSimple": "Semplice",
   "D35E.WeaponTypeMartial": "Marziale",
   "D35E.WeaponTypeExotic": "Esotica",
   "D35E.WeaponTypeSplash": "a Spargimento",
-
   "D35E.WeaponPropBlocking": "Bloccante",
   "D35E.WeaponPropBrace": "Brace",
   "D35E.WeaponPropDouble": "Doppia",
@@ -345,16 +308,13 @@
   "D35E.WeaponPropSunder": "Spezzare",
   "D35E.WeaponPropThrown": "Lanciata",
   "D35E.WeaponPropTrip": "Trip",
-
   "D35E.WeaponSubtype": "Sottotipo d'Arma",
   "D35E.WeaponPropLight": "Leggera",
   "D35E.WeaponPropOneHanded": "a Una Mano",
   "D35E.WeaponPropTwoHanded": "a Due Mani",
   "D35E.WeaponSubtypeRanged": "a Gittata",
-
   "D35E.EquipTypeShield": "Scudo",
   "D35E.EquipTypeArmor": "Armatura",
-
   "D35E.EquipTypeLight": "Armatura Leggera",
   "D35E.EquipTypeMedium": "Armatura Media",
   "D35E.EquipTypeHeavy": "Armatura Pesante",
@@ -365,7 +325,6 @@
   "D35E.EquipTypeOtherShield": "Scudo Diverso",
   "D35E.EquipTypeClothing": "Vestiti",
   "D35E.EquipTypeWondrousItem": "Oggetto Meraviglioso",
-
   "D35E.EquipSlotSlotless": "Senza Spazio",
   "D35E.EquipSlotArmor": "Armatura",
   "D35E.EquipSlotShield": "Scudo",
@@ -381,13 +340,11 @@
   "D35E.EquipSlotHands": "Mani",
   "D35E.EquipSlotRing": "Anello",
   "D35E.EquipSlotFeet": "Piedi",
-
   "D35E.ConsumableTypePotion": "Pozione/Olio",
   "D35E.ConsumableTypePoison": "Veleno",
   "D35E.ConsumableTypeDrug": "Droga",
   "D35E.ConsumableTypeScroll": "Pergamena",
   "D35E.ConsumableTypeWand": "Bacchetta",
-
   "D35E.AttackTypeWeapon": "Attacco con Arma",
   "D35E.AttackTypeWeaponPlural": "Attacchi con Arma",
   "D35E.AttackTypeNatural": "Attacco Naturale",
@@ -396,12 +353,10 @@
   "D35E.AttackTypeAbilityPlural": "Abilità di Classe",
   "D35E.AttackTypeRacial": "Abilità di Razza",
   "D35E.AttackTypeRacialPlural": "Abilità di Razza",
-
   "D35E.FeatTypeFeat": "Talento",
   "D35E.FeatTypeClassFeat": "Talento di Classe",
   "D35E.FeatTypeTraits": "Tratto",
   "D35E.FeatTypeRacial": "Tratto Razziale",
-
   "D35E.ActivationTypePassive": "Passivo",
   "D35E.ActivationTypeFree": "Azione Gratuita",
   "D35E.ActivationTypeSwift": "Azione Rapida",
@@ -414,7 +369,6 @@
   "D35E.ActivationTypeMinute": "Minuto",
   "D35E.ActivationTypeHour": "Ora",
   "D35E.ActivationTypeSpecial": "Speciale",
-
   "D35E.ActivationTypeFreePlural": "Azioni Gratuite",
   "D35E.ActivationTypeSwiftPlural": "Azioni Rapide",
   "D35E.ActivationTypeImmediatePlural": "Azioni Immediate",
@@ -425,12 +379,10 @@
   "D35E.ActivationTypeRoundPlural": "Round",
   "D35E.ActivationTypeMinutePlural": "Minuti",
   "D35E.ActivationTypeHourPlural": "Ore",
-
   "D35E.LimitedUseSingle": "Uso Singolo",
   "D35E.LimitedUseDay": "Al Giorno",
   "D35E.LimitedUseWeek": "Alla Settimana",
   "D35E.LimitedUseCharges": "Cariche",
-
   "D35E.ActorSizeFine": "Piccolissima",
   "D35E.ActorSizeDiminutive": "Minuta",
   "D35E.ActorSizeTiny": "Minuscola",
@@ -440,7 +392,6 @@
   "D35E.ActorSizeHuge": "Enorme",
   "D35E.ActorSizeGargantuan": "Mastodontica",
   "D35E.ActorSizeColossal": "Colossale",
-
   "D35E.SpellSchoolAbjuration": "Abiurazione",
   "D35E.SpellSchoolConjuration": "Convocazione",
   "D35E.SpellSchoolDivination": "Divinazione",
@@ -450,7 +401,6 @@
   "D35E.SpellSchoolNecromancy": "Necromanzia",
   "D35E.SpellSchoolTransmutation": "Trasmutazione",
   "D35E.SpellSchoolUniversal": "Universale",
-
   "D35E.SpellLevel0": "Trucchetto",
   "D35E.SpellLevel1": "1o Livello",
   "D35E.SpellLevel2": "2o Livello",
@@ -461,25 +411,20 @@
   "D35E.SpellLevel7": "7o Livello",
   "D35E.SpellLevel8": "8o Livello",
   "D35E.SpellLevel9": "9o Livello",
-
   "D35E.FavouredClassBonuses": "Bonsu Classe Favorita",
   "D35E.FavouredClassHP": "Punti Ferita",
   "D35E.FavouredClassSkill": "Abilità",
   "D35E.FavouredClassAlt": "Alt",
-
   "D35E.ArmorProfLight": "Armature Leggere",
   "D35E.ArmorProfMedium": "Armature Medie",
   "D35E.ArmorProfHeavy": "Armature Pesanti",
   "D35E.ArmorProfShield": "Scudi",
   "D35E.ArmorProfTowerShield": "Scudi Torre",
-
   "D35E.WeaponProfSimple": "Armi Semplici",
   "D35E.WeaponProfMartial": "Armi da Guerra",
-
   "D35E.InventoryWeapons": "Armi",
   "D35E.InventoryArmorEquipment": "Armatura/Equipaggiamento",
   "D35E.InventoryConsumables": "Consumabili",
-
   "D35E.ChangeFlagLoseDexToAC": "Perdita DES dalla CA",
   "D35E.ChangeFlagNoDex": "0 Des",
   "D35E.ChangeFlagNoStr": "0 For",
@@ -489,7 +434,6 @@
   "D35E.ChangeFlagDwarflikeEncumbrance": "Ingombro Nanico",
   "D35E.ChangeFlagMediumArmorFullSpeed": "Velocità Massima con Armatura Media",
   "D35E.ChangeFlagHeavyArmorFullSpeed": "Velocità Massima con Armatura Pesante",
-
   "D35E.ErrorNoActorPermission": "Non hai il permesso per controllare questo personaggio",
   "D35E.ErrorNoFormula": "{0} non ha una formula per il lancio dei dadi!",
   "D35E.ErrorItemNoOwner": "Questo oggetto non ha proprietario",
@@ -500,7 +444,6 @@
   "D35E.ErrorUnauthorizedAction": "Non sei autorizzato ad effettuare quell'azione",
   "D35E.WarningNoSizeDie": "Impossibile determinare il tipo di dado per {0}, si userà {1} di default",
   "D35E.NotificationCreatedAttack": "Attacco creato per {0}",
-
   "D35E.CMDNotes": "Note di CMD",
   "D35E.AttackNotes": "Note di Attacco",
   "D35E.EffectNotes": "Note dell'Effetto",
@@ -509,22 +452,18 @@
   "D35E.ACNotes": "Note della CA",
   "D35E.SaveNotes": "Note sui Tiri Salvezza",
   "D35E.NonApplicable": "N/A",
-
   "D35E.SkillTypeAdventure": "Avventura",
   "D35E.SkillTypeBackground": "Background",
-
   "D35E.ACP": "PCA",
   "D35E.ACPTooltip": "Penalità Classe Armatura",
   "D35E.CS": "AC",
   "D35E.CSTooltip": "Abilità di Classe",
   "D35E.RT": "RA",
   "D35E.RTTooltip": "Richiede Addestramento",
-
   "D35E.BrowseSpells": "Consulta Incantesimi",
   "D35E.BrowseItems": "Consulta Oggetti",
   "D35E.BrowseBestiary": "Consulta il Bestiario",
   "D35E.BrowseFeats": "Consulta Talenti",
-
   "D35E.CreatureTypeAberration": "Aberrazione",
   "D35E.CreatureTypeAnimal": "Animale",
   "D35E.CreatureTypeConstruct": "Costrutto",
@@ -538,12 +477,10 @@
   "D35E.CreatureTypePlant": "Vegetale",
   "D35E.CreatureTypeUndead": "Nonmorto",
   "D35E.CreatureTypeVermin": "Parassita",
-
   "D35E.Rest": "Riposa",
   "D35E.RestoreHealth": "Recupera Punti Ferita",
   "D35E.RestoreDailyUses": "Recupera Usi Giornalieri",
   "D35E.LongTermCare": "Cura a Lungo Termine",
-
   "D35E.Action": "Azione",
   "D35E.All": "Tutte",
   "D35E.Attack": "Attacco",
@@ -1070,12 +1007,10 @@
   "D35E.Filter": "Filtro",
   "D35E.FilterDescriptionAddAbilities": "Filtra abilità disponibili",
   "D35E.NotAddingAbilityWithNoUID": "L'Abilità {0} non è stata automaticamente aggiunta all'attore perchè non ha UID",
-
   "D35E.Combat": "Combattimento",
   "D35E.SetLevelData": "Salva Informazioni di Livello",
   "D35E.WeaponFightingMode": "Modalità Impugnatura Arma",
   "D35E.TwoWeaponTwoHanded": "A Due Mani",
-
   "D35E.SpeedAndMovement": "Velocità e Movimento",
   "D35E.AbilityScores": "Punteggi Caratteristiche",
   "D35E.UsePointBuy": "Use Point Buy",
@@ -1124,7 +1059,6 @@
   "D35E.SpellSpecializationGrantedPowers": "Poteri Acquisiti",
   "D35E.Configuration": "Configurazione",
   "D35E.HasSpecialSpellSlot": "Ha caselle per incantesimo speciale (Dominio/Scuola)",
-
   "D35E.Or": "O",
   "D35E.or": "o",
   "D35E.And": "E",
@@ -1173,7 +1107,6 @@
   "D35E.ConditionsAndBuffs": "Condizioni e Potenziamenti",
   "D35E.ListDragAndDropCompendium": "Compendium",
   "D35E.LegacyAttributes": "Legacy Actor Attributes",
-
   "D35E.SpecialSlotPrepared": "Preparato in casella di Scuola/Dominio",
   "D35E.SpellReplacement": "Lanciato usando Conversione Spontanea",
   "D35E.SpellSpecialized": "Incantesimo da una Scuola/un Dominio",
@@ -1182,7 +1115,6 @@
   "D35E.CastAsReplacementDesc": "Questo incantesimo può essere lanciato come",
   "D35E.IsSpontanousReplacemet": "Sostituzione Spontanea",
   "D35E.PrepareAsSpecialSpell": "Prepra incantesimo in casella di Scuola/Dominio",
-
   "D35E.BaseWeaponAttackBonus": "Bonus Attacco Base Arma",
   "D35E.AttackRoll": "Bonus Attacco Base Arma",
   "D35E.WeaponDamageAlignment": "Allineamento Danno Arma",
@@ -1203,17 +1135,14 @@
   "D35E.AddEffect": "Aggiungi Effetto",
   "D35E.AddConditional": "Aggiungi Modificatore di Condizione",
   "D35E.Licenses": "Licenze",
-
   "D35E.Energy": "Energia",
   "D35E.BaseDamage": "Danno Base",
   "D35E.ERLethalDamage": "Danno Letale in caso di creature con Rigenerazione",
   "D35E.LethalDamageFrom": "Danno Letale da",
-
   "D35E.FullAttackDropDescription": "Drop Attack from actor here to set it.",
   "D35E.FullAttackAttacks": "Attacchi in Attacco Completo",
   "D35E.FullAttackDescription": "Descrizione Attacco Completo",
   "D35E.FullAttackAttackCount": "Numero Attacco",
-
   "D35E.ACRollDefense": "Tiro Difesa",
   "D35E.ACBonus": "Bonus CA Situazionale",
   "D35E.ACDialogModifiers": "Modificatori Classe Armatura",
@@ -1271,7 +1200,6 @@
   "D35E.ItemHasUID": "This item has Unique ID set. It is designed to be added to characters <strong>only</strong> by adding it as class or race ability.<br><br>Remember to start your own UIDs with <span style='font-family: monospace'>user-</span> prefix.",
   "D35E.AddItem": "Aggiungi Oggetto",
   "D35E.Wealth": "Ricchezza",
-
   "SETTINGS.D35EShowPartyHudN": "Party HUD type",
   "SETTINGS.D35EShowPartyHudL": "How to display party HUD",
   "SETTINGS.D35ECustomSkinN": "Use Custom Skin",
