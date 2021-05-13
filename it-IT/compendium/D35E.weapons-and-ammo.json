@@ -1,0 +1,321 @@
+{
+    "label": "Armi e Munizioni",
+    "entries": [
+        {
+            "id": "Armor Spikes",
+            "name": "Armatura Chiodata"
+        },
+        {
+            "id": "Arrow",
+            "name": "Freccia"
+        },
+        {
+            "id": "Bastard Sword",
+            "name": "Spada Bastarda"
+        },
+        {
+            "id": "Battleaxe",
+            "name": "Ascia da Battaglia"
+        },
+        {
+            "id": "Bayonet",
+            "name": "Baionetta"
+        },
+        {
+            "id": "Blowgun",
+            "name": "Cerbottana"
+        },
+        {
+            "id": "Blowgun Darts (10)",
+            "name": "Dardi da Cerbottana (10)"
+        },
+        {
+            "id": "Bolas",
+            "name": "Bolas"
+        },
+        {
+            "id": "Club",
+            "name": "Randello"
+        },
+        {
+            "id": "Composite Longbow",
+            "name": "Arco Lungo Composito"
+        },
+        {
+            "id": "Composite Shortbow",
+            "name": "Arco Corto Composito"
+        },
+        {
+            "id": "Crossbow Bolt",
+            "name": "Quadrello"
+        },
+        {
+            "id": "Dagger",
+            "name": "Pugnale"
+        },
+        {
+            "id": "Dart",
+            "name": "Dardo"
+        },
+        {
+            "id": "Dire Flail",
+            "name": "Mazzafrusto Doppio"
+        },
+        {
+            "id": "Dwarven Urgrosh",
+            "name": "Urgrosh Nanico"
+        },
+        {
+            "id": "Dwarven Waraxe",
+            "name": "Ascia da Guerra Nanica"
+        },
+        {
+            "id": "Falchion",
+            "name": "Falchion"
+        },
+        {
+            "id": "Flail",
+            "name": "Mazzafrusto"
+        },
+        {
+            "id": "Gauntlet",
+            "name": "Guanto d’Arme"
+        },
+        {
+            "id": "Glaive",
+            "name": "Falcione"
+        },
+        {
+            "id": "Gnome Hooked Hammer",
+            "name": "Martello-Picca Gnomesco"
+        },
+        {
+            "id": "Grappling Hook",
+            "name": "Rampino"
+        },
+        {
+            "id": "Greataxe",
+            "name": "Ascia Bipenne"
+        },
+        {
+            "id": "Greatclub",
+            "name": "Randello Pesante"
+        },
+        {
+            "id": "Greatsword",
+            "name": "Spadone"
+        },
+        {
+            "id": "Guisarme",
+            "name": "Giusarma"
+        },
+        {
+            "id": "Halberd",
+            "name": "Alabarda"
+        },
+        {
+            "id": "Handaxe",
+            "name": "Ascia"
+        },
+        {
+            "id": "Hand Crossbow",
+            "name": "Balestra a Mano"
+        },
+        {
+            "id": "Heavy Crossbow",
+            "name": "Balestra Pesante"
+        },
+        {
+            "id": "Heavy Flail",
+            "name": "Mazzafrusto Pesante"
+        },
+        {
+            "id": "Heavy Mace",
+            "name": "Mazza Pesante"
+        },
+        {
+            "id": "Heavy Pick",
+            "name": "Piccone Pesante"
+        },
+        {
+            "id": "Heavy Repeating Crossbow",
+            "name": "Balestra a Ripetizione Pesante"
+        },
+        {
+            "id": "Javelin",
+            "name": "Giavellotto"
+        },
+        {
+            "id": "Kama",
+            "name": "Kama"
+        },
+        {
+            "id": "Kukri",
+            "name": "Kukri"
+        },
+        {
+            "id": "Lance",
+            "name": "Lancia da Cavaliere"
+        },
+        {
+            "id": "Light Crossbow",
+            "name": "Balestra Leggera"
+        },
+        {
+            "id": "Light Hammer",
+            "name": "Martello Leggero"
+        },
+        {
+            "id": "Light Mace",
+            "name": "Mazza Leggera"
+        },
+        {
+            "id": "Light Pick",
+            "name": "Piccone Leggero"
+        },
+        {
+            "id": "Light Repeating Crossbow",
+            "name": "Balestra a Ripetizione Leggera"
+        },
+        {
+            "id": "Longbow",
+            "name": "Arco Lungo"
+        },
+        {
+            "id": "Longspear",
+            "name": "Lancia Lunga"
+        },
+        {
+            "id": "Longsword",
+            "name": "Spada Lunga"
+        },
+        {
+            "id": "Morningstar",
+            "name": "Morningstar"
+        },
+        {
+            "id": "Net",
+            "name": "Rete"
+        },
+        {
+            "id": "Nunchaku",
+            "name": "Nunchaku"
+        },
+        {
+            "id": "Orc Double Axe",
+            "name": "Doppia Ascia Orchesca"
+        },
+        {
+            "id": "Punching Dagger",
+            "name": "Pugnale da Mischia"
+        },
+        {
+            "id": "Quarterstaff",
+            "name": "Bastone Ferrato"
+        },
+        {
+            "id": "Ranseur",
+            "name": "Corsesca"
+        },
+        {
+            "id": "Rapier",
+            "name": "Stocco"
+        },
+        {
+            "id": "Repeating Crossbow Bolt",
+            "name": "Quadrello da Balestra a Ripetizione"
+        },
+        {
+            "id": "Sai",
+            "name": "Sai"
+        },
+        {
+            "id": "Sap",
+            "name": "Manganello"
+        },
+        {
+            "id": "Scimitar",
+            "name": "Scimitarra"
+        },
+        {
+            "id": "Scythe",
+            "name": "Falce"
+        },
+        {
+            "id": "Shield Spikes (Heavy)",
+            "name": "Scudo Chiodato (Pesante)"
+        },
+        {
+            "id": "Shield Spikes (Light)",
+            "name": "Scudo Chiodato (Leggero)"
+        },
+        {
+            "id": "Shortbow",
+            "name": "Arco Corto"
+        },
+        {
+            "id": "Shortspear",
+            "name": "Lancia Corta"
+        },
+        {
+            "id": "Shortsword",
+            "name": "Spada Corta"
+        },
+        {
+            "id": "Shuriken",
+            "name": "Shuriken"
+        },
+        {
+            "id": "Siangham",
+            "name": "Siangham"
+        },
+        {
+            "id": "Sickle",
+            "name": "Falcetto"
+        },
+        {
+            "id": "Sling",
+            "name": "Fionda"
+        },
+        {
+            "id": "Sling Bullet",
+            "name": "Proiettile per Fionda"
+        },
+        {
+            "id": "Spear",
+            "name": "Lancia"
+        },
+        {
+            "id": "Spiked Chain",
+            "name": "Catena Chiodata"
+        },
+        {
+            "id": "Spiked Gauntlet",
+            "name": "Guanto d'Arme Chiodato"
+        },
+        {
+            "id": "Throwing Axe",
+            "name": "Ascia da Lancio"
+        },
+        {
+            "id": "Trident",
+            "name": "Tridente"
+        },
+        {
+            "id": "Two-Bladed Sword",
+            "name": "Spada a Due Lame"
+        },
+        {
+            "id": "Unarmed Strike",
+            "name": "Colpo senz’armi"
+        },
+        {
+            "id": "Warhammer",
+            "name": "Martello da Guerra"
+        },
+        {
+            "id": "Whip",
+            "name": "Frusta"
+        }
+    ]
+}
