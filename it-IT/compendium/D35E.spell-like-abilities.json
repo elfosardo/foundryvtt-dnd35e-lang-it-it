@@ -1,0 +1,181 @@
+{
+    "label": "Abilità Magiche",
+    "entries": [
+        {
+            "id": "Aid",
+            "name": "Aiuto"
+        },
+        {
+            "id": "Aversion",
+            "name": "Avversione"
+        },
+        {
+            "id": "Blasphemy",
+            "name": "Blasfemia"
+        },
+        {
+            "id": "Bless",
+            "name": "Benedizione"
+        },
+        {
+            "id": "Blindness/Deafness",
+            "name": "Cecità/Sordità"
+        },
+        {
+            "id": "Blur",
+            "name": "Sfocatura"
+        },
+        {
+            "id": "Charm Monster, Mass",
+            "name": "Charme sui Mostri di Massa"
+        },
+        {
+            "id": "Confusion, Lesser",
+            "name": "Confusione Inferiore"
+        },
+        {
+            "id": "Contagion",
+            "name": "Contagio"
+        },
+        {
+            "id": "Cure Serious Wounds",
+            "name": "Cura Ferite Gravi"
+        },
+        {
+            "id": "Dancing Lights",
+            "name": "Luci Danzanti"
+        },
+        {
+            "id": "Darkness",
+            "name": "Oscurità"
+        },
+        {
+            "id": "Daylight",
+            "name": "Luce Diurna"
+        },
+        {
+            "id": "Desecrate",
+            "name": "Dissacrare"
+        },
+        {
+            "id": "Destruction",
+            "name": "Distruzione"
+        },
+        {
+            "id": "Detect Chaos",
+            "name": "Individuazione del Caos"
+        },
+        {
+            "id": "Detect Evil",
+            "name": "Individuazione del Male"
+        },
+        {
+            "id": "Detect Good",
+            "name": "Individuazione del Bene"
+        },
+        {
+            "id": "Detect Law",
+            "name": "Individuazione della Legge"
+        },
+        {
+            "id": "Detect Thoughts",
+            "name": "Individuazione dei Pensieri"
+        },
+        {
+            "id": "Disguise Self",
+            "name": "Camuffare Se Stesso"
+        },
+        {
+            "id": "Dispel Evil",
+            "name": "Dissolvi il Male"
+        },
+        {
+            "id": "Dispel Magic",
+            "name": "Dissolvi Magie"
+        },
+        {
+            "id": "Entangle",
+            "name": "Intralciare"
+        },
+        {
+            "id": "Faerie Fire",
+            "name": "Luminescenza"
+        },
+        {
+            "id": "Ghost Sound",
+            "name": "Suono Fantasma"
+        },
+        {
+            "id": "Hallow",
+            "name": "Santificare"
+        },
+        {
+            "id": "Holy Aura",
+            "name": "Aura Sacra"
+        },
+        {
+            "id": "Holy Smite",
+            "name": "Punizione Sacra"
+        },
+        {
+            "id": "Holy Word",
+            "name": "Parola Sacra"
+        },
+        {
+            "id": "Horrid Wilting",
+            "name": "Orrido Avvizzimento"
+        },
+        {
+            "id": "Intellect Fortress",
+            "name": "Fortezza dell'Intelletto"
+        },
+        {
+            "id": "Neutralize Poison",
+            "name": "Neutralizza Veleno"
+        },
+        {
+            "id": "Permanent Image",
+            "name": "Immagine Permanente"
+        },
+        {
+            "id": "Poison",
+            "name": "Veleno"
+        },
+        {
+            "id": "Prestidigitation",
+            "name": "Prestidigitazione"
+        },
+        {
+            "id": "Protection from Evil",
+            "name": "Protezione dal Male"
+        },
+        {
+            "id": "Remove Disease",
+            "name": "Rimuovi Malattia"
+        },
+        {
+            "id": "Resurrection",
+            "name": "Resurrezione"
+        },
+        {
+            "id": "Speak With Animals",
+            "name": "Parlare con gli Animali"
+        },
+        {
+            "id": "Summon Monster IX",
+            "name": "Evoca Mostri IX"
+        },
+        {
+            "id": "Unhallow",
+            "name": "Profanare"
+        },
+        {
+            "id": "Unholy Aura",
+            "name": "Aura Sacrilega"
+        },
+        {
+            "id": "Unholy Blight",
+            "name": "Influenza Sacrilega"
+        }
+    ]
+}
