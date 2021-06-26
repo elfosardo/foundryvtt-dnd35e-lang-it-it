@@ -57,8 +57,7 @@ function classTransformation(cl) {
 }
 
 async function fixSystemCache() {
-  console.error("fixSystemCache");
-  await cache.buildCache();
+  await cache.rebuildCache();
   console.log("IT-TRANSLATION | Cache is ", CACHE);
   const cacheReady = !Object.keys(CACHE)
     .map((k) => CACHE[k])
@@ -95,6 +94,6 @@ Hooks.once("init", () => {
       },
     });
 
-    setTimeout(fixSystemCache, 5000);
+    setTimeout(fixSystemCache, 10000);
   }
 });
