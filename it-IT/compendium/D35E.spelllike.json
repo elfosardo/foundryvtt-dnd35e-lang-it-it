@@ -1,0 +1,13 @@
+{
+    "label": "Spell-Like Abilities",
+    "mapping": {
+        "class": {
+            "path": "data.learnedAt.class",
+            "converter": "classNamesArray"
+        },
+        "domain": {
+            "path": "data.learnedAt.domain",
+            "converter": "domainNamesArray"
+        }
+    }
+}
