@@ -1,0 +1,9 @@
+{
+    "label": "Dominii e Scuole",
+    "mapping": {
+        "names": {
+            "path": "name",
+            "converter": "domainAndSchoolNames"
+        }
+    }
+}
