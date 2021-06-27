@@ -93,7 +93,9 @@ Hooks.once("init", () => {
         return associations;
       },
     });
-
-    setTimeout(fixSystemCache, 10000);
   }
+});
+
+Hooks.once("canvasReady", async () => {
+  setTimeout(fixSystemCache, 5000);
 });
