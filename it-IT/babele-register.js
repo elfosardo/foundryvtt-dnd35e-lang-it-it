@@ -119,7 +119,7 @@ async function fixSystemCache() {
       if (map.size !== undefined) {
         return map.size === 0;
       }
-      return map.lenght === 0;
+      return map.length === 0;
     });
 
   if (cacheReady) {
