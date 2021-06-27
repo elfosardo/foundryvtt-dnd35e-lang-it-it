@@ -1,9 +1,9 @@
 {
     "label": "Privilegi di Classe",
     "mapping": {
-        "associations": {
-            "path": "data.associations",
-            "converter": "classNames"
+        "classes": {
+            "path": "data.associations.classes",
+            "converter": "classNamesArray"
         }
     },
     "entries": [
