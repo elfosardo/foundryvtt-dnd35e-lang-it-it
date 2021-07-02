@@ -110,6 +110,7 @@ const domainAndSchoolsTransformation = {
   "Necromancy Spell School": "Scuola della Necromanzia",
   "Transmutation Spell School": "Scuola della Trasmutazione",
 };
+
 async function fixSystemCache() {
   await cache.rebuildCache();
   console.log("IT-TRANSLATION | Cache is ", CACHE);
