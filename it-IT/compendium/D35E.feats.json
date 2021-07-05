@@ -2,1231 +2,1231 @@
     "label": "Talenti",
     "entries": [
         {
-        "id": "Ability Focus",
+            "id": "Ability Focus",
             "name": "Capacità Focalizzata"
         },
         {
-        "id": "Acrobatic",
+            "id": "Acrobatic",
             "name": "Acrobatico"
         },
         {
-        "id": "Additional Magic Item Space",
+            "id": "Additional Magic Item Space",
             "name": "Spazio per Oggetti Magici Aggiuntivo"
         },
         {
-        "id": "Agile",
+            "id": "Agile",
             "name": "Agile"
         },
         {
-        "id": "Alertness",
+            "id": "Alertness",
             "name": "Allerta"
         },
         {
-        "id": "Animal Affinity",
+            "id": "Animal Affinity",
             "name": "Affinità Animale"
         },
         {
-        "id": "Armor Proficiency (Heavy)",
+            "id": "Armor Proficiency (Heavy)",
             "name": "Competenza nelle Armature (Pesanti)"
         },
         {
-        "id": "Armor Proficiency (Light)",
+            "id": "Armor Proficiency (Light)",
             "name": "Competenza nelle Armature (Leggere)"
         },
         {
-        "id": "Armor Proficiency (Medium)",
+            "id": "Armor Proficiency (Medium)",
             "name": "Competenza nelle Armature (Medie)"
         },
         {
-        "id": "Armor Skin",
+            "id": "Armor Skin",
             "name": "Armatura Naturale Migliorata"
         },
         {
-        "id": "Athletic",
+            "id": "Athletic",
             "name": "Atletico"
         },
         {
-        "id": "Augmented Alchemy",
+            "id": "Augmented Alchemy",
             "name": "Alchimia Accresciuta"
         },
         {
-        "id": "Augment Summoning",
+            "id": "Augment Summoning",
             "name": "Aumentare Evocazione"
         },
         {
-        "id": "Automatic Quicken Spell",
+            "id": "Automatic Quicken Spell",
             "name": "Incantesimi Rapidi Automatici"
         },
         {
-        "id": "Automatic Silent Spell",
+            "id": "Automatic Silent Spell",
             "name": "Incantesimi Silenziosi Automatici"
         },
         {
-        "id": "Automatic Still Spell",
+            "id": "Automatic Still Spell",
             "name": "Incantesimi Immobili Automatici"
         },
         {
-        "id": "Awesome Blow",
+            "id": "Awesome Blow",
             "name": "Colpo Terrificante"
         },
         {
-        "id": "Bane of Enemies",
+            "id": "Bane of Enemies",
             "name": "Anatema dei Nemici"
         },
         {
-        "id": "Blind-Fight",
+            "id": "Blind-Fight",
             "name": "Combattere alla Cieca"
         },
         {
-        "id": "Blinding Speed",
+            "id": "Blinding Speed",
             "name": "Velocità Accecante"
         },
         {
-        "id": "Blindsight, 5-ft. Radius",
+            "id": "Blindsight, 5-ft. Radius",
             "name": "Vista Cieca nel raggio di 1,5 m"
         },
         {
-        "id": "Bonus Domain",
+            "id": "Bonus Domain",
             "name": "Dominio Bonus"
         },
         {
-        "id": "Brew Potion",
+            "id": "Brew Potion",
             "name": "Mescere Pozioni"
         },
         {
-        "id": "Bulwark of Defense",
+            "id": "Bulwark of Defense",
             "name": "Baluardo di Difesa"
         },
         {
-        "id": "Chaotic Rage",
+            "id": "Chaotic Rage",
             "name": "Ira Caotica"
         },
         {
-        "id": "Cleave",
+            "id": "Cleave",
             "name": "Incalzare"
         },
         {
-        "id": "Colossal Wild Shape",
+            "id": "Colossal Wild Shape",
             "name": "Forma Selvatica Colossale"
         },
         {
-        "id": "Combat Archery",
+            "id": "Combat Archery",
             "name": "Arciere da Combattimento"
         },
         {
-        "id": "Combat Casting",
+            "id": "Combat Casting",
             "name": "Incantare in Combattimento"
         },
         {
-        "id": "Combat Expertise",
+            "id": "Combat Expertise",
             "name": "Maestria in Combattimento"
         },
         {
-        "id": "Combat Reflexes",
+            "id": "Combat Reflexes",
             "name": "Riflessi in Combattimento"
         },
         {
-        "id": "Craft Construct",
+            "id": "Craft Construct",
             "name": "Creare Costrutti"
         },
         {
-        "id": "Craft Epic Magic Arms and Armor",
+            "id": "Craft Epic Magic Arms and Armor",
             "name": "Creare Armi e Armature Magiche Epiche"
         },
         {
-        "id": "Craft Epic Rod",
+            "id": "Craft Epic Rod",
             "name": "Creare Verghe Epiche"
         },
         {
-        "id": "Craft Epic Staff",
+            "id": "Craft Epic Staff",
             "name": "Creare Bastoni Epici"
         },
         {
-        "id": "Craft Epic Wondrous Item",
+            "id": "Craft Epic Wondrous Item",
             "name": "Creare Oggetti Meravigliosi Epici"
         },
         {
-        "id": "Craft Magic Arms and Armor",
+            "id": "Craft Magic Arms and Armor",
             "name": "Creare Armi e Armature Magiche"
         },
         {
-        "id": "Craft Rod",
+            "id": "Craft Rod",
             "name": "Creare Verghe"
         },
         {
-        "id": "Craft Staff",
+            "id": "Craft Staff",
             "name": "Creare Bastoni"
         },
         {
-        "id": "Craft Wand",
+            "id": "Craft Wand",
             "name": "Creare Bacchette"
         },
         {
-        "id": "Craft Wondrous Item",
+            "id": "Craft Wondrous Item",
             "name": "Creare Oggetti Meravigliosi"
         },
         {
-        "id": "Damage Reduction",
+            "id": "Damage Reduction",
             "name": "Riduzione del Danno"
         },
         {
-        "id": "Deadly Precision",
+            "id": "Deadly Precision",
             "name": "Precisione Mortale"
         },
         {
-        "id": "Deafening Song",
+            "id": "Deafening Song",
             "name": "Canto Assordante"
         },
         {
-        "id": "Death of Enemies",
+            "id": "Death of Enemies",
             "name": "Morte dei Nemici"
         },
         {
-        "id": "Deceitful",
+            "id": "Deceitful",
             "name": "Ingannevole"
         },
         {
-        "id": "Deflect Arrows",
+            "id": "Deflect Arrows",
             "name": "Deviare Frecce"
         },
         {
-        "id": "Deft Hands",
+            "id": "Deft Hands",
             "name": "Manolesta"
         },
         {
-        "id": "Devastating Critical",
+            "id": "Devastating Critical",
             "name": "Critico Devastante"
         },
         {
-        "id": "Dexterous Fortitude",
+            "id": "Dexterous Fortitude",
             "name": "Tempra Scattante"
         },
         {
-        "id": "Dexterous Will",
+            "id": "Dexterous Will",
             "name": "Volontà Scattante"
         },
         {
-        "id": "Diehard",
+            "id": "Diehard",
             "name": "Duro a Morire"
         },
         {
-        "id": "Diligent",
+            "id": "Diligent",
             "name": "Diligente"
         },
         {
-        "id": "Diminutive Wild Shape",
+            "id": "Diminutive Wild Shape",
             "name": "Forma Selvatica Minuta"
         },
         {
-        "id": "Dire Charge",
+            "id": "Dire Charge",
             "name": "Carica Crudele"
         },
         {
-        "id": "Disguise Spell",
+            "id": "Disguise Spell",
             "name": "Incantesimi Cammuffati"
         },
         {
-        "id": "Distant Shot",
+            "id": "Distant Shot",
             "name": "Tiro Distante"
         },
         {
-        "id": "Divine Might",
+            "id": "Divine Might",
             "name": "Potere Divino"
         },
         {
-        "id": "Divine Vengeance",
+            "id": "Divine Vengeance",
             "name": "Vendetta Divina"
         },
         {
-        "id": "Dodge",
+            "id": "Dodge",
             "name": "Schivare"
         },
         {
-        "id": "Dragon Wild Shape",
+            "id": "Dragon Wild Shape",
             "name": "Forma Selvatica Draghesca"
         },
         {
-        "id": "Efficient Item Creation",
+            "id": "Efficient Item Creation",
             "name": "Create Oggetto Efficiente"
         },
         {
-        "id": "Empower Spell",
+            "id": "Empower Spell",
             "name": "Incantesimi Potenziati"
         },
         {
-        "id": "Empower Spell-Like Ability",
+            "id": "Empower Spell-Like Ability",
             "name": "Capacità Magica Potenziata"
         },
         {
-        "id": "Endurance",
+            "id": "Endurance",
             "name": "Resistenza Fisica"
         },
         {
-        "id": "Energy Resistance",
+            "id": "Energy Resistance",
             "name": "Resistenza all'Energia"
         },
         {
-        "id": "Energy Substitution",
+            "id": "Energy Substitution",
             "name": "Sostituzione Energetica"
         },
         {
-        "id": "Enhance Spell",
+            "id": "Enhance Spell",
             "name": "Incantesimi Aumentati"
         },
         {
-        "id": "Enlarge Spell",
+            "id": "Enlarge Spell",
             "name": "Incantesimi Ingranditi"
         },
         {
-        "id": "Epic Dodge",
+            "id": "Epic Dodge",
             "name": "Schivare Epico"
         },
         {
-        "id": "Epic Endurance",
+            "id": "Epic Endurance",
             "name": "Resistenza Fisica Epica"
         },
         {
-        "id": "Epic Fortitude",
+            "id": "Epic Fortitude",
             "name": "Tempra Epica"
         },
         {
-        "id": "Epic Inspiration",
+            "id": "Epic Inspiration",
             "name": "Ispirazione Epica"
         },
         {
-        "id": "Epic Leadership",
+            "id": "Epic Leadership",
             "name": "Autorità Epica"
         },
         {
-        "id": "Epic Prowess",
+            "id": "Epic Prowess",
             "name": "Prodezza Epica"
         },
         {
-        "id": "Epic Reflexes",
+            "id": "Epic Reflexes",
             "name": "Riflessi Epici"
         },
         {
-        "id": "Epic Reputation",
+            "id": "Epic Reputation",
             "name": "Reputazione Epica"
         },
         {
-        "id": "Epic Skill Focus",
+            "id": "Epic Skill Focus",
             "name": "Abilità Focalizzata Epica"
         },
         {
-        "id": "Epic Speed",
+            "id": "Epic Speed",
             "name": "Velocità Epica"
         },
         {
-        "id": "Epic Spellcasting",
+            "id": "Epic Spellcasting",
             "name": "Incantatore Epico"
         },
         {
-        "id": "Epic Spell Focus (No School Set)",
+            "id": "Epic Spell Focus (No School Set)",
             "name": "Incantesimi Focalizzati Epici"
         },
         {
-        "id": "Epic Spell Penetration",
+            "id": "Epic Spell Penetration",
             "name": "Incantesimi Inarrestabili Epici"
         },
         {
-        "id": "Epic Toughness",
+            "id": "Epic Toughness",
             "name": "Robustezza Epica"
         },
         {
-        "id": "Epic Weapon Focus (No Weapon Set)",
+            "id": "Epic Weapon Focus (No Weapon Set)",
             "name": "Arma Focalizzata Epica"
         },
         {
-        "id": "Epic Weapon Specialization",
+            "id": "Epic Weapon Specialization",
             "name": "Arma Specializzata Epica"
         },
         {
-        "id": "Epic Will",
+            "id": "Epic Will",
             "name": "Volontà Epica"
         },
         {
-        "id": "Eschew Materials",
+            "id": "Eschew Materials",
             "name": "Escludere Materiali"
         },
         {
-        "id": "Exceptional Deflection",
+            "id": "Exceptional Deflection",
             "name": "Deviare Straordinario"
         },
         {
-        "id": "Exotic Weapon Proficiency",
+            "id": "Exotic Weapon Proficiency",
             "name": "Competenza nelle Armi Esotiche"
         },
         {
-        "id": "Extended Life Span",
+            "id": "Extended Life Span",
             "name": "Arco Vitale Prolungato"
         },
         {
-        "id": "Extend Spell",
+            "id": "Extend Spell",
             "name": "Incantesimi Estesi"
         },
         {
-        "id": "Extra Music",
+            "id": "Extra Music",
             "name": "Musica Extra"
         },
         {
-        "id": "Extra Turning",
+            "id": "Extra Turning",
             "name": "Scacciare Extra"
         },
         {
-        "id": "Eyes in the Back of Your Head",
+            "id": "Eyes in the Back of Your Head",
             "name": "Occhi Dietro la Testa"
         },
         {
-        "id": "Familiar Spell",
+            "id": "Familiar Spell",
             "name": "Incantesimo del Famiglio"
         },
         {
-        "id": "Far Shot",
+            "id": "Far Shot",
             "name": "Tiro Lontano"
         },
         {
-        "id": "Fast Healing",
+            "id": "Fast Healing",
             "name": "Guarigione Rapida"
         },
         {
-        "id": "Fine Wild Shape",
+            "id": "Fine Wild Shape",
             "name": "Forma Selvatica Piccolissima"
         },
         {
-        "id": "Fleet of Foot",
+            "id": "Fleet of Foot",
             "name": "Piè Veloce"
         },
         {
-        "id": "Flyby Attack",
+            "id": "Flyby Attack",
             "name": "Attacco in Volo"
         },
         {
-        "id": "Forge Epic Ring",
+            "id": "Forge Epic Ring",
             "name": "Forgiare Anelli Epici"
         },
         {
-        "id": "Forge Ring",
+            "id": "Forge Ring",
             "name": "Forgiare Anelli"
         },
         {
-        "id": "Gargantuan Wild Shape",
+            "id": "Gargantuan Wild Shape",
             "name": "Forma Selvatica Mastodontica"
         },
         {
-        "id": "Great Charisma",
+            "id": "Great Charisma",
             "name": "Carisma Possente"
         },
         {
-        "id": "Great Cleave",
+            "id": "Great Cleave",
             "name": "Incalzare Potenziato"
         },
         {
-        "id": "Great Constitution",
+            "id": "Great Constitution",
             "name": "Costituzione Possente"
         },
         {
-        "id": "Great Dexterity",
+            "id": "Great Dexterity",
             "name": "Destrezza Possente"
         },
         {
-        "id": "Greater Manyshot",
+            "id": "Greater Manyshot",
             "name": "Tiro Multiplo Superiore"
         },
         {
-        "id": "Greater Multiweapon Fighting",
+            "id": "Greater Multiweapon Fighting",
             "name": "Combattere con Più Armi Superiore"
         },
         {
-        "id": "Greater Spell Focus (No School Set)",
+            "id": "Greater Spell Focus (No School Set)",
             "name": "Incantesimi Focalizzati Superiore"
         },
         {
-        "id": "Greater Spell Penetration",
+            "id": "Greater Spell Penetration",
             "name": "Incantesimi Inarrestabili Superiore"
         },
         {
-        "id": "Greater Two-Weapon Fighting",
+            "id": "Greater Two-Weapon Fighting",
             "name": "Combattere con Due Armi Superiore"
         },
         {
-        "id": "Greater Weapon Focus (No Weapon Set)",
+            "id": "Greater Weapon Focus (No Weapon Set)",
             "name": "Arma Focalizzata Superiore"
         },
         {
-        "id": "Greater Weapon Specialization (No Weapon Set)",
+            "id": "Greater Weapon Specialization (No Weapon Set)",
             "name": "Arma Specializzata Superiore"
         },
         {
-        "id": "Great Fortitude",
+            "id": "Great Fortitude",
             "name": "Tempra Possente"
         },
         {
-        "id": "Great Intelligence",
+            "id": "Great Intelligence",
             "name": "Intelligenza Possente"
         },
         {
-        "id": "Great Smiting",
+            "id": "Great Smiting",
             "name": "Punire Possente"
         },
         {
-        "id": "Great Strength",
+            "id": "Great Strength",
             "name": "Forza Possente"
         },
         {
-        "id": "Great Wisdom",
+            "id": "Great Wisdom",
             "name": "Saggezza Possente"
         },
         {
-        "id": "Group Inspiration",
+            "id": "Group Inspiration",
             "name": "Ispirazione di Gruppo"
         },
         {
-        "id": "Heighten Spell",
+            "id": "Heighten Spell",
             "name": "Incantesimi Intensificati"
         },
         {
-        "id": "Hindering Song",
+            "id": "Hindering Song",
             "name": "Canto di Interferenza"
         },
         {
-        "id": "Hold the Line",
+            "id": "Hold the Line",
             "name": "Resistere alla Carica"
         },
         {
-        "id": "Holy Strike",
+            "id": "Holy Strike",
             "name": "Colpo Sacro"
         },
         {
-        "id": "Hover",
+            "id": "Hover",
             "name": "Fluttuare"
         },
         {
-        "id": "Ignore Material Components",
+            "id": "Ignore Material Components",
             "name": "Ignorare Componenti Materiali"
         },
         {
-        "id": "Improved Alignment-Based Casting",
+            "id": "Improved Alignment-Based Casting",
             "name": "Incantesimi Migliorati Basati sull'Allineamento"
         },
         {
-        "id": "Improved Arrow of Death",
+            "id": "Improved Arrow of Death",
             "name": "Freccia della Morte Migliorata"
         },
         {
-        "id": "Improved Aura of Courage",
+            "id": "Improved Aura of Courage",
             "name": "Aura di Coraggio Migliorata"
         },
         {
-        "id": "Improved Aura of Despair",
+            "id": "Improved Aura of Despair",
             "name": "Aura di Disperazione Migliorata"
         },
         {
-        "id": "Improved Bull Rush",
+            "id": "Improved Bull Rush",
             "name": "Spingere Migliorato"
         },
         {
-        "id": "Improved Combat Casting",
+            "id": "Improved Combat Casting",
             "name": "Incantesimi in Combattimento Migliorati"
         },
         {
-        "id": "Improved Combat Reflexes",
+            "id": "Improved Combat Reflexes",
             "name": "Riflessi da Combattimento Migliorati"
         },
         {
-        "id": "Improved Counterspell",
+            "id": "Improved Counterspell",
             "name": "Controincantesimo Migliorato"
         },
         {
-        "id": "Improved Critical (No Weapon Set)",
+            "id": "Improved Critical (No Weapon Set)",
             "name": "Critico Migliorato"
         },
         {
-        "id": "Improved Darkvision",
+            "id": "Improved Darkvision",
             "name": "Scurovisione Migliorata"
         },
         {
-        "id": "Improved Death Attack",
+            "id": "Improved Death Attack",
             "name": "Attacco Mortale Migliorato"
         },
         {
-        "id": "Improved Disarm",
+            "id": "Improved Disarm",
             "name": "Disarmare Migliorato"
         },
         {
-        "id": "Improved Elemental Wild Shape",
+            "id": "Improved Elemental Wild Shape",
             "name": "Forma Selvatica Elementale Migliorata"
         },
         {
-        "id": "Improved Familiar",
+            "id": "Improved Familiar",
             "name": "Famiglio Migliorato"
         },
         {
-        "id": "Improved Favored Enemy",
+            "id": "Improved Favored Enemy",
             "name": "Nemico Prescelto Migliorato"
         },
         {
-        "id": "Improved Feint",
+            "id": "Improved Feint",
             "name": "Fintare Migliorato"
         },
         {
-        "id": "Improved Flyby Attack",
+            "id": "Improved Flyby Attack",
             "name": "Attacco in Volo Migliorato"
         },
         {
-        "id": "Improved Grapple",
+            "id": "Improved Grapple",
             "name": "Lottare Migliorato"
         },
         {
-        "id": "Improved Heighten Spell",
+            "id": "Improved Heighten Spell",
             "name": "Incantesimi Intensificati Migliorati"
         },
         {
-        "id": "Improved Initiative",
+            "id": "Improved Initiative",
             "name": "Iniziativa Migliorata"
         },
         {
-        "id": "Improved Ki Strike",
+            "id": "Improved Ki Strike",
             "name": "Colpo Ki Migliorato"
         },
         {
-        "id": "Improved Low-Light Vision",
+            "id": "Improved Low-Light Vision",
             "name": "Visione Crepuscolare Migliorata"
         },
         {
-        "id": "Improved Manyshot",
+            "id": "Improved Manyshot",
             "name": "Tiro Multiplo Migliorato"
         },
         {
-        "id": "Improved Metamagic",
+            "id": "Improved Metamagic",
             "name": "Metamagia Migliorata"
         },
         {
-        "id": "Improved Multiattack",
+            "id": "Improved Multiattack",
             "name": "Multiattacco Migliorato"
         },
         {
-        "id": "Improved Multiweapon Fighting",
+            "id": "Improved Multiweapon Fighting",
             "name": "Combattere con Più Armi Migliorato"
         },
         {
-        "id": "Improved Natural Armor",
+            "id": "Improved Natural Armor",
             "name": "Armatura Naturale Migliorata"
         },
         {
-        "id": "Improved Natural Attack (No Weapon Set)",
+            "id": "Improved Natural Attack (No Weapon Set)",
             "name": "Attacco Naturale Migliorato"
         },
         {
-        "id": "Improved Overrun",
+            "id": "Improved Overrun",
             "name": "Oltrepassare Migliorato"
         },
         {
-        "id": "Improved Precise Shot",
+            "id": "Improved Precise Shot",
             "name": "Tiro Preciso Migliorato"
         },
         {
-        "id": "Improved Shield Bash",
+            "id": "Improved Shield Bash",
             "name": "Attacco con lo Scudo Migliorato"
         },
         {
-        "id": "Improved Sneak Attack",
+            "id": "Improved Sneak Attack",
             "name": "Attacco Furtivo Migliorato"
         },
         {
-        "id": "Improved Spell Capacity",
+            "id": "Improved Spell Capacity",
             "name": "Capienza di Incantesimi Migliorata"
         },
         {
-        "id": "Improved Spell Resistance",
+            "id": "Improved Spell Resistance",
             "name": "Resistenza agli Incantesimi Migliorata"
         },
         {
-        "id": "Improved Stunning Fist",
+            "id": "Improved Stunning Fist",
             "name": "Pugno Stordente Migliorato"
         },
         {
-        "id": "Improved Sunder",
+            "id": "Improved Sunder",
             "name": "Spezzare Migliorato"
         },
         {
-        "id": "Improved Trip",
+            "id": "Improved Trip",
             "name": "Sbilanciare Migliorato"
         },
         {
-        "id": "Improved Turning",
+            "id": "Improved Turning",
             "name": "Scacciare Migliorato"
         },
         {
-        "id": "Improved Two-Weapon Fighting",
+            "id": "Improved Two-Weapon Fighting",
             "name": "Combattere con Due Armi Migliorato"
         },
         {
-        "id": "Improved Unarmed Strike",
+            "id": "Improved Unarmed Strike",
             "name": "Colpo Senz'Armi Migliorato"
         },
         {
-        "id": "Improved Whirlwind Attack",
+            "id": "Improved Whirlwind Attack",
             "name": "Attacco Turbinante Migliorato"
         },
         {
-        "id": "Incite Rage",
+            "id": "Incite Rage",
             "name": "Incitare Ira"
         },
         {
-        "id": "Infinite Deflection",
+            "id": "Infinite Deflection",
             "name": "Deflettere Frecce"
         },
         {
-        "id": "Inspire Excellence",
+            "id": "Inspire Excellence",
             "name": "Ispirare Eccellenza"
         },
         {
-        "id": "Instant Reload",
+            "id": "Instant Reload",
             "name": "Ricarica Istantanea"
         },
         {
-        "id": "Intensify Spell",
+            "id": "Intensify Spell",
             "name": "Incantesimi Rinforzati"
         },
         {
-        "id": "Intuitive Trapfinding",
+            "id": "Intuitive Trapfinding",
             "name": "Percepire Trappole"
         },
         {
-        "id": "Investigator",
+            "id": "Investigator",
             "name": "Indagatore"
         },
         {
-        "id": "Iron Will",
+            "id": "Iron Will",
             "name": "Volontà di Ferro"
         },
         {
-        "id": "Jack of All Trades",
+            "id": "Jack of All Trades",
             "name": "Factotum"
         },
         {
-        "id": "Keen Strike",
+            "id": "Keen Strike",
             "name": "Colpo Affilato"
         },
         {
-        "id": "Knock-Down",
+            "id": "Knock-Down",
             "name": "Buttare a Terra"
         },
         {
-        "id": "Lasting Inspiration",
+            "id": "Lasting Inspiration",
             "name": "Ispirazione Duratura"
         },
         {
-        "id": "Leadership",
+            "id": "Leadership",
             "name": "Autorità"
         },
         {
-        "id": "Legendary Climber",
+            "id": "Legendary Climber",
             "name": "Scalatore Leggendario"
         },
         {
-        "id": "Legendary Commander",
+            "id": "Legendary Commander",
             "name": "Comandante Leggendario"
         },
         {
-        "id": "Legendary Leaper",
+            "id": "Legendary Leaper",
             "name": "Saltatore Leggendario"
         },
         {
-        "id": "Legendary Rider",
+            "id": "Legendary Rider",
             "name": "Cavalcatore Leggendario"
         },
         {
-        "id": "Legendary Tracker",
+            "id": "Legendary Tracker",
             "name": "Segugio Leggendario"
         },
         {
-        "id": "Legendary Wrestler",
+            "id": "Legendary Wrestler",
             "name": "Lottatore Leggendario"
         },
         {
-        "id": "Lightning Reflexes",
+            "id": "Lightning Reflexes",
             "name": "Riflessi Fulminei"
         },
         {
-        "id": "Magical Aptitude",
+            "id": "Magical Aptitude",
             "name": "Danno Persistente"
         },
         {
-        "id": "Magical Beast Companion",
+            "id": "Magical Beast Companion",
             "name": "Compagno Bestiale"
         },
         {
-        "id": "Magical Beast Wild Shape",
+            "id": "Magical Beast Wild Shape",
             "name": "Forma Selvatica Bestia Magica"
         },
         {
-        "id": "Manyshot",
+            "id": "Manyshot",
             "name": "Tiro Multiplo"
         },
         {
-        "id": "Martial Weapon Proficiency (All)",
+            "id": "Martial Weapon Proficiency (All)",
             "name": "Competenza nelle Armi da Guerra"
         },
         {
-        "id": "Master Staff",
+            "id": "Master Staff",
             "name": "Padronanza dei Bastoni"
         },
         {
-        "id": "Master Wand",
+            "id": "Master Wand",
             "name": "Padronanza delle Bacchette"
         },
         {
-        "id": "Maximize Spell",
+            "id": "Maximize Spell",
             "name": "Incantesimi Massimizzati"
         },
         {
-        "id": "Mighty Rage",
+            "id": "Mighty Rage",
             "name": "Ira Possente"
         },
         {
-        "id": "Mind Over Body",
+            "id": "Mind Over Body",
             "name": "Mente sul Corpo"
         },
         {
-        "id": "Mobile Defense",
+            "id": "Mobile Defense",
             "name": "Difesa Mobile"
         },
         {
-        "id": "Mobility",
+            "id": "Mobility",
             "name": "Mobilità"
         },
         {
-        "id": "Mounted Archery",
+            "id": "Mounted Archery",
             "name": "Tirare in Sella"
         },
         {
-        "id": "Mounted Combat",
+            "id": "Mounted Combat",
             "name": "Combattere in Sella"
         },
         {
-        "id": "Multiattack",
+            "id": "Multiattack",
             "name": "Multiattacco"
         },
         {
-        "id": "Multispell",
+            "id": "Multispell",
             "name": "Multincantesimo"
         },
         {
-        "id": "Multiweapon Fighting",
+            "id": "Multiweapon Fighting",
             "name": "Combattere con Più Armi"
         },
         {
-        "id": "Multiweapon Rend",
+            "id": "Multiweapon Rend",
             "name": "Lacerare con Più Armi"
         },
         {
-        "id": "Music of the Gods",
+            "id": "Music of the Gods",
             "name": "Musica degli Dei"
         },
         {
-        "id": "Natural Spell",
+            "id": "Natural Spell",
             "name": "Incantesimi Naturali"
         },
         {
-        "id": "Negative Energy Burst",
+            "id": "Negative Energy Burst",
             "name": "Esplosione di Energia Negativa"
         },
         {
-        "id": "Negotiator",
+            "id": "Negotiator",
             "name": "Negoziatore"
         },
         {
-        "id": "Nimble Fingers",
+            "id": "Nimble Fingers",
             "name": "Dita Sottili"
         },
         {
-        "id": "Open Minded",
+            "id": "Open Minded",
             "name": "Mente Aperta"
         },
         {
-        "id": "Overwhelming Critical",
+            "id": "Overwhelming Critical",
             "name": "Critico Soverchiante"
         },
         {
-        "id": "Penetrate Damage Reduction",
+            "id": "Penetrate Damage Reduction",
             "name": "Penetrare Riduzione del Danno"
         },
         {
-        "id": "Perfect Health",
+            "id": "Perfect Health",
             "name": "Salute Perfetta"
         },
         {
-        "id": "Perfect Multiweapon Fighting",
+            "id": "Perfect Multiweapon Fighting",
             "name": "Combattere con Più Armi Perfetto"
         },
         {
-        "id": "Perfect Two-Weapon Fighting",
+            "id": "Perfect Two-Weapon Fighting",
             "name": "Combattere con Due Armi Perfetto"
         },
         {
-        "id": "Permanent Emanation",
+            "id": "Permanent Emanation",
             "name": "Emanazione Permanente"
         },
         {
-        "id": "Persistent Spell",
+            "id": "Persistent Spell",
             "name": "Incantesimi Persistenti"
         },
         {
-        "id": "Persuasive",
+            "id": "Persuasive",
             "name": "Persuasivo"
         },
         {
-        "id": "Planar Turning",
+            "id": "Planar Turning",
             "name": "Scacciare Planare"
         },
         {
-        "id": "Plant Control",
+            "id": "Plant Control",
             "name": "Controllare Vegetali"
         },
         {
-        "id": "Plant Defiance",
+            "id": "Plant Defiance",
             "name": "Sfidare Vegetali"
         },
         {
-        "id": "Plant Wild Shape",
+            "id": "Plant Wild Shape",
             "name": "Forma Selvatica Vegetale"
         },
         {
-        "id": "Polyglot",
+            "id": "Polyglot",
             "name": "Poliglotta"
         },
         {
-        "id": "Positive Energy Aura",
+            "id": "Positive Energy Aura",
             "name": "Aura di Energia Positiva"
         },
         {
-        "id": "Power Attack",
+            "id": "Power Attack",
             "name": "Attacco Poderoso"
         },
         {
-        "id": "Power Critical",
+            "id": "Power Critical",
             "name": "Critico Poderoso"
         },
         {
-        "id": "Precise Shot",
+            "id": "Precise Shot",
             "name": "Tiro Preciso"
         },
         {
-        "id": "Quick Draw",
+            "id": "Quick Draw",
             "name": "Estrazione Rapida"
         },
         {
-        "id": "Quicken Spell",
+            "id": "Quicken Spell",
             "name": "Incantesimi Rapidi"
         },
         {
-        "id": "Quicken Spell-Like Ability",
+            "id": "Quicken Spell-Like Ability",
             "name": "Capacità Magica Rapida"
         },
         {
-        "id": "Ranged Inspiration",
+            "id": "Ranged Inspiration",
             "name": "Ispirazione a Distanza"
         },
         {
-        "id": "Rapid Inspiration",
+            "id": "Rapid Inspiration",
             "name": "Ispirazione Rapida"
         },
         {
-        "id": "Rapid Metabolism",
+            "id": "Rapid Metabolism",
             "name": "Metabolismo Rapido"
         },
         {
-        "id": "Rapid Reload (None)",
+            "id": "Rapid Reload (None)",
             "name": "Ricarica Rapida"
         },
         {
-        "id": "Rapid Shot",
+            "id": "Rapid Shot",
             "name": "Tiro Rapido"
         },
         {
-        "id": "Reach Spell",
+            "id": "Reach Spell",
             "name": "Incantesimi Lontani"
         },
         {
-        "id": "Reactive Countersong",
+            "id": "Reactive Countersong",
             "name": "Controcanto Reattivo"
         },
         {
-        "id": "Reckless Offense",
+            "id": "Reckless Offense",
             "name": "Offensiva Temeraria"
         },
         {
-        "id": "Reflect Arrows",
+            "id": "Reflect Arrows",
             "name": "Deflettere Frecce"
         },
         {
-        "id": "Repeat Spell",
+            "id": "Repeat Spell",
             "name": "Incantesimi Ripetuti"
         },
         {
-        "id": "Ride-By Attack",
+            "id": "Ride-By Attack",
             "name": "Attacco in Sella"
         },
         {
-        "id": "Righteous Strike",
+            "id": "Righteous Strike",
             "name": "Giusto Colpo"
         },
         {
-        "id": "Ruinous Rage",
+            "id": "Ruinous Rage",
             "name": "Ira Demolitrice"
         },
         {
-        "id": "Run",
+            "id": "Run",
             "name": "Correre"
         },
         {
-        "id": "Sacred Spell",
+            "id": "Sacred Spell",
             "name": "Incantesimo Sacro"
         },
         {
-        "id": "Scribe Epic Scroll",
+            "id": "Scribe Epic Scroll",
             "name": "Scrivere Pergamene Epiche"
         },
         {
-        "id": "Scribe Scroll",
+            "id": "Scribe Scroll",
             "name": "Scrivere Pergamene"
         },
         {
-        "id": "Self-Concealment",
+            "id": "Self-Concealment",
             "name": "Auto-Occultamento"
         },
         {
-        "id": "Self-Sufficient",
+            "id": "Self-Sufficient",
             "name": "Autosufficiente"
         },
         {
-        "id": "Sharp-Shooting",
+            "id": "Sharp-Shooting",
             "name": "Mira Precisa"
         },
         {
-        "id": "Shattering Strike",
+            "id": "Shattering Strike",
             "name": "Colpo Frantumatore"
         },
         {
-        "id": "Shield Proficiency",
+            "id": "Shield Proficiency",
             "name": "Competenza negli Scudi"
         },
         {
-        "id": "Shot on the Run",
+            "id": "Shot on the Run",
             "name": "Tiro in Movimento"
         },
         {
-        "id": "Sidestep Charge",
+            "id": "Sidestep Charge",
             "name": "Eludere Carica"
         },
         {
-        "id": "Silent Spell",
+            "id": "Silent Spell",
             "name": "Incantesimi Silenziosi"
         },
         {
-        "id": "Simple Weapon Proficiency",
+            "id": "Simple Weapon Proficiency",
             "name": "Competenza nelle Armi Smplici"
         },
         {
-        "id": "Skill Focus",
+            "id": "Skill Focus",
             "name": "Abilità Focalizzata"
         },
         {
-        "id": "Snatch",
+            "id": "Snatch",
             "name": "Ghermire"
         },
         {
-        "id": "Snatch Arrows",
+            "id": "Snatch Arrows",
             "name": "Afferrare Frecce"
         },
         {
-        "id": "Sneak Attack of Opportunity",
+            "id": "Sneak Attack of Opportunity",
             "name": "Attacco di Opportunità Furtivo"
         },
         {
-        "id": "Spectral Strike",
+            "id": "Spectral Strike",
             "name": "Colpo Spettrale"
         },
         {
-        "id": "Spellcasting Harrier",
+            "id": "Spellcasting Harrier",
             "name": "Assaltatore di Incantatori"
         },
         {
-        "id": "Spell Focus (No School Set)",
+            "id": "Spell Focus (No School Set)",
             "name": "Incantesimi Focalizzati"
         },
         {
-        "id": "Spell Knowledge",
+            "id": "Spell Knowledge",
             "name": "Conoscenza di Incantesimi"
         },
         {
-        "id": "Spell Mastery",
+            "id": "Spell Mastery",
             "name": "Padronanza degli Incantesimi"
         },
         {
-        "id": "Spell Opportunity",
+            "id": "Spell Opportunity",
             "name": "Incantesimo di Opportunità"
         },
         {
-        "id": "Spell Penetration",
+            "id": "Spell Penetration",
             "name": "Incantesimi Inarrestabili"
         },
         {
-        "id": "Spell Stowaway (No Spell Set)",
+            "id": "Spell Stowaway (No Spell Set)",
             "name": "Incantesimo Clandestino"
         },
         {
-        "id": "Spirited Charge",
+            "id": "Spirited Charge",
             "name": "Carica Devastante"
         },
         {
-        "id": "Spontaneous Domain Access",
+            "id": "Spontaneous Domain Access",
             "name": "Accesso Spontaneo al Dominio"
         },
         {
-        "id": "Spontaneous Spell",
+            "id": "Spontaneous Spell",
             "name": "Incantesimi Spontanei"
         },
         {
-        "id": "Spring Attack",
+            "id": "Spring Attack",
             "name": "Attacco Rapido"
         },
         {
-        "id": "Stand Still",
+            "id": "Stand Still",
             "name": "Mantenere la Posizione"
         },
         {
-        "id": "Stealthy",
+            "id": "Stealthy",
             "name": "Furtivo"
         },
         {
-        "id": "Still Spell",
+            "id": "Still Spell",
             "name": "Incantesimi Immobili"
         },
         {
-        "id": "Storm of Throws",
+            "id": "Storm of Throws",
             "name": "Tempesta di Lanci"
         },
         {
-        "id": "Stunning Fist",
+            "id": "Stunning Fist",
             "name": "Pugno Stordente"
         },
         {
-        "id": "Subdual Substitution",
+            "id": "Subdual Substitution",
             "name": "Sostituzione Debilitante"
         },
         {
-        "id": "Superior Expertise",
+            "id": "Superior Expertise",
             "name": "Maestria Superiore"
         },
         {
-        "id": "Superior Initiative",
+            "id": "Superior Initiative",
             "name": "Iniziativa Superiore"
         },
         {
-        "id": "Swarm of Arrows",
+            "id": "Swarm of Arrows",
             "name": "Sciame di Frecce"
         },
         {
-        "id": "Tenacious Magic (No Spell Set)",
+            "id": "Tenacious Magic (No Spell Set)",
             "name": "Magia Tenace"
         },
         {
-        "id": "Terrifying Rage",
+            "id": "Terrifying Rage",
             "name": "Ira Terrificante"
         },
         {
-        "id": "Thundering Rage",
+            "id": "Thundering Rage",
             "name": "Ira Tonante"
         },
         {
-        "id": "Toughness",
+            "id": "Toughness",
             "name": "Robustezza"
         },
         {
-        "id": "Tower Shield Proficiency",
+            "id": "Tower Shield Proficiency",
             "name": "Competenza negli Scudi Torre"
         },
         {
-        "id": "Track",
+            "id": "Track",
             "name": "Seguire Tracce"
         },
         {
-        "id": "Trample",
+            "id": "Trample",
             "name": "Travolgere"
         },
         {
-        "id": "Two-Weapon Defense",
+            "id": "Two-Weapon Defense",
             "name": "Difendere con Due Armi"
         },
         {
-        "id": "Two-Weapon Fighting",
+            "id": "Two-Weapon Fighting",
             "name": "Combattere con Due Armi"
         },
         {
-        "id": "Two-Weapon Rend",
+            "id": "Two-Weapon Rend",
             "name": "Lacerare con Due Armi"
         },
         {
-        "id": "Uncanny Accuracy",
+            "id": "Uncanny Accuracy",
             "name": "Accuratezza Prodigiosa"
         },
         {
-        "id": "Undead Mastery",
+            "id": "Undead Mastery",
             "name": "Padronanza dei Non Morti"
         },
         {
-        "id": "Unholy Strike",
+            "id": "Unholy Strike",
             "name": "Colpo Sacrilego"
         },
         {
-        "id": "Vermin Wild Shape",
+            "id": "Vermin Wild Shape",
             "name": "Forma Selvatica Parassita"
         },
         {
-        "id": "Vorpal Strike",
+            "id": "Vorpal Strike",
             "name": "Colpo Vorpal"
         },
         {
-        "id": "Weapon Finesse",
+            "id": "Weapon Finesse",
             "name": "Arma Accurata"
         },
         {
-        "id": "Weapon Focus (No Weapon Set)",
+            "id": "Weapon Focus (No Weapon Set)",
             "name": "Arma Focalizzata"
         },
         {
-        "id": "Weapon Proficiency (No Weapon Set)",
+            "id": "Weapon Proficiency (No Weapon Set)",
             "name": "Competenza con un'Arma"
         },
         {
-        "id": "Weapon Specialization (No Weapon Set)",
+            "id": "Weapon Specialization (No Weapon Set)",
             "name": "Arma Specializzata"
         },
         {
-        "id": "Whirlwind Attack",
+            "id": "Whirlwind Attack",
             "name": "Attacco Turbinante"
         },
         {
-        "id": "Widen Aura of Courage",
+            "id": "Widen Aura of Courage",
             "name": "Aura di Coraggio Ampliata"
         },
         {
-        "id": "Widen Aura of Despair",
+            "id": "Widen Aura of Despair",
             "name": "Aria di Disperazione Ampliata"
         },
         {
-        "id": "Widen Spell",
+            "id": "Widen Spell",
             "name": "Incantesimi Ampliati"
         },
         {
-        "id": "Wingover",
+            "id": "Wingover",
             "name": "Virare"
         },
         {
-        "id": "Zone of Animation",
+            "id": "Zone of Animation",
             "name": "Zona di Animazione"
         }
     ]
