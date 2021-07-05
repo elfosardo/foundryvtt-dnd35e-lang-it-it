@@ -1,751 +1,208 @@
 {
     "label": "Privilegi di Classe",
     "mapping": {
-        "classes": "data.associations.classes"
-      },
+        "classes": {
+            "path": "data.associations.classes",
+            "converter": "classNamesArray"
+        },
+        "class": {
+            "path": "data.learnedAt.class",
+            "converter": "classNamesArray"
+        }
+    },
     "entries": [
         {
             "id": "Abundant Step",
             "name": "Passo Abbondante",
-            "description": "<p>Un monaco può spostarsi magicamente tra gli spazi, come per l’incantesimo porta dimensionale, una volta al giorno. Il suo livello da incantatore è la metà del suo attuale livello da monaco (arrotondato per difetto)</p>",
-            "classes": [
-                [
-                    "Monaco",
-                    12
-                ]
-            ]
+            "description": "<p>Un monaco può spostarsi magicamente tra gli spazi, come per l’incantesimo porta dimensionale, una volta al giorno. Il suo livello da incantatore è la metà del suo attuale livello da monaco (arrotondato per difetto)</p>"
         },
         {
             "id": "Animal Companion",
             "name": "Compagno Animale",
-            "description": "<p style=\"margin-top: 0px;\">Il compagno animale di un druido o di un ranger è diverso da un normale animale del suo genere in molti modi. Il compagno animale di un druido è superiore a un normale animale della sua specie e ha poteri speciali, come descritto di seguito.</p>\n<p>Druido o ranger ottiene un compagno animale selezionato dal seguente elenco: tasso, cammello, topo crudele, cane, cane da galoppo, aquila, falco, cavallo (leggero o pesante), gufo, pony, serpente (vipera piccola o media) o lupo.</p>\n<p>Il livello effettivo da druido del Ranger è la metà del suo livello da Ranger e un Ranger può scegliere dagli elenchi alternativi di compagni animali proprio come un Druido può, anche se il suo livello da Druido effettivo è la metà del suo livello da Ranger. Come un druido, un ranger non può selezionare un animale alternativo se la scelta ridurrebbe il suo livello effettivo di druido al di sotto del 1°.</p>\n<table cellspacing=\"0\">\n<tbody>\n<tr style=\"height: 17px;\">\n<th align=\"left\">Livello di Classe</th>\n<th>DV Bonus</th>\n<th>Armatura Naturale Agg.</th>\n<th>For/Des Agg.</th>\n<th style=\"width: 78px; height: 17px;\">Comando bonus</th>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">1°-2°</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">1</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">3°-5°</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+1</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">6°-8°</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+2</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">9°-11°</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+3</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">12°-14°</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+4</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">5</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">15°-17°</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+5</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">6</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">18°-20°</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+6</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">7</td>\n</tr>\n</tbody>\n</table>",
-            "classes": [
-                [
-                    "Druido",
-                    1
-                ],
-                [
-                    "Ranger",
-                    4
-                ]
-            ]
+            "description": "<p style=\"margin-top: 0px;\">Il compagno animale di un druido o di un ranger è diverso da un normale animale del suo genere in molti modi. Il compagno animale di un druido è superiore a un normale animale della sua specie e ha poteri speciali, come descritto di seguito.</p>\n<p>Druido o ranger ottiene un compagno animale selezionato dal seguente elenco: tasso, cammello, topo crudele, cane, cane da galoppo, aquila, falco, cavallo (leggero o pesante), gufo, pony, serpente (vipera piccola o media) o lupo.</p>\n<p>Il livello effettivo da druido del Ranger è la metà del suo livello da Ranger e un Ranger può scegliere dagli elenchi alternativi di compagni animali proprio come un Druido può, anche se il suo livello da Druido effettivo è la metà del suo livello da Ranger. Come un druido, un ranger non può selezionare un animale alternativo se la scelta ridurrebbe il suo livello effettivo di druido al di sotto del 1°.</p>\n<table cellspacing=\"0\">\n<tbody>\n<tr style=\"height: 17px;\">\n<th align=\"left\">Livello di Classe</th>\n<th>DV Bonus</th>\n<th>Armatura Naturale Agg.</th>\n<th>For/Des Agg.</th>\n<th style=\"width: 78px; height: 17px;\">Comando bonus</th>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">1°-2°</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td align=\"center\">+0</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">1</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">3°-5°</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+2</td>\n<td align=\"center\">+1</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">2</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">6°-8°</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+4</td>\n<td align=\"center\">+2</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">3</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">9°-11°</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+6</td>\n<td align=\"center\">+3</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">4</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">12°-14°</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+8</td>\n<td align=\"center\">+4</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">5</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">15°-17°</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+10</td>\n<td align=\"center\">+5</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">6</td>\n</tr>\n<tr style=\"height: 17px;\">\n<td style=\"width: 68px; height: 17px;\">18°-20°</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+12</td>\n<td align=\"center\">+6</td>\n<td style=\"width: 78px; height: 17px;\" align=\"center\">7</td>\n</tr>\n</tbody>\n</table>"
         },
         {
             "id": "Armor Proficiency (Heavy)",
             "name": "Competenza nelle Armature (Pesanti)",
-            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Chierico",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Psychic Warrior",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ]
-            ]
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>"
         },
         {
             "id": "Armor Proficiency (Light)",
             "name": "Competenza nelle Armature (Leggere)",
-            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Bardo",
-                    1
-                ],
-                [
-                    "Chierico",
-                    1
-                ],
-                [
-                    "Esperto (PNG)",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Soulknife",
-                    1
-                ],
-                [
-                    "Psychic Warrior",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ],
-                [
-                    "Ladro",
-                    1
-                ],
-                [
-                    "Ranger",
-                    1
-                ]
-            ]
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>"
         },
         {
             "id": "Armor Proficiency (Medium)",
             "name": "Competenza nelle Armature (Medie)",
-            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Chierico",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Guerriero Psichico",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ]
-            ]
+            "description": "<p>Quando indossi un tipo di armatura in cui sei competente, la penalità alla prova di armatura per quell'armatura si applica solo alle prove di Equilibrio, Arrampicarsi, Artista della fuga, Nascondersi, Saltare, Muoversi Silenziosamente, Rapidità di Mano e Acrobazia.</p>"
         },
         {
             "id": "Aura of Courage",
             "name": "Aura di Coraggio",
-            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Un paladino è immune alla paura (magica o meno). Ogni alleato entro 3 metri da lei ottiene Bonus Morale +4 ai Tiri Salvezza contro gli effetti di paura.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questa capacità funziona mentre il paladino è cosciente, ma non se è incosciente o morto.</p>",
-            "classes": [
-                [
-                    "Paladino",
-                    3
-                ]
-            ]
+            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Un paladino è immune alla paura (magica o meno). Ogni alleato entro 3 metri da lei ottiene Bonus Morale +4 ai Tiri Salvezza contro gli effetti di paura.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questa capacità funziona mentre il paladino è cosciente, ma non se è incosciente o morto.</p>"
         },
         {
             "id": "Bardic Music",
             "name": "Musica Bardica",
-            "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Una volta al giorno per livello da bardo, un bardo può usare la sua canzone o la sua poetica per produrre effetti magici su coloro che lo circondano (di solito incluso se stesso, se lo desidera). Sebbene queste capacità rientrino nella categoria della musica bardica e le descrizioni trattino del canto o del suonare strumenti, possono essere tutte attivate recitando poesie, cantilenando, cantando canzoni liriche, cantando melodie, fischiando, suonando uno strumento con o senza accompagnamento vocale. Ogni abilità richiede sia un livello minimo da bardo che un numero minimo di gradi nell'abilità Intrattenere per qualificarsi; se un bardo non ha il numero di gradi richiesto in almeno un'abilità Intrattenere, non ottiene l'abilità di musica bardica finché non acquisisce i gradi necessari.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Attivare un effetto di musica bardica è un'azione standard. Alcune abilità della musica bardica richiedono concentrazione, il che significa che il bardo deve eseguire un'azione standard ogni round per mantenere l'abilità. Anche mentre usa la musica bardica che non richiede concentrazione, un bardo non può lanciare incantesimi, attivare oggetti magici completandoli (come le pergamene) o attivare oggetti magici con parole magiche (come le bacchette). Proprio come per lanciare un incantesimo con una componente verbale, un bardo sordo ha una probabilità del 20% di fallire quando tenta di usare la musica bardica. Se fallisce, il tentativo viene comunque considerato ai fini del suo limite giornaliero.</p>",
-            "classes": [
-                [
-                    "Bard",
-                    1
-                ]
-            ]
+            "description": "<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Una volta al giorno per livello da bardo, un bardo può usare la sua canzone o la sua poetica per produrre effetti magici su coloro che lo circondano (di solito incluso se stesso, se lo desidera). Sebbene queste capacità rientrino nella categoria della musica bardica e le descrizioni trattino del canto o del suonare strumenti, possono essere tutte attivate recitando poesie, cantilenando, cantando canzoni liriche, cantando melodie, fischiando, suonando uno strumento con o senza accompagnamento vocale. Ogni abilità richiede sia un livello minimo da bardo che un numero minimo di gradi nell'abilità Intrattenere per qualificarsi; se un bardo non ha il numero di gradi richiesto in almeno un'abilità Intrattenere, non ottiene l'abilità di musica bardica finché non acquisisce i gradi necessari.</p>\n<p style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Attivare un effetto di musica bardica è un'azione standard. Alcune abilità della musica bardica richiedono concentrazione, il che significa che il bardo deve eseguire un'azione standard ogni round per mantenere l'abilità. Anche mentre usa la musica bardica che non richiede concentrazione, un bardo non può lanciare incantesimi, attivare oggetti magici completandoli (come le pergamene) o attivare oggetti magici con parole magiche (come le bacchette). Proprio come per lanciare un incantesimo con una componente verbale, un bardo sordo ha una probabilità del 20% di fallire quando tenta di usare la musica bardica. Se fallisce, il tentativo viene comunque considerato ai fini del suo limite giornaliero.</p>"
         },
         {
             "id": "Bonus Feat (Monk)",
             "name": "Talento Bonus (Monaco)",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 1° livello, un monaco può selezionare Lotta Migliorata o Pugno Stordente come talento bonus. Al 2° livello, può selezionare Riflessi in Combattimento o Deviare Frecce come talento bonus. Al 6° livello, può selezionare Disarmare Migliorato o Sbilanciare Migliorato come talento bonus. Un monaco non ha bisogno di nessuno dei prerequisiti normalmente richiesti per questi talenti per selezionarli.</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 1</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.pH0sb40LgQjTlXVs]{Improved Grapple}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.1ZlPOPJxzl8rnwHr]{Stunning Fist}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 2</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.rJ7H4RC2xMCzR7gv]{Combat Reflexes}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.8VmsGB8g05PNUulB]{Deflect Arrows}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 6</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.9igITV6htZUcgpWr]{Improved Trip}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.4Xq3pc59Kv2f4xro]{Improved Disarm}</span></strong></p>",
-            "classes": [
-                [
-                    "Monaco",
-                    1
-                ],
-                [
-                    "Monaco",
-                    2
-                ],
-                [
-                    "Monaco",
-                    6
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 1° livello, un monaco può selezionare Lotta Migliorata o Pugno Stordente come talento bonus. Al 2° livello, può selezionare Riflessi in Combattimento o Deviare Frecce come talento bonus. Al 6° livello, può selezionare Disarmare Migliorato o Sbilanciare Migliorato come talento bonus. Un monaco non ha bisogno di nessuno dei prerequisiti normalmente richiesti per questi talenti per selezionarli.</span></p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 1</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.pH0sb40LgQjTlXVs]{Improved Grapple}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.1ZlPOPJxzl8rnwHr]{Stunning Fist}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 2</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.rJ7H4RC2xMCzR7gv]{Combat Reflexes}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.8VmsGB8g05PNUulB]{Deflect Arrows}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">Livello 6</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.9igITV6htZUcgpWr]{Improved Trip}</span></strong></p>\n<p><strong><span style=\"color: #191813; font-size: 13px;\">@Compendium[D35E.feats.4Xq3pc59Kv2f4xro]{Improved Disarm}</span></strong></p>"
         },
         {
             "id": "Bonus Feat (Wizard)",
             "name": "Talento Bonus (Mago)",
-            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5°, 10°, 15° e 20° livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>",
-            "classes": [
-                [
-                    "Mago",
-                    5
-                ],
-                [
-                    "Mago",
-                    10
-                ],
-                [
-                    "Mago",
-                    15
-                ],
-                [
-                    "Mago",
-                    20
-                ]
-            ]
+            "description": "<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Al 5°, 10°, 15° e 20° livello un mago acquisisce un talento bonus. Questo talento deve essere un talento di metamagia, un talento di creazione oggetto oppure Padronanza degli Incantesimi. I personaggi devono anche avere tutti i prerequisiti per un talento bonus, compresi il livello minimo di incantatore.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">Questi talenti bonus sono in aggiunta al talento che un personaggio di qualsiasi classe ottiene ogni tre livelli. Il mago non è limitato alle categorie dei talenti di creazione oggetto, talenti di metamagia o Padronanza degli Incantesimi quando sceglie quei talenti.</p>"
         },
         {
             "id": "Deliver Touch Spells",
             "name": "Trasmettere incantesimi a contatto",
-            "description": "<p>Se il padrone è di 3° livello o superiore, il famiglio può trasmettere incantesimi a contatto per il padrone. Se il padrone e il famiglio sono in contatto quando il padrone lancia un incantesimo a contatto, egli può designare il suo famiglio come “colui che crea il contatto”. Il famiglio può allora trasmettere l’incantesimo a contatto proprio come il padrone. Come di norma, se il padrone lancia un altro incantesimo prima che il contatto venga effettuato, l’incantesimo a contatto si dissolve.</p>",
-            "classes": [
-                [
-                    "Famiglio",
-                    3
-                ]
-            ]
+            "description": "<p>Se il padrone è di 3° livello o superiore, il famiglio può trasmettere incantesimi a contatto per il padrone. Se il padrone e il famiglio sono in contatto quando il padrone lancia un incantesimo a contatto, egli può designare il suo famiglio come “colui che crea il contatto”. Il famiglio può allora trasmettere l’incantesimo a contatto proprio come il padrone. Come di norma, se il padrone lancia un altro incantesimo prima che il contatto venga effettuato, l’incantesimo a contatto si dissolve.</p>"
         },
         {
             "id": "Detect Evil",
             "name": "Individuazione del Male",
-            "description": "<p>Puoi percepire la presenza del male. La quantità di informazioni rivelate dipende da quanto tempo studi una particolare area o soggetto.</p>\n<p><em>1° Round:&nbsp;</em>Presenza o assenza del male.</p>\n<p><em>2° Round:&nbsp;</em>Numero di aure malvagie (creature, oggetti o incantesimi) nell'area e il potere dell'aura malvagia più potente presente.</p>\n<p>Se hai un allineamento buono e il potere dell'aura malvagia più forte è soverchiante e il DV o il livello della fonte dell'aura è almeno il doppio del tuo livello del personaggio, rimani stordito per 1 round e l'incantesimo finisce.</p>\n<p><em>3° Round:&nbsp;</em>Il potere e la posizione di ciascuna aura. Se un'aura è al di fuori della tua linea di vista, allora ne riconosci la direzione ma non la posizione esatta.</p>\n<p><em>Potenza dell'Aura:</em>&nbsp;Il potere di un'aura malvagia dipende dal tipo di creatura o oggetto malvagio che stai rilevando e dai suoi DV, livello dell'incantatore o (nel caso di un chierico) livello di classe; vedere la tabella allegata. Se un'aura rientra in più di una categoria di forza, l'incantesimo indica la più forte delle due.</p>\n<p><em>Aura Persistente:</em>&nbsp;Un'aura malvagia permane dopo che la sua fonte originale si è dissipata (nel caso di un incantesimo) o è stata distrutta (nel caso di una creatura o di un oggetto magico). Se individuazione del male è lanciato e diretto in tale posizione, l'incantesimo indica un'aura debole (anche più debole di un'aura debole). Per quanto tempo l'aura persiste a questo livello debole dipende dal suo potere originale.</p>\n<p>Animali, trappole, veleni e altri potenziali pericoli non sono malvagi e come tali questo incantesimo non li rileva.</p>\n<p>Ad ogni round, puoi girarti per rilevare il male in una nuova area. L'incantesimo può penetrare le barriere, ma 30cm di pietra, 2.5cm di metallo comune, un sottile foglio di piombo o 90cm di legno o terra lo bloccano.</p>",
-            "classes": [
-                [
-                    "Paladino",
-                    1
-                ]
-            ]
+            "description": "<p>Puoi percepire la presenza del male. La quantità di informazioni rivelate dipende da quanto tempo studi una particolare area o soggetto.</p>\n<p><em>1° Round:&nbsp;</em>Presenza o assenza del male.</p>\n<p><em>2° Round:&nbsp;</em>Numero di aure malvagie (creature, oggetti o incantesimi) nell'area e il potere dell'aura malvagia più potente presente.</p>\n<p>Se hai un allineamento buono e il potere dell'aura malvagia più forte è soverchiante e il DV o il livello della fonte dell'aura è almeno il doppio del tuo livello del personaggio, rimani stordito per 1 round e l'incantesimo finisce.</p>\n<p><em>3° Round:&nbsp;</em>Il potere e la posizione di ciascuna aura. Se un'aura è al di fuori della tua linea di vista, allora ne riconosci la direzione ma non la posizione esatta.</p>\n<p><em>Potenza dell'Aura:</em>&nbsp;Il potere di un'aura malvagia dipende dal tipo di creatura o oggetto malvagio che stai rilevando e dai suoi DV, livello dell'incantatore o (nel caso di un chierico) livello di classe; vedere la tabella allegata. Se un'aura rientra in più di una categoria di forza, l'incantesimo indica la più forte delle due.</p>\n<p><em>Aura Persistente:</em>&nbsp;Un'aura malvagia permane dopo che la sua fonte originale si è dissipata (nel caso di un incantesimo) o è stata distrutta (nel caso di una creatura o di un oggetto magico). Se individuazione del male è lanciato e diretto in tale posizione, l'incantesimo indica un'aura debole (anche più debole di un'aura debole). Per quanto tempo l'aura persiste a questo livello debole dipende dal suo potere originale.</p>\n<p>Animali, trappole, veleni e altri potenziali pericoli non sono malvagi e come tali questo incantesimo non li rileva.</p>\n<p>Ad ogni round, puoi girarti per rilevare il male in una nuova area. L'incantesimo può penetrare le barriere, ma 30cm di pietra, 2.5cm di metallo comune, un sottile foglio di piombo o 90cm di legno o terra lo bloccano.</p>"
         },
         {
             "id": "Divine Grace",
             "name": "Grazia Divina",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 2° livello, un paladino ottiene un bonus pari al suo bonus di Carisma (se presente) a tutti i Tiri Salvezza.</span></p>",
-            "classes": [
-                [
-                    "Paladino",
-                    2
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Al 2° livello, un paladino ottiene un bonus pari al suo bonus di Carisma (se presente) a tutti i Tiri Salvezza.</span></p>"
         },
         {
             "id": "Divine Health",
             "name": "Salute Divina",
-            "description": "<p>Un paladino diventa immune a tutte le malattie, comprese le malattie soprannaturali e magiche</p>",
-            "classes": [
-                [
-                    "Paladino",
-                    3
-                ]
-            ]
+            "description": "<p>Un paladino diventa immune a tutte le malattie, comprese le malattie soprannaturali e magiche</p>"
         },
         {
             "id": "Endurance",
             "name": "Resistenza Fisica",
-            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>Ottieni un bonus di +4 alle seguenti prove e tiri salvezza: prove di Nuotare effettuate per resistere ai danni non letali, prove di Costituzione effettuate per continuare a correre, prove di Costituzione effettuate per evitare danni non letali da una marcia forzata, prove di Costituzione effettuate per trattenere il respiro, prove di Costituzione fatte per evitare danni non letali da fame o sete, tiri salvezza su Tempra fatti per evitare danni non letali da ambienti caldi o freddi e tiri salvezza su Tempra per resistere ai danni da soffocamento. Inoltre, puoi dormire con un'armatura leggera o media senza diventare affaticato.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Un personaggio senza questo talento che dorme in un'armatura media o più pesante diventa automaticamente affaticato il giorno successivo.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Speciale</span></h3>\n<p>Un ranger ottiene automaticamente Resistenza come talento bonus al 3° livello. Non ha bisogno di selezionarlo.</p>\n<p>&nbsp;</p>",
-            "classes": [
-                [
-                    "Ranger",
-                    3
-                ]
-            ]
+            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Benefit</span></h3>\n<p>Ottieni un bonus di +4 alle seguenti prove e tiri salvezza: prove di Nuotare effettuate per resistere ai danni non letali, prove di Costituzione effettuate per continuare a correre, prove di Costituzione effettuate per evitare danni non letali da una marcia forzata, prove di Costituzione effettuate per trattenere il respiro, prove di Costituzione fatte per evitare danni non letali da fame o sete, tiri salvezza su Tempra fatti per evitare danni non letali da ambienti caldi o freddi e tiri salvezza su Tempra per resistere ai danni da soffocamento. Inoltre, puoi dormire con un'armatura leggera o media senza diventare affaticato.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Un personaggio senza questo talento che dorme in un'armatura media o più pesante diventa automaticamente affaticato il giorno successivo.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Speciale</span></h3>\n<p>Un ranger ottiene automaticamente Resistenza come talento bonus al 3° livello. Non ha bisogno di selezionarlo.</p>\n<p>&nbsp;</p>"
         },
         {
             "id": "Evasion",
             "name": "Eludere",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Puoi evitare attacchi anche magici e insoliti con grande agilità. Se effettui con successo un tiro salvezza sui Riflessi contro un attacco che normalmente infligge metà del danno con un tiro salvezza riuscito, non subisci invece alcun danno. Eludere può essere usato solo se indossi un'armatura leggera o nessuna armatura. Quando sei indifeso non ottieni il vantaggio di Eludere.</span></p>",
-            "classes": [
-                [
-                    "Monaco",
-                    2
-                ],
-                [
-                    "Ranger",
-                    9
-                ],
-                [
-                    "Ladro",
-                    2
-                ],
-                [
-                    "Compagno Animale",
-                    3
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Puoi evitare attacchi anche magici e insoliti con grande agilità. Se effettui con successo un tiro salvezza sui Riflessi contro un attacco che normalmente infligge metà del danno con un tiro salvezza riuscito, non subisci invece alcun danno. Eludere può essere usato solo se indossi un'armatura leggera o nessuna armatura. Quando sei indifeso non ottieni il vantaggio di Eludere.</span></p>"
         },
         {
             "id": "Hide in Plain Sight",
             "name": "Nascondersi in Piena Vista",
-            "description": "<p>Mentre ti trovi in qualsiasi tipo di terreno naturale, puoi usare l'abilità Nascondersi anche mentre sei osservato.</p>",
-            "classes": [
-                [
-                    "Ranger",
-                    17
-                ],
-                [
-                    "Assassino",
-                    8
-                ]
-            ]
+            "description": "<p>Mentre ti trovi in qualsiasi tipo di terreno naturale, puoi usare l'abilità Nascondersi anche mentre sei osservato.</p>"
         },
         {
             "id": "Lay on Hands",
             "name": "Imposizione delle Mani",
-            "description": "<p>A partire dal 2° livello, un paladino con un punteggio di Carisma di 12 o superiore può curare le ferite (le sue o quelle di altri) con il tocco. Ogni giorno può curare un numero totale di punti ferita pari al suo livello moltiplicato per il suo bonus di carisma. Un paladino può scegliere di dividere la sua guarigione tra più bersagli e non è obbligato ad usarla tutta in una volta. Usare l'imposizione delle mani è un'azione standard. </p> \n <p> & nbsp; </p> \n <p> In alternativa, un paladino può usare uno o tutti questi poteri curativi per infliggere danni a creature non morte. Usare l'imposizione delle mani in questo modo richiede un attacco di tocco in mischia riuscito e non provoca un attacco di opportunità. Il paladino decide quanti punti della sua assegnazione giornaliera usare come danno dopo aver toccato con successo una creatura non morta.</p>",
-            "classes": [
-                [
-                    "Paladino",
-                    2
-                ]
-            ]
+            "description": "<p>A partire dal 2° livello, un paladino con un punteggio di Carisma di 12 o superiore può curare le ferite (le sue o quelle di altri) con il tocco. Ogni giorno può curare un numero totale di punti ferita pari al suo livello moltiplicato per il suo bonus di carisma. Un paladino può scegliere di dividere la sua guarigione tra più bersagli e non è obbligato ad usarla tutta in una volta. Usare l'imposizione delle mani è un'azione standard. </p> \n <p> & nbsp; </p> \n <p> In alternativa, un paladino può usare uno o tutti questi poteri curativi per infliggere danni a creature non morte. Usare l'imposizione delle mani in questo modo richiede un attacco di tocco in mischia riuscito e non provoca un attacco di opportunità. Il paladino decide quanti punti della sua assegnazione giornaliera usare come danno dopo aver toccato con successo una creatura non morta.</p>"
         },
         {
             "id": "Martial Weapon Proficiency (All)",
             "name": "Competenza nelle Armi da Guerra (Tutte)",
-            "description": "<p>Sai come usare qualsiasi tipo di arma da guerra in combattimento. Effettui normalmente i tiri per colpire con l'arma selezionata.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Psychic Warrior",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ],
-                [
-                    "Ranger",
-                    1
-                ]
-            ]
+            "description": "<p>Sai come usare qualsiasi tipo di arma da guerra in combattimento. Effettui normalmente i tiri per colpire con l'arma selezionata.</p>"
         },
         {
             "id": "Nature Sense",
-            "name": "Senso della Natura",
-            "classes": [
-                [
-                    "Druido",
-                    1
-                ]
-            ]
+            "name": "Senso della Natura"
         },
         {
             "id": "Purity of Body",
             "name": "Purezza del Corpo",
-            "description": "Al 5° livello, un monaco guadagna l’immunità a tutte le malattie tranne le malattie soprannaturali e magiche.",
-            "classes": [
-                [
-                    "Monaco",
-                    5
-                ]
-            ]
+            "description": "Al 5° livello, un monaco guadagna l’immunità a tutte le malattie tranne le malattie soprannaturali e magiche."
         },
         {
             "id": "Quivering Palm",
             "name": "Palmo Tremante",
-            "description": "<p>A partire dal 15° livello, un monaco può sviluppare delle vibrazioni nel corpo di un’altra creatura che, se così desidera, possono essere fatali. Il monaco può usare l’attacco palmo tremante una volta alla settimana e deve dichiarare le sue intenzioni prima di effettuare il tiro per colpire. Costrutti, melme, vegetali, non morti, creature incorporee e creature immuni a colpi critici non ne subiscono gli effetti. Altrimenti, se il monaco colpisce con successo e il bersaglio subisce danni dal colpo, l’attacco del palmo tremante ha avuto effetto. Quindi, il monaco può scegliere di uccidere la vittima in qualsiasi momento, purché ciò accada entro un giorno per livello del monaco. Per farlo egli deve semplicemente desiderare che la vittima muoia (un’azione gratuita) e, a meno che la vittima non superi un tiro salvezza sulla Tempra (CD 10 + 1/2 del livello del monaco + modificatore di Saggezza), muore. Se il tiro salvezza ha successo, il bersaglio non sarà più soggetto agli effetti di quel particolare attacco con palmo tremante (ma potrà essere colpito da un nuovo attacco in futuro).</p>",
-            "classes": [
-                [
-                    "Monaco",
-                    15
-                ]
-            ]
+            "description": "<p>A partire dal 15° livello, un monaco può sviluppare delle vibrazioni nel corpo di un’altra creatura che, se così desidera, possono essere fatali. Il monaco può usare l’attacco palmo tremante una volta alla settimana e deve dichiarare le sue intenzioni prima di effettuare il tiro per colpire. Costrutti, melme, vegetali, non morti, creature incorporee e creature immuni a colpi critici non ne subiscono gli effetti. Altrimenti, se il monaco colpisce con successo e il bersaglio subisce danni dal colpo, l’attacco del palmo tremante ha avuto effetto. Quindi, il monaco può scegliere di uccidere la vittima in qualsiasi momento, purché ciò accada entro un giorno per livello del monaco. Per farlo egli deve semplicemente desiderare che la vittima muoia (un’azione gratuita) e, a meno che la vittima non superi un tiro salvezza sulla Tempra (CD 10 + 1/2 del livello del monaco + modificatore di Saggezza), muore. Se il tiro salvezza ha successo, il bersaglio non sarà più soggetto agli effetti di quel particolare attacco con palmo tremante (ma potrà essere colpito da un nuovo attacco in futuro).</p>"
         },
         {
             "id": "Rage",
             "name": "Ira",
-            "description": "<p>Un barbaro può entrare in ira un certo numero di volte al giorno. In ira, un barbaro ottiene temporaneamente un bonus +4 alla Forza, un bonus +4 alla Costituzione e un bonus morale +2 ai Tiri Salvezza su Volontà, ma subisce una penalità di -2 alla Classe Armatura. L'aumento di Costituzione aumenta i punti ferita del barbaro di 2 punti per livello, ma questi punti ferita scompaiono alla fine dell'ira quando il suo punteggio di Costituzione torna alla normalità. (Questi punti ferita extra non vengono persi per primi nel modo in cui lo sono i punti ferita temporanei.) Mentre è in collera, un barbaro non può usare abilità basate su Carisma, Destrezza o Intelligenza (eccetto Equilibrio, Artista della fuga, Intimidazione e Corsa), l'abilità Concentrazione, o qualsiasi abilità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedono una parola di comando, un'abilità innescata (come una bacchetta) o il completamento dell'incantesimo (come una pergamena) per funzionare. Può usare qualsiasi talento che possiede eccetto Competenza in Combattimento, talenti di creazione di oggetti e metamagia. Un impeto d'ira dura per un numero di round pari a 3 + il modificatore di Costituzione del personaggio (migliorato). Un barbaro può porre fine prematuramente alla sua ira. Alla fine dell'ira, il barbaro perde i modificatori e le restrizioni dell'ira e diventa affaticato (penalità -2 alla Forza, penalità -2 alla Destrezza, non può caricare o correre) per la durata dell'incontro corrente (a meno che non sia un Barbaro di 17 ° livello, a quel punto questa limitazione non si applica più). </p>\n<p> Un barbaro può entrare in ira solo una volta per incontro. Al 1 ° livello può usare la sua abilità di ira una volta al giorno. Al 4 ° livello e successivamente ogni quattro livelli, può usarlo una volta in più al giorno (fino a un massimo di sei volte al giorno al 20 ° livello). Entrare in ira non richiede tempo, ma un barbaro può farlo solo durante la sua azione, non in risposta all'azione di qualcun altro.</p>",
-            "classes": [
-                [
-                    "Barbaro",
-                    1
-                ]
-            ]
+            "description": "<p>Un barbaro può entrare in ira un certo numero di volte al giorno. In ira, un barbaro ottiene temporaneamente un bonus +4 alla Forza, un bonus +4 alla Costituzione e un bonus morale +2 ai Tiri Salvezza su Volontà, ma subisce una penalità di -2 alla Classe Armatura. L'aumento di Costituzione aumenta i punti ferita del barbaro di 2 punti per livello, ma questi punti ferita scompaiono alla fine dell'ira quando il suo punteggio di Costituzione torna alla normalità. (Questi punti ferita extra non vengono persi per primi nel modo in cui lo sono i punti ferita temporanei.) Mentre è in collera, un barbaro non può usare abilità basate su Carisma, Destrezza o Intelligenza (eccetto Equilibrio, Artista della fuga, Intimidazione e Corsa), l'abilità Concentrazione, o qualsiasi abilità che richieda pazienza o concentrazione, né può lanciare incantesimi o attivare oggetti magici che richiedono una parola di comando, un'abilità innescata (come una bacchetta) o il completamento dell'incantesimo (come una pergamena) per funzionare. Può usare qualsiasi talento che possiede eccetto Competenza in Combattimento, talenti di creazione di oggetti e metamagia. Un impeto d'ira dura per un numero di round pari a 3 + il modificatore di Costituzione del personaggio (migliorato). Un barbaro può porre fine prematuramente alla sua ira. Alla fine dell'ira, il barbaro perde i modificatori e le restrizioni dell'ira e diventa affaticato (penalità -2 alla Forza, penalità -2 alla Destrezza, non può caricare o correre) per la durata dell'incontro corrente (a meno che non sia un Barbaro di 17 ° livello, a quel punto questa limitazione non si applica più). </p>\n<p> Un barbaro può entrare in ira solo una volta per incontro. Al 1 ° livello può usare la sua abilità di ira una volta al giorno. Al 4 ° livello e successivamente ogni quattro livelli, può usarlo una volta in più al giorno (fino a un massimo di sei volte al giorno al 20 ° livello). Entrare in ira non richiede tempo, ma un barbaro può farlo solo durante la sua azione, non in risposta all'azione di qualcun altro.</p>"
         },
         {
             "id": "Remove Disease",
             "name": "Rimuovi Malattia",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Un paladino può produrre un effetto di </span><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">rimuovi malattia&nbsp;</em><span style=\"color: #191813; font-size: 13px;\">, come l'incantesimo, una volta per settimana. Può usare questa abilità una volta in più per settimana per ogni 3 livelli dopo il 6o (due volte al 9o, 3 al 12o, e così via).</span></p>",
-            "classes": [
-                [
-                    "Paladino",
-                    6
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Un paladino può produrre un effetto di </span><em style=\"box-sizing: border-box; user-select: text; color: #191813; font-size: 13px;\">rimuovi malattia&nbsp;</em><span style=\"color: #191813; font-size: 13px;\">, come l'incantesimo, una volta per settimana. Può usare questa abilità una volta in più per settimana per ogni 3 livelli dopo il 6o (due volte al 9o, 3 al 12o, e così via).</span></p>"
         },
         {
             "id": "Resist Nature's Lure",
             "name": "Resistenza al Richiamo della Natura",
-            "description": "<p>A partire dal 4 ° livello, un druido ottiene bonus +4 ai tiri salvezza contro le capacità magiche dei folletti.</p>",
-            "classes": [
-                [
-                    "Druido",
-                    4
-                ]
-            ]
+            "description": "<p>A partire dal 4 ° livello, un druido ottiene bonus +4 ai tiri salvezza contro le capacità magiche dei folletti.</p>"
         },
         {
             "id": "Scribe Scroll",
             "name": "Scrivere Pergamene",
-            "description": "<h3><span id=\"Prerequisite\" class=\"mw-headline\">Prerequisiti</span></h3><p>Incantatore livello 1.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Descrizione</span></h3>\n<p>Puoi creare una pergamena di qualsiasi incantesimo che conosci. Scrivere una pergamena richiede un giorno per ogni 1.000 mo nel suo prezzo base. Il prezzo base di una pergamena è il livello dell'incantesimo x il livello dell'incantatore x 25 mo. Per scrivere una pergamena, devi spendere 1/25 di questo prezzo base in PE e utilizzare materie prime che costano la metà di questo prezzo base.</p>\n<p>Qualsiasi pergamena che contiene un incantesimo con un materiale costoso o un costo in PE comporta una spesa proporzionata. Oltre ai costi derivati dal prezzo base, devi spendere la componente materiale o pagare i PE quando scrivi la pergamena.</p>",
-            "classes": [
-                [
-                    "Mago",
-                    1
-                ]
-            ]
+            "description": "<h3><span id=\"Prerequisite\" class=\"mw-headline\">Prerequisiti</span></h3><p>Incantatore livello 1.</p>\n<h3><span id=\"Benefit\" class=\"mw-headline\">Descrizione</span></h3>\n<p>Puoi creare una pergamena di qualsiasi incantesimo che conosci. Scrivere una pergamena richiede un giorno per ogni 1.000 mo nel suo prezzo base. Il prezzo base di una pergamena è il livello dell'incantesimo x il livello dell'incantatore x 25 mo. Per scrivere una pergamena, devi spendere 1/25 di questo prezzo base in PE e utilizzare materie prime che costano la metà di questo prezzo base.</p>\n<p>Qualsiasi pergamena che contiene un incantesimo con un materiale costoso o un costo in PE comporta una spesa proporzionata. Oltre ai costi derivati dal prezzo base, devi spendere la componente materiale o pagare i PE quando scrivi la pergamena.</p>"
         },
         {
             "id": "Shield Proficiency",
             "name": "Competenza negli Scudi",
-            "description": "<p>Puoi usare uno scudo e subire solo le penalità standard. Quando si utilizza uno scudo di cui non si è competenti, si subisce la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, comprese le prove di Cavalcare.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Bardo",
-                    1
-                ],
-                [
-                    "Chierico",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Soulknife",
-                    1
-                ],
-                [
-                    "Psychic Warrior",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ],
-                [
-                    "Ranger",
-                    1
-                ]
-            ]
+            "description": "<p>Puoi usare uno scudo e subire solo le penalità standard. Quando si utilizza uno scudo di cui non si è competenti, si subisce la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, comprese le prove di Cavalcare.</p>"
         },
         {
             "id": "Simple Weapon Proficiency",
             "name": "Competenza nelle Armi Semplici",
-            "description": "<p>Puoi attaccare normalmente con armi semplici. Quando usi un'arma con cui non sei esperto, subisci una penalità ai tiri per colpire.</p>",
-            "classes": [
-                [
-                    "Adepto (PNG)",
-                    1
-                ],
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Barbaro",
-                    1
-                ],
-                [
-                    "Bardo",
-                    1
-                ],
-                [
-                    "Chierico",
-                    1
-                ],
-                [
-                    "Esperto (PNG)",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ],
-                [
-                    "Paladino",
-                    1
-                ],
-                [
-                    "Stregone",
-                    1
-                ],
-                [
-                    "Soulknife",
-                    1
-                ],
-                [
-                    "Psychic Warrior",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    1
-                ],
-                [
-                    "Ladro",
-                    1
-                ],
-                [
-                    "Ranger",
-                    1
-                ]
-            ]
+            "description": "<p>Puoi attaccare normalmente con armi semplici. Quando usi un'arma con cui non sei esperto, subisci una penalità ai tiri per colpire.</p>"
         },
         {
             "id": "Slow Fall",
             "name": "Caduta Lenta",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">: A partire dal 4° livello, un monaco può sfruttare un muro che sia ad un braccio di distanza per rallentare la sua discesa. Il monaco subisce danni come se la caduta fosse 6 metri più breve di quanto non sia realmente. La sua capacità di rallentare la caduta (cioè di ridurre l’altezza effettiva della caduta quando è vicino a un muro) migliora con l’aumento di livello fino a quando, al 20° livello, il monaco può usare un muro vicino per rallentare la discesa e cadere da qualsiasi altezza senza farsi male. </span></p>",
-            "classes": [
-                [
-                    "Monaco",
-                    4
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">: A partire dal 4° livello, un monaco può sfruttare un muro che sia ad un braccio di distanza per rallentare la sua discesa. Il monaco subisce danni come se la caduta fosse 6 metri più breve di quanto non sia realmente. La sua capacità di rallentare la caduta (cioè di ridurre l’altezza effettiva della caduta quando è vicino a un muro) migliora con l’aumento di livello fino a quando, al 20° livello, il monaco può usare un muro vicino per rallentare la discesa e cadere da qualsiasi altezza senza farsi male. </span></p>"
         },
         {
             "id": "Smite Evil",
             "name": "Punire il Male",
-            "description": "<p>Una volta al giorno, un paladino può tentare di punire il male con un normale attacco in mischia. Aggiunge il suo bonus di Carisma (se presente) al suo tiro per colpire e infligge 1 danno extra per livello da paladino. Se il paladino colpisce accidentalmente una creatura che non è malvagia, punire non ha effetto, ma l'abilità è comunque utilizzata per quel giorno. </p> \n <p> Al 5° livello, e successivamente ogni cinque livelli, il paladino può punire il male una volta in più al giorno, come indicato nella tabella, fino ad un massimo di cinque volte al giorno al 20° livello.</p>",
-            "classes": [
-                [
-                    "Paladin",
-                    1
-                ]
-            ]
+            "description": "<p>Una volta al giorno, un paladino può tentare di punire il male con un normale attacco in mischia. Aggiunge il suo bonus di Carisma (se presente) al suo tiro per colpire e infligge 1 danno extra per livello da paladino. Se il paladino colpisce accidentalmente una creatura che non è malvagia, punire non ha effetto, ma l'abilità è comunque utilizzata per quel giorno. </p> \n <p> Al 5° livello, e successivamente ogni cinque livelli, il paladino può punire il male una volta in più al giorno, come indicato nella tabella, fino ad un massimo di cinque volte al giorno al 20° livello.</p>"
         },
         {
             "id": "Sneak Attack",
             "name": "Attacco Furtivo",
-            "description": "<div>Se il ladro riesce a colpire un avversario quando non è in grado di difendersi efficacemente dal suo attacco, può colpire un punto vitale per infliggere danni extra.</div>\n<div>L'attacco del ladro infligge danni extra in qualsiasi momento al suo bersaglio verrebbe negato un bonus di Destrezza alla CA (indipendentemente dal fatto che il bersaglio abbia effettivamente un bonus di Destrezza o meno), o quando il ladro fiancheggia il suo bersaglio. Questo danno extra è 1d6 al 1° livello e successivamente aumenta di 1d6 ogni due livelli da Ladro. Se il ladro ottiene un colpo critico con un attacco furtivo, questo danno extra non viene moltiplicato.</div>\n<div>Gli attacchi a distanza possono essere considerati attacchi furtivi solo se il bersaglio si trova entro 9 metri.</div>",
-            "classes": [
-                [
-                    "Ladro",
-                    1
-                ],
-                [
-                    "Arcane Trickster",
-                    2
-                ],
-                [
-                    "Assassino",
-                    1
-                ],
-                [
-                    "Guardia Nera",
-                    4
-                ]
-            ]
+            "description": "<div>Se il ladro riesce a colpire un avversario quando non è in grado di difendersi efficacemente dal suo attacco, può colpire un punto vitale per infliggere danni extra.</div>\n<div>L'attacco del ladro infligge danni extra in qualsiasi momento al suo bersaglio verrebbe negato un bonus di Destrezza alla CA (indipendentemente dal fatto che il bersaglio abbia effettivamente un bonus di Destrezza o meno), o quando il ladro fiancheggia il suo bersaglio. Questo danno extra è 1d6 al 1° livello e successivamente aumenta di 1d6 ogni due livelli da Ladro. Se il ladro ottiene un colpo critico con un attacco furtivo, questo danno extra non viene moltiplicato.</div>\n<div>Gli attacchi a distanza possono essere considerati attacchi furtivi solo se il bersaglio si trova entro 9 metri.</div>"
         },
         {
             "id": "Speak with Master",
             "name": "Parlare con il Padrone",
-            "description": "<p>Se il padrone è di 5° livello o superiore, il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici.</p>",
-            "classes": [
-                [
-                    "Famiglio",
-                    5
-                ]
-            ]
+            "description": "<p>Se il padrone è di 5° livello o superiore, il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici.</p>"
         },
         {
             "id": "Still Mind",
-            "name": "Mente Lucida",
-            "classes": [
-                [
-                    "Monaco",
-                    3
-                ]
-            ]
+            "name": "Mente Lucida"
         },
         {
             "id": "Summon Familiar",
             "name": "Evocare Famiglio",
-            "description": "<p>Un famiglio è un normale animale che acquisisce nuovi poteri e diventa una bestia magica quando viene chiamato al servizio da uno stregone o un mago. Mantiene l'aspetto, i Dadi Vita, il bonus di attacco base, i bonus ai tiri salvezza base, le abilità e i talenti dell'animale normale che era una volta, ma viene considerato come una bestia magica invece che come un animale ai fini di qualsiasi effetto che dipenda dal suo genere. Solo un animale normale e non modificato può diventare un famiglio. Un compagno animale non può funzionare anche come famiglio.</p>\n<p>Un famiglio concede anche abilità speciali al suo padrone (uno stregone o un mago), come indicato nella tabella sottostante. Queste abilità speciali si applicano solo quando il maestro e il famiglio si trovano entro 1 miglio l'uno dall'altro.</p>\n<p>I livelli delle diverse classi che hanno diritto ai famigli si sommano allo scopo di determinare le abilità del famiglio che dipendono dal livello del maestro.</p>\n<p>You can read more on familiars here @Compendium[D35E.srd-rules.pW4b8Hf6BimV87Uq]{Familiars}</p>",
-            "classes": [
-                [
-                    "Adepto (PNG)",
-                    2
-                ],
-                [
-                    "Mago",
-                    1
-                ],
-                [
-                    "Stregone",
-                    1
-                ]
-            ]
+            "description": "<p>Un famiglio è un normale animale che acquisisce nuovi poteri e diventa una bestia magica quando viene chiamato al servizio da uno stregone o un mago. Mantiene l'aspetto, i Dadi Vita, il bonus di attacco base, i bonus ai tiri salvezza base, le abilità e i talenti dell'animale normale che era una volta, ma viene considerato come una bestia magica invece che come un animale ai fini di qualsiasi effetto che dipenda dal suo genere. Solo un animale normale e non modificato può diventare un famiglio. Un compagno animale non può funzionare anche come famiglio.</p>\n<p>Un famiglio concede anche abilità speciali al suo padrone (uno stregone o un mago), come indicato nella tabella sottostante. Queste abilità speciali si applicano solo quando il maestro e il famiglio si trovano entro 1 miglio l'uno dall'altro.</p>\n<p>I livelli delle diverse classi che hanno diritto ai famigli si sommano allo scopo di determinare le abilità del famiglio che dipendono dal livello del maestro.</p>\n<p>You can read more on familiars here @Compendium[D35E.srd-rules.pW4b8Hf6BimV87Uq]{Familiars}</p>"
         },
         {
             "id": "Thousand Faces",
             "name": "Mille Volti",
-            "description": "<p>Al 13 ° livello, un druido ottiene la capacità di cambiare il suo aspetto a piacimento, come se usasse 'incantesimo @Compendium[D35E.spells.q1oxGkhKHoXO1uBb]{Alter Self}, ma solo nella sua forma normale.</p>",
-            "classes": [
-                [
-                    "Druid",
-                    13
-                ]
-            ]
+            "description": "<p>Al 13 ° livello, un druido ottiene la capacità di cambiare il suo aspetto a piacimento, come se usasse 'incantesimo @Compendium[D35E.spells.q1oxGkhKHoXO1uBb]{Alter Self}, ma solo nella sua forma normale.</p>"
         },
         {
             "id": "Tower Shield Proficiency",
             "name": "Competenza nello Scudo Torre",
-            "description": "<p>Puoi usare uno scudo torre e subire solo le penalità standard. Quando usi uno scudo con cui non sei competente, subisci la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, incluse le prove di Cavalcare.</p>",
-            "classes": [
-                [
-                    "Aristocratico (PNG)",
-                    1
-                ],
-                [
-                    "Guerriero",
-                    1
-                ],
-                [
-                    "Combattente (PNG)",
-                    1
-                ]
-            ]
+            "description": "<p>Puoi usare uno scudo torre e subire solo le penalità standard. Quando usi uno scudo con cui non sei competente, subisci la penalità alla prova di armatura dello scudo sui tiri per colpire e su tutte le prove di abilità che comportano il movimento, incluse le prove di Cavalcare.</p>"
         },
         {
             "id": "Track",
             "name": "Seguire Tracce",
-            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Effetto</span></h3>\n<p>Trovare tracce o seguirle per 1 miglio richiede una prova di sopravvivenza riuscita. Ogni volta che le tracce diventano difficili da seguire si esegue una nuova prova di sopravvivenza. </p> \n <p> Ti muovi a metà della tua velocità normale (o alla tua velocità normale o fino al doppio della velocità normale con una penalità alla prova). La CD dipende dalla superficie e dalle condizioni prevalenti, come indicato nella tabella seguente:</p>\n<table class=\"d20\">\n<tbody>\n<tr>\n<th>Superficie</th>\n<th>CD Sopravvivenza</th>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Molto Soffice</td>\n<td>5</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Compatto</td>\n<td>15</td>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Soffice</td>\n<td>10</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Duro</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>\n<p><em><span id=\"Very_Soft_Ground\" class=\"mw-headline\">Terreno Molto Soffice</span></em></p>\n<p>Qualsiasi superficie (neve fresca, polvere spessa, fango umido) che trattiene impronte profonde e chiare.</p>\n<p><em><span id=\"Soft_Ground\" class=\"mw-headline\">Terreno Soffice</span></em></p>\n<p>Qualsiasi superficie abbastanza morbida da cedere alla pressione, ma più solida del fango umido o della neve fresca, in cui una creatura lascia impronte frequenti ma poco profonde.</p>\n<p><em><span id=\"Firm_Ground\" class=\"mw-headline\">Terreno Compatto</span></em></p>\n<p>La maggior parte delle normali superfici esterne (come prati, campi, boschi e simili) o superfici interne eccezionalmente morbide o sporche (tappeti spessi e pavimenti molto sporchi o polverosi). La creatura potrebbe lasciare delle tracce (rami spezzati o ciuffi di capelli), ma lascia impronte solo occasionali o parziali.</p>\n<p><em><span id=\"Hard_Ground\" class=\"mw-headline\">Terreno Duro</span></em></p>\n<p>Qualsiasi superficie dove non compaiono affatto le impronte, come la roccia nuda o un pavimento interno. La maggior parte dei corsi d'acqua rientra in questa categoria, poiché qualsiasi impronta lasciata viene oscurata o lavata via. La creatura lascia solo piccoli segni (graffi o sassolini spostati). </p> \n <p> Diversi modificatori possono essere applicati alla prova di Sopravvivenza, come indicato nella tabella sottostante.</p>\n<table class=\"d20 minimize\">\n<tbody>\n<tr>\n<th align=\"left\">Condizione</th>\n<th>Sopravvivenza<br>Mod CD</th>\n</tr>\n<tr>\n<td align=\"left\">Ogni tre creature nel gruppo seguito</td>\n<td>\u20131</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Dimensioni o taglia delle creature seguite:<sup>1</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Fine</td>\n<td>+8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Minuta</td>\n<td>+4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Minuscola</td>\n<td>+2</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Piccola</td>\n<td>+1</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Media</td>\n<td>+0</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Grande</td>\n<td>\u20131</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Enorme</td>\n<td>\u20132</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Mastodontica</td>\n<td>\u20134</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Colossale</td>\n<td>\u20138</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Ogni 24 da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr>\n<td align=\"left\">Ogni ora di pioggia da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Caduta neve fresca da quando sono state lasciate le tracce</td>\n<td>+10</td>\n</tr>\n<tr>\n<td align=\"left\">Poca visibilità:<sup>2</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Notte nuvolosa o senza luna</td>\n<td>+6</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Moonlight</td>\n<td>+3</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Fog or precipitation</td>\n<td>+3</td>\n</tr>\n<tr>\n<td align=\"left\">Il gruppo seguito copre le tracce (e si muove a velocità dimezzata)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td class=\"foot\" colspan=\"2\">\n<ol>\n<li>Per un gruppo di taglie miste, applica solo il modificatore per la categoria di taglia più grande.</li>\n<li>Applica solo il modificatore più grande di questa categoria.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Se fallisci una rpova di sopravvivenza, puoi riprovare dopo 1 ora (all'aperto) o 10 minuti (al chiuso) di ricerca.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Senza questo talento, puoi usare l'abilità Sopravvivenza per trovare le tracce, ma puoi seguirle solo se la CD per l'attività è 10 o inferiore. In alternativa, puoi usare l'abilità Cercare per trovare un'impronta o un segno simile del passaggio di una creatura usando le CD fornite sopra, ma non puoi usare Cercare per seguire le tracce, anche se qualcun altro le ha già trovate.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Special</span></h3>\n<p>Un ranger ha automaticamente Seguire Tracce come talento bonus. Non ha bisogno di selezionarlo.</p>\n<p>Questo talento non permette di trovare o seguire le tracce lasciate da una creatura sotto l'effetto dell'incantesimo <em> Passare senza traccia </em>.foo</p>\n<p>&nbsp;</p>",
-            "classes": [
-                [
-                    "Ranger",
-                    1
-                ]
-            ]
+            "description": "<h3><span id=\"Benefit\" class=\"mw-headline\">Effetto</span></h3>\n<p>Trovare tracce o seguirle per 1 miglio richiede una prova di sopravvivenza riuscita. Ogni volta che le tracce diventano difficili da seguire si esegue una nuova prova di sopravvivenza. </p> \n <p> Ti muovi a metà della tua velocità normale (o alla tua velocità normale o fino al doppio della velocità normale con una penalità alla prova). La CD dipende dalla superficie e dalle condizioni prevalenti, come indicato nella tabella seguente:</p>\n<table class=\"d20\">\n<tbody>\n<tr>\n<th>Superficie</th>\n<th>CD Sopravvivenza</th>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Molto Soffice</td>\n<td>5</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Compatto</td>\n<td>15</td>\n</tr>\n<tr class=\"odd\">\n<td>Terreno Soffice</td>\n<td>10</td>\n</tr>\n<tr class=\"even\">\n<td>Terreno Duro</td>\n<td>20</td>\n</tr>\n</tbody>\n</table>\n<p><em><span id=\"Very_Soft_Ground\" class=\"mw-headline\">Terreno Molto Soffice</span></em></p>\n<p>Qualsiasi superficie (neve fresca, polvere spessa, fango umido) che trattiene impronte profonde e chiare.</p>\n<p><em><span id=\"Soft_Ground\" class=\"mw-headline\">Terreno Soffice</span></em></p>\n<p>Qualsiasi superficie abbastanza morbida da cedere alla pressione, ma più solida del fango umido o della neve fresca, in cui una creatura lascia impronte frequenti ma poco profonde.</p>\n<p><em><span id=\"Firm_Ground\" class=\"mw-headline\">Terreno Compatto</span></em></p>\n<p>La maggior parte delle normali superfici esterne (come prati, campi, boschi e simili) o superfici interne eccezionalmente morbide o sporche (tappeti spessi e pavimenti molto sporchi o polverosi). La creatura potrebbe lasciare delle tracce (rami spezzati o ciuffi di capelli), ma lascia impronte solo occasionali o parziali.</p>\n<p><em><span id=\"Hard_Ground\" class=\"mw-headline\">Terreno Duro</span></em></p>\n<p>Qualsiasi superficie dove non compaiono affatto le impronte, come la roccia nuda o un pavimento interno. La maggior parte dei corsi d'acqua rientra in questa categoria, poiché qualsiasi impronta lasciata viene oscurata o lavata via. La creatura lascia solo piccoli segni (graffi o sassolini spostati). </p> \n <p> Diversi modificatori possono essere applicati alla prova di Sopravvivenza, come indicato nella tabella sottostante.</p>\n<table class=\"d20 minimize\">\n<tbody>\n<tr>\n<th align=\"left\">Condizione</th>\n<th>Sopravvivenza<br>Mod CD</th>\n</tr>\n<tr>\n<td align=\"left\">Ogni tre creature nel gruppo seguito</td>\n<td>\u20131</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Dimensioni o taglia delle creature seguite:<sup>1</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Fine</td>\n<td>+8</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Minuta</td>\n<td>+4</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Minuscola</td>\n<td>+2</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Piccola</td>\n<td>+1</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Media</td>\n<td>+0</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Grande</td>\n<td>\u20131</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Enorme</td>\n<td>\u20132</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Mastodontica</td>\n<td>\u20134</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Colossale</td>\n<td>\u20138</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Ogni 24 da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr>\n<td align=\"left\">Ogni ora di pioggia da quando sono state lasciate le tracce</td>\n<td>+1</td>\n</tr>\n<tr class=\"even\">\n<td align=\"left\">Caduta neve fresca da quando sono state lasciate le tracce</td>\n<td>+10</td>\n</tr>\n<tr>\n<td align=\"left\">Poca visibilità:<sup>2</sup></td>\n<td>&nbsp;</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Notte nuvolosa o senza luna</td>\n<td>+6</td>\n</tr>\n<tr>\n<td style=\"text-align: left; padding-left: 2em;\">Moonlight</td>\n<td>+3</td>\n</tr>\n<tr class=\"even\">\n<td style=\"text-align: left; padding-left: 2em;\">Fog or precipitation</td>\n<td>+3</td>\n</tr>\n<tr>\n<td align=\"left\">Il gruppo seguito copre le tracce (e si muove a velocità dimezzata)</td>\n<td>+5</td>\n</tr>\n<tr>\n<td class=\"foot\" colspan=\"2\">\n<ol>\n<li>Per un gruppo di taglie miste, applica solo il modificatore per la categoria di taglia più grande.</li>\n<li>Applica solo il modificatore più grande di questa categoria.</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table>\n<p>Se fallisci una rpova di sopravvivenza, puoi riprovare dopo 1 ora (all'aperto) o 10 minuti (al chiuso) di ricerca.</p>\n<h3><span id=\"Normal\" class=\"mw-headline\">Normale</span></h3>\n<p>Senza questo talento, puoi usare l'abilità Sopravvivenza per trovare le tracce, ma puoi seguirle solo se la CD per l'attività è 10 o inferiore. In alternativa, puoi usare l'abilità Cercare per trovare un'impronta o un segno simile del passaggio di una creatura usando le CD fornite sopra, ma non puoi usare Cercare per seguire le tracce, anche se qualcun altro le ha già trovate.</p>\n<h3><span id=\"Special\" class=\"mw-headline\">Special</span></h3>\n<p>Un ranger ha automaticamente Seguire Tracce come talento bonus. Non ha bisogno di selezionarlo.</p>\n<p>Questo talento non permette di trovare o seguire le tracce lasciate da una creatura sotto l'effetto dell'incantesimo <em> Passare senza traccia </em>.foo</p>\n<p>&nbsp;</p>"
         },
         {
             "id": "Turn/Rebuke Undead",
             "name": "Scacciare/Intimorire Non Morti",
-            "description": "<p>Qualsiasi chierico (o paladino), indipendentemente dall'allineamento, ha il potere di influenzare le creature non morte canalizzando il potere della sua fede attraverso il suo simbolo sacro (o empio) (vedi @Compendium[D35E.srd-rules.TtCDZqtfB75FHqZp]{Turn or Rebuke Undead}). </p> \n <p> Un chierico buono (o un chierico neutrale che adora una divinità buona) può scacciare o distruggere creature non morte. Un chierico malvagio (o un chierico neutrale che adora una divinità malvagia) invece intimorisce o comanda tali creature. Un chierico neutrale di una divinità neutrale deve scegliere se la sua capacità di scacciare funziona come quella di un chierico buono o di un chierico malvagio. Una volta effettuata questa scelta, non può essere annullata. Questa decisione determina anche se il chierico può lanciare cure spontanee o infliggere danni.</p>\n<p>Un chierico può tentare di scacciare i non morti un numero di volte al giorno pari a 3 + il suo modificatore di Carisma. Un chierico con 5 o più gradi in Conoscenza (religione) ottiene un bonus di +2 quando si effettuano prove di scacciare non morti.</p>",
-            "classes": [
-                [
-                    "Cleric",
-                    1
-                ],
-                [
-                    "Paladin",
-                    4
-                ]
-            ]
+            "description": "<p>Qualsiasi chierico (o paladino), indipendentemente dall'allineamento, ha il potere di influenzare le creature non morte canalizzando il potere della sua fede attraverso il suo simbolo sacro (o empio) (vedi @Compendium[D35E.srd-rules.TtCDZqtfB75FHqZp]{Turn or Rebuke Undead}). </p> \n <p> Un chierico buono (o un chierico neutrale che adora una divinità buona) può scacciare o distruggere creature non morte. Un chierico malvagio (o un chierico neutrale che adora una divinità malvagia) invece intimorisce o comanda tali creature. Un chierico neutrale di una divinità neutrale deve scegliere se la sua capacità di scacciare funziona come quella di un chierico buono o di un chierico malvagio. Una volta effettuata questa scelta, non può essere annullata. Questa decisione determina anche se il chierico può lanciare cure spontanee o infliggere danni.</p>\n<p>Un chierico può tentare di scacciare i non morti un numero di volte al giorno pari a 3 + il suo modificatore di Carisma. Un chierico con 5 o più gradi in Conoscenza (religione) ottiene un bonus di +2 quando si effettuano prove di scacciare non morti.</p>"
         },
         {
             "id": "Uncanny Dodge",
             "name": "Schivare Prodigioso",
-            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Conservi il tuo bonus di Destrezza alla CA (se presente) anche se sei colto alla sprovvista o colpito da un attaccante invisibile. Tuttavia, perdi comunque il bonus di Destrezza alla CA se immobilizzato.</span></p>",
-            "classes": [
-                [
-                    "Barbaro",
-                    2
-                ],
-                [
-                    "Ladro",
-                    4
-                ],
-                [
-                    "Assassino",
-                    2
-                ],
-                [
-                    "Difensore Nanico",
-                    2
-                ]
-            ]
+            "description": "<p><span style=\"color: #191813; font-size: 13px;\">Conservi il tuo bonus di Destrezza alla CA (se presente) anche se sei colto alla sprovvista o colpito da un attaccante invisibile. Tuttavia, perdi comunque il bonus di Destrezza alla CA se immobilizzato.</span></p>"
         },
         {
             "id": "Woodland Stride",
             "name": "Andatura nel Bosco",
-            "description": "<p>Puoi muoverti attraverso qualsiasi tipo di sottobosco (come spine naturali, rovi, aree ricoperte di vegetazione e terreno simile) alla tua velocità normale e senza subire danni o subire altri impedimenti. Tuttavia, spine, rovi e aree ricoperte di vegetazione che sono stati magicamente manipolati per impedire il movimento hanno comunque effetto.</p>",
-            "classes": [
-                [
-                    "Druido",
-                    2
-                ],
-                [
-                    "Ranger",
-                    7
-                ]
-            ]
+            "description": "<p>Puoi muoverti attraverso qualsiasi tipo di sottobosco (come spine naturali, rovi, aree ricoperte di vegetazione e terreno simile) alla tua velocità normale e senza subire danni o subire altri impedimenti. Tuttavia, spine, rovi e aree ricoperte di vegetazione che sono stati magicamente manipolati per impedire il movimento hanno comunque effetto.</p>"
         }
     ]
 }
