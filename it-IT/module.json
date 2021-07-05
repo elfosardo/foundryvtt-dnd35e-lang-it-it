@@ -8,7 +8,7 @@
     "dependencies": [{
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "1.28"
+      "version": "2.0.6"
     }],
     "author": "elfosardo",
     "esmodules": ["babele-register.js"],
