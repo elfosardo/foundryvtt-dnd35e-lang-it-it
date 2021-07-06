@@ -111,24 +111,6 @@ const domainAndSchoolsTransformation = {
   "Transmutation Spell School": "Scuola della Trasmutazione",
 };
 
-async function fixSystemCache() {
-  await cache.rebuildCache();
-  console.log("IT-TRANSLATION | Cache is ", CACHE);
-  const cacheReady = !Object.keys(CACHE)
-    .map((k) => CACHE[k])
-    .some((map) => {
-      if (map.size !== undefined) {
-        return map.size === 0;
-      }
-      return map.length === 0;
-    });
-
-  if (cacheReady) {
-    return;
-  }
-  setTimeout(fixSystemCache, 5000);
-}
-
 Hooks.once("init", () => {
   if (typeof Babele !== "undefined") {
     Babele.get().register({
@@ -170,6 +152,4 @@ Hooks.once("init", () => {
   }
 });
 
-Hooks.once("canvasReady", async () => {
-  setTimeout(fixSystemCache, 5000);
-});
+Hooks.once(`babele.ready`, cache.rebuildCache);
