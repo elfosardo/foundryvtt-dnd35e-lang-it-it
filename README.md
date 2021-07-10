@@ -9,3 +9,6 @@ Rughalt https://github.com/Rughalt/D35E
 Alcuni testi tratti o tradotti da:
 * http://www.editorifolli.it/gdr/d20system/ 
 * https://www.d20srd.org/
+
+Ci trovi su
+[Discord](https://discord.gg/8KzsHZjuD6)
