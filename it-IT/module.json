@@ -10,7 +10,7 @@
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
       "version": "2.0.6"
     }],
-    "author": "elfosardo",
+    "author": "elfosardo, Sickus, Slash",
     "esmodules": ["babele-register.js"],
     "scripts": [],
     "styles": ["./style.css"],
