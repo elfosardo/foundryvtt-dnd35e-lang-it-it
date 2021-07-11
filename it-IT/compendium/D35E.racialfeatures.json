@@ -1,0 +1,107 @@
+{
+    "label": "Razze",
+    "mapping": {
+        "names": {
+            "path": "name",
+            "converter": "raceNames"
+        }
+    },
+    "entries": [
+        {
+            "id": "Aasimar"
+        },
+        {
+            "id": "Dromite"
+        },
+        {
+            "id": "Duergar"
+        },
+        {
+            "id": "Dwarf, Deep"
+        },
+        {
+            "id": "Dwarf, Hill"
+        },
+        {
+            "id": "Dwarf, Mountain"
+        },
+        {
+            "id": "Elan"
+        },
+        {
+            "id": "Elf, Aquatic"
+        },
+        {
+            "id": "Elf, Drow"
+        },
+        {
+            "id": "Elf, Grey"
+        },
+        {
+            "id": "Elf, High"
+        },
+        {
+            "id": "Elf, Wild"
+        },
+        {
+            "id": "Elf, Wood"
+        },
+        {
+            "id": "Gnome, Forest"
+        },
+        {
+            "id": "Gnome, Rock"
+        },
+        {
+            "id": "Gnome, Svirfneblin"
+        },
+        {
+            "id": "Goblin"
+        },
+        {
+            "id": "Goblin, Blue"
+        },
+        {
+            "id": "Half-Elf"
+        },
+        {
+            "id": "Half-Giant"
+        },
+        {
+            "id": "Halfling, Deep"
+        },
+        {
+            "id": "Halfling, Lightfoot"
+        },
+        {
+            "id": "Halfling, Tallfellow"
+        },
+        {
+            "id": "Half-Orc"
+        },
+        {
+            "id": "Human"
+        },
+        {
+            "id": "Kobold"
+        },
+        {
+            "id": "Maenad"
+        },
+        {
+            "id": "Merfolk"
+        },
+        {
+            "id": "Orc"
+        },
+        {
+            "id": "Sprite, Pixie"
+        },
+        {
+            "id": "Tiefling"
+        },
+        {
+            "id": "Xeph"
+        }
+    ]
+}
