@@ -1,0 +1,61 @@
+{
+    "label": "Attacchi Naturali",
+    "entries": [
+        {
+            "id": "Bite",
+            "name": "Morso"
+        },
+        {
+            "id": "Breath Weapon (Cone)",
+            "name": "Arma a Soffio (Cono)"
+        },
+        {
+            "id": "Breath Weapon (Ray)",
+            "name": "Arma a Soffio (Raggio)"
+        },
+        {
+            "id": "Claw",
+            "name": "Artiglio"
+        },
+        {
+            "id": "Gore",
+            "name": "Corno"
+        },
+        {
+            "id": "Hoof",
+            "name": "Zoccolo"
+        },
+        {
+            "id": "Incorporeal Touch",
+            "name": "Tocco Incorporeo"
+        },
+        {
+            "id": "Slam",
+            "name": "Schianto"
+        },
+        {
+            "id": "Slap",
+            "name": "Schiaffo"
+        },
+        {
+            "id": "Sting",
+            "name": "Pungiglione"
+        },
+        {
+            "id": "Tail",
+            "name": "Colpo di Coda"
+        },
+        {
+            "id": "Talon",
+            "name": "Artiglio"
+        },
+        {
+            "id": "Tentacle",
+            "name": "Tentacolo"
+        },
+        {
+            "id": "Wing",
+            "name": "Ala"
+        }
+    ]
+}
