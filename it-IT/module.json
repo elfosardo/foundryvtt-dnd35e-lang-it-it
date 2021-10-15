@@ -4,11 +4,11 @@
     "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
     "version": "0.3.2",
     "minimumCoreVersion" : "0.7.9",
-    "compatibleCoreVersion":"0.8.8",
+    "compatibleCoreVersion":"0.8.9",
     "dependencies": [{
       "name": "babele",
       "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.0.6"
+      "version": "2.1.0"
     }],
     "author": "elfosardo, Sickus, Slash",
     "esmodules": ["babele-register.js"],
