@@ -1,5 +1,5 @@
 {
-    "label": "Spell-Like Abilities",
+    "label": "Capacità Magiche",
     "mapping": {
         "class": {
             "path": "data.learnedAt.class",
