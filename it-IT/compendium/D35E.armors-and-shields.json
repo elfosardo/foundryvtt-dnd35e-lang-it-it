@@ -3,75 +3,93 @@
     "entries": [
         {
             "id": "Banded Mail",
-            "name": "Corazza di Bande"
+            "name": "Corazza di Bande",
+            "description": "<p>Questa armatura è composta da strisce di metallo sovrapposte cucite su un supporto di pelle e cotta di maglia. Le strisce coprono le aree vulnerabili, mentre la catena e la pelle proteggono le articolazioni e forniscono libertà di movimento. Cinghie e fibbie distribuiscono il peso in modo uniforme. La tuta include guanti.</p>"
         },
         {
             "id": "Breastplate",
-            "name": "Corazza di Piastre"
+            "name": "Corazza di Piastre",
+            "description": "<p>Una Corazza di Piastre copre la parte anteriore e posteriore. Viene fornita con un elmo e gambali (piastre per coprire la parte inferiore delle gambe). Un abito leggero o una gonna di pelle borchiata sotto il pettorale protegge gli arti senza limitare molto i movimenti.</p>"
         },
         {
             "id": "Buckler",
-            "name": "Buckler"
+            "name": "Buckler",
+            "description": "<p>Questo piccolo scudo di metallo viene indossato legato all'avambraccio. Si può usare un arco o una balestra senza penalità mentre lo si porta. Si può anche usare il braccio dello scudo per impugnare un'arma (sia che si stia usando un'arma nella mano secondaria o usando la propria mano secondaria per maneggiare un'arma a due mani), ma si subisce una penalità ai tiri per colpire mentre a causa del peso extra sul braccio. Questa penalità si cumula con quelle che possono essere applicate per combattere con la mano secondaria e per combattere con due armi. In ogni caso, se si usa un'arma nella mano secondaria, non si ottiene il bonus alla CA del Buckler per il resto del round.</p>"
         },
         {
             "id": "Chainmail",
-            "name": "Cotta di Maglia"
+            "name": "Cotta di Maglia",
+            "description": "<p>Questa armatura è composta da anelli di metallo intrecciati. Include uno strato di tessuto trapuntato indossato sotto per evitare sfregamenti e per attutire l'impatto dei colpi. Diversi strati di cotta di maglia sono appesi su aree vitali. La maggior parte del peso dell'armatura pende dalle spalle, rendendo scomoda la cotta di maglia da indossare per lunghi periodi di tempo. La tuta include guanti.</p>"
         },
         {
             "id": "Chain Shirt",
-            "name": "Giaco di Maglia"
+            "name": "Giaco di Maglia",
+            "description": "<p>Un giaco di maglia protegge il busto lasciando gli arti liberi e mobili. Include uno strato di tessuto trapuntato indossato sotto per evitare sfregamenti e per attutire l'impatto dei colpi. Ungiaco di maglia è dotato di un cappuccio in acciaio.</p >"
         },
         {
             "id": "Full Plate",
-            "name": "Armatura Completa"
+            "name": "Armatura Completa",
+            "description": "<p>Questa armatura è costituita da piastre di metallo sagomate e montate, rivettate e intrecciate per coprire l'intero corpo. La tuta include guanti, pesanti stivali di pelle, un elmo con visiera e uno spesso strato di imbottitura che viene indossato sotto l'armatura. Fibbie e cinghie distribuiscono il peso sul corpo, quindi l'armatura completa ostacola il movimento meno della corazza a strisce anche se questa è più leggera. Ogni armnatura completa deve essere adattata individualmente al suo proprietario da un maestro armaiolo, può essere lavorata per adattarsi a un nuovo proprietario al costo da 200 a 800 (2d4 x 100) pezzi d'oro. L'armatura completa è anche conosciuta come armatura da campo.</p>"
         },
         {
             "id": "Half-Plate",
-            "name": "Mezza Armatura"
+            "name": "Mezza Armatura",
+            "description": "<p>Questa armatura è una combinazione di cotta di maglia con piastre metalliche (pettorale, spalline, protezioni per i gomiti, guanti, nappe e schinieri) che coprono aree vitali. Fibbie e cinghie tengono insieme l'intera tuta e distribuiscono il peso, ma l'armatura rimane più aperta dell'armatura completa. La tuta include guanti.</p>"
         },
         {
             "id": "Heavy Steel Shield",
-            "name": "Scudo Pesante di Metallo"
+            "name": "Scudo Pesante di Metallo",
+            "description": "<p>Uno scudo pesante si aggancia all'avambraccio e lo si tiene con la mano. Uno scudo di questo tipo è troppo pesante per poter usare la mano dello scudo per qualcos'altro.</p><p><strong>Legno o Metallo:</strong> uno scudo pesante offre la stessa protezione base e benefici agli attacchi, anche se le due versioni rispondono in modo diverso ad alcuni incantesimi ed effetti (ad esempio piegare il legno e riscaldare il metallo).</p><p><strong>Attacchi con lo Scudo:</strong> è possibile colpire violentemente un avversario con uno scudo pesante, usandolo come arma secondaria. Usato in questo modo, uno scudo pesante è un'arma marziale contundente. Allo scopo delle penalità ai tiri per colpire, considera uno scudo pesante come un'arma a una mano. Se si usa lo scudo come arma, si perde il suo bonus CA fino alla prossima azione (di solito fino al round successivo). Un bonus di potenziamento su uno scudo non migliora l'efficacia di un colpo portato a segno con lo scudo, ma lo scudo può essere trasformato in un'arma magica a sé stante.</p>"
         },
         {
             "id": "Heavy Wooden Shield",
-            "name": "Scudo Pesante di Legno"
+            "name": "Scudo Pesante di Legno",
+            "description": "<p>Uno scudo pesante si aggancia all'avambraccio e lo si tiene con la mano. Uno scudo di questo tipo è troppo pesante per poter usare la mano dello scudo per qualcos'altro.</p><p><strong>Legno o Metallo:</strong> uno scudo pesante offre la stessa protezione base e benefici agli attacchi, anche se le due versioni rispondono in modo diverso ad alcuni incantesimi ed effetti (ad esempio piegare il legno e riscaldare il metallo).</p><p><strong>Attacchi con lo Scudo:</strong> è possibile colpire violentemente un avversario con uno scudo pesante, usandolo come arma secondaria. Usato in questo modo, uno scudo pesante è un'arma marziale contundente. Allo scopo delle penalità ai tiri per colpire, considera uno scudo pesante come un'arma a una mano. Se si usa lo scudo come arma, si perde il suo bonus CA fino alla prossima azione (di solito fino al round successivo). Un bonus di potenziamento su uno scudo non migliora l'efficacia di un colpo portato a segno con lo scudo, ma lo scudo può essere trasformato in un'arma magica a sé stante.</p>"
         },
         {
             "id": "Hide Armor",
-            "name": "Pelle"
+            "name": "Pelle",
+            "description": "<p>Questa armatura è composta da più strati di cuoio e pelli di animali. È rigida e difficile da indossare. I druidi, che indossano solo armature non metalliche, preferiscono l'armatura di pelle.</p>"
         },
         {
             "id": "Leather Armor",
-            "name": "Cuoio"
+            "name": "Cuoio",
+            "description": "<p>La corazza e le protezioni per le spalle di questa armatura sono realizzate in pelle che è stata irrigidita mediante bollitura nell'olio. Il resto dell'armatura è in pelle più morbida e flessibile.</p>"
         },
         {
             "id": "Light Steel Shield",
-            "name": "Scudo Leggero di Metallo"
+            "name": "Scudo Leggero di Metallo",
+            "description": "<p>Uno scudo leggero si lega all'avambraccio e si afferra con la mano. Il peso di uno scudo leggero consente di trasportare altri oggetti in quella mano, anche se non si possono usare armio.</p>\n<p> <strong>Legno o acciaio:</strong>Gli scudi in legno e acciaio offrono la stessa protezione di base, anche se rispondono in modo diverso agli attacchi speciali (come deformare il legno e riscaldare il metallo).</p>\n<p><strong>Attacchi con lo scudo:</strong> si può colpire un avversario con uno scudo leggero usandolo come arma secondaria. Usato in questo modo, uno scudo leggero è un'arma da combattimento contundente. Ai fini delle penalità ai tiri per colpire, si considera uno scudo leggero come un'arma leggera. Se si usa lo scudo come un'arma, si perde il suo bonus alla CA fino all'azione successiva (di solito fino al round successivo). Un bonus di potenziamento su uno scudo non migliora l'efficacia di un colpo effettuato con esso, ma lo scudo può essere trasformato in un'arma magica a sé stante.</p>"
         },
         {
             "id": "Light Wooden Shield",
-            "name": "Scudo Leggero di Legno"
+            "name": "Scudo Leggero di Legno",
+            "description": "<p>Uno scudo leggero si lega all'avambraccio e si afferra con la mano. Il peso di uno scudo leggero consente di trasportare altri oggetti in quella mano, anche se non si possono usare armio.</p>\n<p> <strong>Legno o acciaio:</strong>Gli scudi in legno e acciaio offrono la stessa protezione di base, anche se rispondono in modo diverso agli attacchi speciali (come deformare il legno e riscaldare il metallo).</p>\n<p><strong>Attacchi con lo scudo:</strong> si può colpire un avversario con uno scudo leggero usandolo come arma secondaria. Usato in questo modo, uno scudo leggero è un'arma da combattimento contundente. Ai fini delle penalità ai tiri per colpire, si considera uno scudo leggero come un'arma leggera. Se si usa lo scudo come un'arma, si perde il suo bonus alla CA fino all'azione successiva (di solito fino al round successivo). Un bonus di potenziamento su uno scudo non migliora l'efficacia di un colpo effettuato con esso, ma lo scudo può essere trasformato in un'arma magica a sé stante.</p>"
         },
         {
             "id": "Padded Armor",
-            "name": "Imbottita"
+            "name": "Imbottita",
+            "description": "<p>L'armatura imbottita presenta strati trapuntati di stoffa e imbottitura. Si surriscalda rapidamente e può sporcarsi con sudore, sporcizia, pidocchi e pulci.</p>"
         },
         {
             "id": "Scale Mail",
-            "name": "Corazza a Scaglie"
+            "name": "Corazza a Scaglie",
+            "description": "<p>Questa armatura consiste in una giacca e gambali (e forse una gonna separata) di pelle ricoperti da pezzi di metallo sovrapposti, proprio come le squame di un pesce. L'abito include guanti.</p>"
         },
         {
             "id": "Splint Mail",
-            "name": "Corazza a Strisce"
+            "name": "Corazza a Strisce",
+            "description": "<p>Questa armatura è composta da sottili strisce verticali di metallo rivettate su un supporto di pelle che viene indossato su un'imbottitura in tessuto. La cotta di maglia flessibile protegge le articolazioni. La tuta include guanti.</p>"
         },
         {
             "id": "Studded Leather Armor",
-            "name": "Cuoio Borchiato"
+            "name": "Cuoio Borchiato",
+            "description": "<p>Questa armatura è realizzata in cuoio resistente ma flessibile (non in cuoio indurito come le normali armature di cuoio) rinforzato con rivetti di metallo ravvicinati.</p>"
         },
         {
             "id": "Tower Shield",
-            "name": "Scudo Torre"
+            "name": "Scudo Torre",
+            "description": "<p>Questo enorme scudo di legno è alto quasi quanto chi lo utilizza. Nella maggior parte dei casi, fornisce il bonus di scudo indicato alla CA. Tuttavia, si può invece usare come copertura totale, anche se si deve rinunciare ai propri attacchi per farlo. Lo scudo, tuttavia, non fornisce copertura contro gli incantesimi mirati; un incantatore può lanciare un incantesimo su chi sta impugnando lo scudo prendendo di mira direttamente lo scudo. Non si può colpire con uno scudo torre, né si può usare la mano dello scudo per altro. Quando si usa uno scudo torre in combattimento, si subisce una penalità di -2 ai tiri per colpire a causa dell'ingombro dello scudo.</p>"
         }
     ]
 }
