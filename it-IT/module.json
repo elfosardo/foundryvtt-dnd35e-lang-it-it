@@ -1,16 +1,30 @@
 {
-    "name": "FoundryVTT-dnd35e-it",
+    "id": "FoundryVTT-dnd35e-it",
     "title": "DnD 3.5e Italian Translation",
     "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
     "version": "0.5.0",
-    "minimumCoreVersion" : "9",
-    "compatibleCoreVersion": "10",
-    "dependencies": [{
-      "name": "babele",
-      "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-      "version": "2.3.1"
+    "compatibility": {
+      "minimum": 9,
+      "verified": 10
+    },
+    "relationships": {
+      "requires": [{
+        "id": "babele",
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "version": "2.3.1"
+      }]
+    },
+    "authors": [{
+      "name": "elfosardo",
+      "email": "elfosardo@gmail.com",
+      "discord": "elfosardo#6845"
+    },
+    {
+      "name": "Sickus"
+    },
+    {
+      "name": "Slash"
     }],
-    "author": "elfosardo, Sickus, Slash",
     "esmodules": ["babele-register.js"],
     "scripts": [],
     "styles": ["./style.css"],
