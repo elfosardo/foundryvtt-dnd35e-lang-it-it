@@ -2,11 +2,11 @@
     "label": "Incantesimi",
     "mapping": {
         "class": {
-            "path": "data.learnedAt.class",
+            "path": "system.learnedAt.class",
             "converter": "classNamesArray"
         },
         "domain": {
-            "path": "data.learnedAt.domain",
+            "path": "system.learnedAt.domain",
             "converter": "domainNamesArray"
         }
     },

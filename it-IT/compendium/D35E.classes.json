@@ -1,7 +1,7 @@
 {
     "label": "Classi",
     "mapping": {
-        "nonActiveClassAbilities": "data.nonActiveClassAbilities",
+        "nonActiveClassAbilities": "system.nonActiveClassAbilities",
         "names": {
             "path": "name",
             "converter": "classNames"
