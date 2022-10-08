@@ -2,11 +2,11 @@
     "label": "Privilegi di Classe",
     "mapping": {
         "classes": {
-            "path": "data.associations.classes",
+            "path": "system.associations.classes",
             "converter": "classNamesArray"
         },
         "class": {
-            "path": "data.learnedAt.class",
+            "path": "system.learnedAt.class",
             "converter": "classNamesArray"
         }
     },
