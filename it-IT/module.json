@@ -1,20 +1,33 @@
 {
-    "id": "FoundryVTT-dnd35e-it",
-    "title": "DnD 3.5e Italian Translation",
-    "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
-    "version": "0.5.0",
-    "compatibility": {
-      "minimum": 10,
-      "verified": "10.287"
-    },
-    "relationships": {
-      "requires": [{
+  "id": "FoundryVTT-dnd35e-it",
+  "title": "DnD 3.5e Italian Translation",
+  "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
+  "version": "0.6.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": "10.287"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "foundryvtt-dnd35",
+        "manifest": "https://gitlab.com/dragonshorn/D35E/raw/master/system.json",
+        "compatibility": {
+          "minimum": "2.0.0",
+          "verified": "2.0.0"
+        }
+      }
+    ],
+    "requires": [
+      {
         "id": "babele",
         "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
         "version": "2.3.1"
-      }]
-    },
-    "authors": [{
+      }
+    ]
+  },
+  "authors": [
+    {
       "name": "elfosardo",
       "email": "elfosardo@gmail.com",
       "discord": "elfosardo#6845"
@@ -24,17 +37,24 @@
     },
     {
       "name": "Slash"
-    }],
-    "esmodules": ["babele-register.js"],
-    "scripts": [],
-    "styles": ["./style.css"],
-    "packs": [],
-    "languages": [{
+    }
+  ],
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "scripts": [],
+  "styles": [
+    "./style.css"
+  ],
+  "packs": [],
+  "languages": [
+    {
       "lang": "it",
       "name": "Italian",
       "path": "it.json"
-    }],
-    "url": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it",
-    "manifest": "https://raw.githubusercontent.com/elfosardo/foundryvtt-dnd35e-lang-it-it/main/it-IT/module.json",
-    "download": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it/releases/download/0.5.0/dnd35e-it-IT.zip"
+    }
+  ],
+  "url": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it",
+  "manifest": "https://raw.githubusercontent.com/elfosardo/foundryvtt-dnd35e-lang-it-it/main/it-IT/module.json",
+  "download": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it/releases/download/0.6.0/dnd35e-it-IT.zip"
 }
