@@ -2,10 +2,10 @@
   "id": "FoundryVTT-dnd35e-it",
   "title": "DnD 3.5e Italian Translation",
   "description": "Add Italian language to dnd3.5e Rughalt system for FoundryVTT.",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "compatibility": {
     "minimum": 10,
-    "verified": "10.287"
+    "verified": "10.288"
   },
   "relationships": {
     "requires": [
@@ -46,5 +46,5 @@
   ],
   "url": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it",
   "manifest": "https://raw.githubusercontent.com/elfosardo/foundryvtt-dnd35e-lang-it-it/main/it-IT/module.json",
-  "download": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it/releases/download/0.6.0/dnd35e-it-IT.zip"
+  "download": "https://github.com/elfosardo/foundryvtt-dnd35e-lang-it-it/releases/download/0.6.1/dnd35e-it-IT.zip"
 }
