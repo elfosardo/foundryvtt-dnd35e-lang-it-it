@@ -8,16 +8,6 @@
     "verified": "10.287"
   },
   "relationships": {
-    "systems": [
-      {
-        "id": "foundryvtt-dnd35",
-        "manifest": "https://gitlab.com/dragonshorn/D35E/raw/master/system.json",
-        "compatibility": {
-          "minimum": "2.0.0",
-          "verified": "2.0.0"
-        }
-      }
-    ],
     "requires": [
       {
         "id": "babele",
