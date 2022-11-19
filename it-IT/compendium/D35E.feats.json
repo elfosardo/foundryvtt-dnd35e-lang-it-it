@@ -11,7 +11,7 @@
         },
         {
             "id": "Additional Magic Item Space",
-            "name": "Spazio per Oggetti Magici Aggiuntivo"
+            "name": "Spazio per Oggetti Magici Aggiuntivo [Epico]"
         },
         {
             "id": "Agile",
@@ -39,7 +39,7 @@
         },
         {
             "id": "Armor Skin",
-            "name": "Armatura Naturale Migliorata"
+            "name": "Pelle Corazzata [Epico]"
         },
         {
             "id": "Athletic",
@@ -47,7 +47,7 @@
         },
         {
             "id": "Augmented Alchemy",
-            "name": "Alchimia Accresciuta"
+            "name": "Alchimia Accresciuta [Epico]"
         },
         {
             "id": "Augment Summoning",
@@ -55,15 +55,15 @@
         },
         {
             "id": "Automatic Quicken Spell",
-            "name": "Incantesimi Rapidi Automatici"
+            "name": "Incantesimi Rapidi Automatici [Epico]"
         },
         {
             "id": "Automatic Silent Spell",
-            "name": "Incantesimi Silenziosi Automatici"
+            "name": "Incantesimi Silenziosi Automatici [Epico]"
         },
         {
             "id": "Automatic Still Spell",
-            "name": "Incantesimi Immobili Automatici"
+            "name": "Incantesimi Immobili Automatici [Epico]"
         },
         {
             "id": "Awesome Blow",
@@ -71,7 +71,11 @@
         },
         {
             "id": "Bane of Enemies",
-            "name": "Anatema dei Nemici"
+            "name": "Anatema dei Nemici [Epico]"
+        },
+        {
+            "id": "Beast Wild Shape",
+            "name": "Forma Selvatica Bestiale [Selvatico][Epico]"
         },
         {
             "id": "Blind-Fight",
@@ -79,7 +83,7 @@
         },
         {
             "id": "Blinding Speed",
-            "name": "Velocità Accecante"
+            "name": "Velocità Accecante [Epico]"
         },
         {
             "id": "Blindsight, 5-ft. Radius",
@@ -87,7 +91,7 @@
         },
         {
             "id": "Bonus Domain",
-            "name": "Dominio Bonus"
+            "name": "Dominio Bonus [Epico]"
         },
         {
             "id": "Brew Potion",
@@ -95,11 +99,11 @@
         },
         {
             "id": "Bulwark of Defense",
-            "name": "Baluardo di Difesa"
+            "name": "Baluardo di Difesa [Epico]"
         },
         {
             "id": "Chaotic Rage",
-            "name": "Ira Caotica"
+            "name": "Ira Caotica [Epico]"
         },
         {
             "id": "Cleave",
@@ -107,11 +111,11 @@
         },
         {
             "id": "Colossal Wild Shape",
-            "name": "Forma Selvatica Colossale"
+            "name": "Forma Selvatica Colossale [Selvatico][Epico]"
         },
         {
             "id": "Combat Archery",
-            "name": "Arciere da Combattimento"
+            "name": "Arciere da Combattimento [Epico]"
         },
         {
             "id": "Combat Casting",
@@ -131,19 +135,19 @@
         },
         {
             "id": "Craft Epic Magic Arms and Armor",
-            "name": "Creare Armi e Armature Magiche Epiche"
+            "name": "Creare Armi e Armature Magiche Epiche [Creazione Oggetto][Epico]"
         },
         {
             "id": "Craft Epic Rod",
-            "name": "Creare Verghe Epiche"
+            "name": "Creare Verghe Epiche [Creazione Oggetto][Epico]"
         },
         {
             "id": "Craft Epic Staff",
-            "name": "Creare Bastoni Epici"
+            "name": "Creare Bastoni Epici [Creazione Oggetto][Epico]"
         },
         {
             "id": "Craft Epic Wondrous Item",
-            "name": "Creare Oggetti Meravigliosi Epici"
+            "name": "Creare Oggetti Meravigliosi Epici [Creazione Oggetto][Epico]"
         },
         {
             "id": "Craft Magic Arms and Armor",
@@ -167,7 +171,7 @@
         },
         {
             "id": "Damage Reduction",
-            "name": "Riduzione del Danno"
+            "name": "Riduzione del Danno [Epico]"
         },
         {
             "id": "Deadly Precision",
@@ -175,11 +179,11 @@
         },
         {
             "id": "Deafening Song",
-            "name": "Canto Assordante"
+            "name": "Canto Assordante [Epico]"
         },
         {
             "id": "Death of Enemies",
-            "name": "Morte dei Nemici"
+            "name": "Morte dei Nemici [Epico]"
         },
         {
             "id": "Deceitful",
@@ -195,15 +199,15 @@
         },
         {
             "id": "Devastating Critical",
-            "name": "Critico Devastante"
+            "name": "Critico Devastante [Epico]"
         },
         {
             "id": "Dexterous Fortitude",
-            "name": "Tempra Scattante"
+            "name": "Tempra Scattante [Epico]"
         },
         {
             "id": "Dexterous Will",
-            "name": "Volontà Scattante"
+            "name": "Volontà Scattante [Epico]"
         },
         {
             "id": "Diehard",
@@ -215,11 +219,11 @@
         },
         {
             "id": "Diminutive Wild Shape",
-            "name": "Forma Selvatica Minuta"
+            "name": "Forma Selvatica Minuta [Selvatico][Epico]"
         },
         {
             "id": "Dire Charge",
-            "name": "Carica Crudele"
+            "name": "Carica Crudele [Epico]"
         },
         {
             "id": "Disguise Spell",
@@ -227,7 +231,7 @@
         },
         {
             "id": "Distant Shot",
-            "name": "Tiro Distante"
+            "name": "Tiro Distante [Epico]"
         },
         {
             "id": "Divine Might",
@@ -243,11 +247,11 @@
         },
         {
             "id": "Dragon Wild Shape",
-            "name": "Forma Selvatica Draghesca"
+            "name": "Forma Selvatica Draghesca [Selvatico][Epico]"
         },
         {
             "id": "Efficient Item Creation",
-            "name": "Create Oggetto Efficiente"
+            "name": "Creazione Oggetto Efficiente [Epico]"
         },
         {
             "id": "Empower Spell",
@@ -263,7 +267,7 @@
         },
         {
             "id": "Energy Resistance",
-            "name": "Resistenza all'Energia"
+            "name": "Resistenza all'Energia [Epico]"
         },
         {
             "id": "Energy Substitution",
@@ -271,7 +275,7 @@
         },
         {
             "id": "Enhance Spell",
-            "name": "Incantesimi Aumentati"
+            "name": "Incantesimi Aumentati [Metamagia][Epico]"
         },
         {
             "id": "Enlarge Spell",
@@ -279,79 +283,79 @@
         },
         {
             "id": "Epic Dodge",
-            "name": "Schivare Epico"
+            "name": "Schivare Epico [Epico]"
         },
         {
             "id": "Epic Endurance",
-            "name": "Resistenza Fisica Epica"
+            "name": "Resistenza Fisica Epica [Epico]"
         },
         {
             "id": "Epic Fortitude",
-            "name": "Tempra Epica"
+            "name": "Tempra Epica [Epico]"
         },
         {
             "id": "Epic Inspiration",
-            "name": "Ispirazione Epica"
+            "name": "Ispirazione Epica [Epico]"
         },
         {
             "id": "Epic Leadership",
-            "name": "Autorità Epica"
+            "name": "Autorità Epica [Epico]"
         },
         {
             "id": "Epic Prowess",
-            "name": "Prodezza Epica"
+            "name": "Prodezza Epica [Epico]"
         },
         {
             "id": "Epic Reflexes",
-            "name": "Riflessi Epici"
+            "name": "Riflessi Epici [Epico]"
         },
         {
             "id": "Epic Reputation",
-            "name": "Reputazione Epica"
+            "name": "Reputazione Epica [Epico]"
         },
         {
-            "id": "Epic Skill Focus",
-            "name": "Abilità Focalizzata Epica"
+            "id": "Epic Skill Focus (Not Set)",
+            "name": "Abilità Focalizzata Epica [Epico]"
         },
         {
             "id": "Epic Speed",
-            "name": "Velocità Epica"
+            "name": "Velocità Epica [Epico]"
         },
         {
             "id": "Epic Spellcasting",
-            "name": "Incantatore Epico"
+            "name": "Incantatore Epico [Epico]"
         },
         {
-            "id": "Epic Spell Focus (No School Set)",
-            "name": "Incantesimi Focalizzati Epici"
+            "id": "Epic Spell Focus (No Spell School Selected)",
+            "name": "Incantesimi Focalizzati Epici [Epico]"
         },
         {
             "id": "Epic Spell Penetration",
-            "name": "Incantesimi Inarrestabili Epici"
+            "name": "Incantesimi Inarrestabili Epici [Epico]"
         },
         {
             "id": "Epic Toughness",
             "name": "Robustezza Epica"
         },
         {
-            "id": "Epic Weapon Focus (No Weapon Set)",
-            "name": "Arma Focalizzata Epica"
+            "id": "Epic Weapon Focus (No Weapon Selected)",
+            "name": "Arma Focalizzata Epica [Epico]"
         },
         {
             "id": "Epic Weapon Specialization",
-            "name": "Arma Specializzata Epica"
+            "name": "Arma Specializzata Epica [Epico]"
         },
         {
             "id": "Epic Will",
-            "name": "Volontà Epica"
+            "name": "Volontà Epica [Epico]"
         },
         {
             "id": "Eschew Materials",
-            "name": "Escludere Materiali"
+            "name": "Escludere Materiali [Metamagia]"
         },
         {
             "id": "Exceptional Deflection",
-            "name": "Deviare Straordinario"
+            "name": "Deviare Straordinario [Epico]"
         },
         {
             "id": "Exotic Weapon Proficiency",
@@ -359,7 +363,7 @@
         },
         {
             "id": "Extended Life Span",
-            "name": "Arco Vitale Prolungato"
+            "name": "Arco Vitale Prolungato [Epico]"
         },
         {
             "id": "Extend Spell",
@@ -379,7 +383,7 @@
         },
         {
             "id": "Familiar Spell",
-            "name": "Incantesimo del Famiglio"
+            "name": "Incantesimo del Famiglio [Epico]"
         },
         {
             "id": "Far Shot",
@@ -387,11 +391,11 @@
         },
         {
             "id": "Fast Healing",
-            "name": "Guarigione Rapida"
+            "name": "Guarigione Rapida [Epico]"
         },
         {
             "id": "Fine Wild Shape",
-            "name": "Forma Selvatica Piccolissima"
+            "name": "Forma Selvatica Piccolissima [Selvatico][Epico]"
         },
         {
             "id": "Fleet of Foot",
@@ -403,7 +407,7 @@
         },
         {
             "id": "Forge Epic Ring",
-            "name": "Forgiare Anelli Epici"
+            "name": "Forgiare Anelli Epici [Creazione Oggetto][Epico]"
         },
         {
             "id": "Forge Ring",
@@ -411,11 +415,11 @@
         },
         {
             "id": "Gargantuan Wild Shape",
-            "name": "Forma Selvatica Mastodontica"
+            "name": "Forma Selvatica Mastodontica [Selvatico][Epico]"
         },
         {
             "id": "Great Charisma",
-            "name": "Carisma Possente"
+            "name": "Carisma Possente [Epico]"
         },
         {
             "id": "Great Cleave",
@@ -423,11 +427,11 @@
         },
         {
             "id": "Great Constitution",
-            "name": "Costituzione Possente"
+            "name": "Costituzione Possente [Epico]"
         },
         {
             "id": "Great Dexterity",
-            "name": "Destrezza Possente"
+            "name": "Destrezza Possente [Epico]"
         },
         {
             "id": "Greater Manyshot",
@@ -435,26 +439,26 @@
         },
         {
             "id": "Greater Multiweapon Fighting",
-            "name": "Combattere con Più Armi Superiore"
+            "name": "Combattere con Più Armi Superiore [Generale]"
         },
         {
-            "id": "Greater Spell Focus (No School Set)",
-            "name": "Incantesimi Focalizzati Superiore"
+            "id": "Greater Spell Focus (No Spell School Selected)",
+            "name": "Incantesimi Focalizzati Superiore [Generale]"
         },
         {
             "id": "Greater Spell Penetration",
-            "name": "Incantesimi Inarrestabili Superiore"
+            "name": "Incantesimi Inarrestabili Superiore [Generale]"
         },
         {
             "id": "Greater Two-Weapon Fighting",
-            "name": "Combattere con Due Armi Superiore"
+            "name": "Combattere con Due Armi Superiore [Generale]"
         },
         {
-            "id": "Greater Weapon Focus (No Weapon Set)",
+            "id": "Greater Weapon Focus (No Weapon Selected)",
             "name": "Arma Focalizzata Superiore"
         },
         {
-            "id": "Greater Weapon Specialization (No Weapon Set)",
+            "id": "Greater Weapon Specialization (No Weapon Selected)",
             "name": "Arma Specializzata Superiore"
         },
         {
@@ -463,23 +467,23 @@
         },
         {
             "id": "Great Intelligence",
-            "name": "Intelligenza Possente"
+            "name": "Intelligenza Possente [Epico]"
         },
         {
             "id": "Great Smiting",
-            "name": "Punire Possente"
+            "name": "Punire Possente [Epico]"
         },
         {
             "id": "Great Strength",
-            "name": "Forza Possente"
+            "name": "Forza Possente [Epico]"
         },
         {
             "id": "Great Wisdom",
-            "name": "Saggezza Possente"
+            "name": "Saggezza Possente [Epico]"
         },
         {
             "id": "Group Inspiration",
-            "name": "Ispirazione di Gruppo"
+            "name": "Ispirazione di Gruppo [Epico]"
         },
         {
             "id": "Heighten Spell",
@@ -487,7 +491,7 @@
         },
         {
             "id": "Hindering Song",
-            "name": "Canto di Interferenza"
+            "name": "Canto di Interferenza [Epico]"
         },
         {
             "id": "Hold the Line",
@@ -495,7 +499,7 @@
         },
         {
             "id": "Holy Strike",
-            "name": "Colpo Sacro"
+            "name": "Colpo Sacro [Epico]"
         },
         {
             "id": "Hover",
@@ -503,23 +507,23 @@
         },
         {
             "id": "Ignore Material Components",
-            "name": "Ignorare Componenti Materiali"
+            "name": "Ignorare Componenti Materiali [Epico]"
         },
         {
             "id": "Improved Alignment-Based Casting",
-            "name": "Incantesimi Migliorati Basati sull'Allineamento"
+            "name": "Incantesimi Migliorati Basati sull'Allineamento [Epico]"
         },
         {
             "id": "Improved Arrow of Death",
-            "name": "Freccia della Morte Migliorata"
+            "name": "Freccia della Morte Migliorata [Epico]"
         },
         {
             "id": "Improved Aura of Courage",
-            "name": "Aura di Coraggio Migliorata"
+            "name": "Aura di Coraggio Migliorata [Epico]"
         },
         {
             "id": "Improved Aura of Despair",
-            "name": "Aura di Disperazione Migliorata"
+            "name": "Aura di Disperazione Migliorata [Epico]"
         },
         {
             "id": "Improved Bull Rush",
@@ -527,27 +531,27 @@
         },
         {
             "id": "Improved Combat Casting",
-            "name": "Incantesimi in Combattimento Migliorati"
+            "name": "Incantesimi in Combattimento Migliorati [Epico]"
         },
         {
             "id": "Improved Combat Reflexes",
-            "name": "Riflessi da Combattimento Migliorati"
+            "name": "Riflessi da Combattimento Migliorati [Epico]"
         },
         {
             "id": "Improved Counterspell",
-            "name": "Controincantesimo Migliorato"
+            "name": "Controincantesimo Migliorato [Generale]"
         },
         {
-            "id": "Improved Critical (No Weapon Set)",
+            "id": "Improved Critical (No Weapon Selected)",
             "name": "Critico Migliorato"
         },
         {
             "id": "Improved Darkvision",
-            "name": "Scurovisione Migliorata"
+            "name": "Scurovisione Migliorata [Epico]"
         },
         {
             "id": "Improved Death Attack",
-            "name": "Attacco Mortale Migliorato"
+            "name": "Attacco Mortale Migliorato [Epico]"
         },
         {
             "id": "Improved Disarm",
@@ -555,7 +559,7 @@
         },
         {
             "id": "Improved Elemental Wild Shape",
-            "name": "Forma Selvatica Elementale Migliorata"
+            "name": "Forma Selvatica Elementale Migliorata [Selvatico][Epico]"
         },
         {
             "id": "Improved Familiar",
@@ -563,7 +567,7 @@
         },
         {
             "id": "Improved Favored Enemy",
-            "name": "Nemico Prescelto Migliorato"
+            "name": "Nemico Prescelto Migliorato [Epico]"
         },
         {
             "id": "Improved Feint",
@@ -571,7 +575,7 @@
         },
         {
             "id": "Improved Flyby Attack",
-            "name": "Attacco in Volo Migliorato"
+            "name": "Attacco in Volo Migliorato [Generale]"
         },
         {
             "id": "Improved Grapple",
@@ -579,7 +583,7 @@
         },
         {
             "id": "Improved Heighten Spell",
-            "name": "Incantesimi Intensificati Migliorati"
+            "name": "Incantesimi Intensificati Migliorati [Metamagia][Epico]"
         },
         {
             "id": "Improved Initiative",
@@ -587,27 +591,27 @@
         },
         {
             "id": "Improved Ki Strike",
-            "name": "Colpo Ki Migliorato"
+            "name": "Colpo Ki Migliorato [Epico]"
         },
         {
             "id": "Improved Low-Light Vision",
-            "name": "Visione Crepuscolare Migliorata"
+            "name": "Visione Crepuscolare Migliorata [Epico]"
         },
         {
             "id": "Improved Manyshot",
-            "name": "Tiro Multiplo Migliorato"
+            "name": "Tiro Multiplo Migliorato [Epico]"
         },
         {
             "id": "Improved Metamagic",
-            "name": "Metamagia Migliorata"
+            "name": "Metamagia Migliorata [Epico]"
         },
         {
             "id": "Improved Multiattack",
-            "name": "Multiattacco Migliorato"
+            "name": "Multiattacco Migliorato [Generale]"
         },
         {
             "id": "Improved Multiweapon Fighting",
-            "name": "Combattere con Più Armi Migliorato"
+            "name": "Combattere con Più Armi Migliorato [Generale]"
         },
         {
             "id": "Improved Natural Armor",
@@ -631,19 +635,19 @@
         },
         {
             "id": "Improved Sneak Attack",
-            "name": "Attacco Furtivo Migliorato"
+            "name": "Attacco Furtivo Migliorato [Epico]"
         },
         {
             "id": "Improved Spell Capacity",
-            "name": "Capienza di Incantesimi Migliorata"
+            "name": "Capienza di Incantesimi Migliorata [Epico]"
         },
         {
             "id": "Improved Spell Resistance",
-            "name": "Resistenza agli Incantesimi Migliorata"
+            "name": "Resistenza agli Incantesimi Migliorata [Epico]"
         },
         {
             "id": "Improved Stunning Fist",
-            "name": "Pugno Stordente Migliorato"
+            "name": "Pugno Stordente Migliorato [Epico]"
         },
         {
             "id": "Improved Sunder",
@@ -667,31 +671,31 @@
         },
         {
             "id": "Improved Whirlwind Attack",
-            "name": "Attacco Turbinante Migliorato"
+            "name": "Attacco Turbinante Migliorato [Epico]"
         },
         {
             "id": "Incite Rage",
-            "name": "Incitare Ira"
+            "name": "Incitare Ira [Epico]"
         },
         {
             "id": "Infinite Deflection",
-            "name": "Deflettere Frecce"
+            "name": "Deviazione Infinita [Epico]"
         },
         {
             "id": "Inspire Excellence",
-            "name": "Ispirare Eccellenza"
+            "name": "Ispirare Eccellenza [Epico]"
         },
         {
             "id": "Instant Reload",
-            "name": "Ricarica Istantanea"
+            "name": "Ricarica Istantanea [Epico]"
         },
         {
             "id": "Intensify Spell",
-            "name": "Incantesimi Rinforzati"
+            "name": "Incantesimi Rinforzati [Metamagia][Epico]"
         },
         {
             "id": "Intuitive Trapfinding",
-            "name": "Percepire Trappole"
+            "name": "Percepire Trappole [Epico]"
         },
         {
             "id": "Investigator",
@@ -707,7 +711,7 @@
         },
         {
             "id": "Keen Strike",
-            "name": "Colpo Affilato"
+            "name": "Colpo Affilato [Epico]"
         },
         {
             "id": "Knock-Down",
@@ -715,7 +719,7 @@
         },
         {
             "id": "Lasting Inspiration",
-            "name": "Ispirazione Duratura"
+            "name": "Ispirazione Duratura [Epico]"
         },
         {
             "id": "Leadership",
@@ -723,27 +727,27 @@
         },
         {
             "id": "Legendary Climber",
-            "name": "Scalatore Leggendario"
+            "name": "Scalatore Leggendario [Epico]"
         },
         {
             "id": "Legendary Commander",
-            "name": "Comandante Leggendario"
+            "name": "Comandante Leggendario [Epico]"
         },
         {
             "id": "Legendary Leaper",
-            "name": "Saltatore Leggendario"
+            "name": "Saltatore Leggendario [Epico]"
         },
         {
             "id": "Legendary Rider",
-            "name": "Cavalcatore Leggendario"
+            "name": "Cavalcatore Leggendario [Epico]"
         },
         {
             "id": "Legendary Tracker",
-            "name": "Segugio Leggendario"
+            "name": "Segugio Leggendario [Epico]"
         },
         {
             "id": "Legendary Wrestler",
-            "name": "Lottatore Leggendario"
+            "name": "Lottatore Leggendario [Epico]"
         },
         {
             "id": "Lightning Reflexes",
@@ -751,19 +755,19 @@
         },
         {
             "id": "Magical Aptitude",
-            "name": "Danno Persistente"
+            "name": "Danno Persistente [Epico]"
         },
         {
             "id": "Magical Beast Companion",
-            "name": "Compagno Bestiale"
+            "name": "Compagno Bestiale [Selvatico][Epico]"
         },
         {
             "id": "Magical Beast Wild Shape",
-            "name": "Forma Selvatica Bestia Magica"
+            "name": "Forma Selvatica Bestia Magica [Selvatico][Epico]"
         },
         {
             "id": "Manyshot",
-            "name": "Tiro Multiplo"
+            "name": "Tiro Multiplo [Generale]"
         },
         {
             "id": "Martial Weapon Proficiency (All)",
@@ -771,11 +775,11 @@
         },
         {
             "id": "Master Staff",
-            "name": "Padronanza dei Bastoni"
+            "name": "Padronanza dei Bastoni [Epico]"
         },
         {
             "id": "Master Wand",
-            "name": "Padronanza delle Bacchette"
+            "name": "Padronanza delle Bacchette [Epico]"
         },
         {
             "id": "Maximize Spell",
@@ -783,7 +787,7 @@
         },
         {
             "id": "Mighty Rage",
-            "name": "Ira Possente"
+            "name": "Ira Possente [Epico]"
         },
         {
             "id": "Mind Over Body",
@@ -791,7 +795,7 @@
         },
         {
             "id": "Mobile Defense",
-            "name": "Difesa Mobile"
+            "name": "Difesa Mobile [Epico]"
         },
         {
             "id": "Mobility",
@@ -811,7 +815,7 @@
         },
         {
             "id": "Multispell",
-            "name": "Multincantesimo"
+            "name": "Multincantesimo [Epico]"
         },
         {
             "id": "Multiweapon Fighting",
@@ -819,11 +823,11 @@
         },
         {
             "id": "Multiweapon Rend",
-            "name": "Lacerare con Più Armi"
+            "name": "Lacerare con Più Armi [Epico]"
         },
         {
             "id": "Music of the Gods",
-            "name": "Musica degli Dei"
+            "name": "Musica degli Dei [Epico]"
         },
         {
             "id": "Natural Spell",
@@ -831,7 +835,7 @@
         },
         {
             "id": "Negative Energy Burst",
-            "name": "Esplosione di Energia Negativa"
+            "name": "Esplosione di Energia Negativa [Epico]"
         },
         {
             "id": "Negotiator",
@@ -847,27 +851,27 @@
         },
         {
             "id": "Overwhelming Critical",
-            "name": "Critico Soverchiante"
+            "name": "Critico Soverchiante [Epico]"
         },
         {
             "id": "Penetrate Damage Reduction",
-            "name": "Penetrare Riduzione del Danno"
+            "name": "Penetrare Riduzione del Danno [Epico]"
         },
         {
             "id": "Perfect Health",
-            "name": "Salute Perfetta"
+            "name": "Salute Perfetta [Epico]"
         },
         {
             "id": "Perfect Multiweapon Fighting",
-            "name": "Combattere con Più Armi Perfetto"
+            "name": "Combattere con Più Armi Perfetto [Epico]"
         },
         {
             "id": "Perfect Two-Weapon Fighting",
-            "name": "Combattere con Due Armi Perfetto"
+            "name": "Combattere con Due Armi Perfetto [Epico]"
         },
         {
             "id": "Permanent Emanation",
-            "name": "Emanazione Permanente"
+            "name": "Emanazione Permanente [Epico]"
         },
         {
             "id": "Persistent Spell",
@@ -879,7 +883,7 @@
         },
         {
             "id": "Planar Turning",
-            "name": "Scacciare Planare"
+            "name": "Scacciare Planare [Epico]"
         },
         {
             "id": "Plant Control",
@@ -891,15 +895,15 @@
         },
         {
             "id": "Plant Wild Shape",
-            "name": "Forma Selvatica Vegetale"
+            "name": "Forma Selvatica Vegetale [Selvatico][Epico]"
         },
         {
             "id": "Polyglot",
-            "name": "Poliglotta"
+            "name": "Poliglotta [Epico]"
         },
         {
             "id": "Positive Energy Aura",
-            "name": "Aura di Energia Positiva"
+            "name": "Aura di Energia Positiva [Epico]"
         },
         {
             "id": "Power Attack",
@@ -927,11 +931,11 @@
         },
         {
             "id": "Ranged Inspiration",
-            "name": "Ispirazione a Distanza"
+            "name": "Ispirazione a Distanza [Epico]"
         },
         {
             "id": "Rapid Inspiration",
-            "name": "Ispirazione Rapida"
+            "name": "Ispirazione Rapida [Epico]"
         },
         {
             "id": "Rapid Metabolism",
@@ -939,7 +943,7 @@
         },
         {
             "id": "Rapid Reload (None)",
-            "name": "Ricarica Rapida"
+            "name": "Ricarica Rapida [Generale]"
         },
         {
             "id": "Rapid Shot",
@@ -951,7 +955,7 @@
         },
         {
             "id": "Reactive Countersong",
-            "name": "Controcanto Reattivo"
+            "name": "Controcanto Reattivo [Epico]"
         },
         {
             "id": "Reckless Offense",
@@ -959,7 +963,7 @@
         },
         {
             "id": "Reflect Arrows",
-            "name": "Deflettere Frecce"
+            "name": "Deflettere Frecce [Epico]"
         },
         {
             "id": "Repeat Spell",
@@ -971,11 +975,11 @@
         },
         {
             "id": "Righteous Strike",
-            "name": "Giusto Colpo"
+            "name": "Giusto Colpo [Epico]"
         },
         {
             "id": "Ruinous Rage",
-            "name": "Ira Demolitrice"
+            "name": "Ira Demolitrice [Epico]"
         },
         {
             "id": "Run",
@@ -987,7 +991,7 @@
         },
         {
             "id": "Scribe Epic Scroll",
-            "name": "Scrivere Pergamene Epiche"
+            "name": "Scrivere Pergamene Epiche [Creazione Oggetto][Epico]"
         },
         {
             "id": "Scribe Scroll",
@@ -995,7 +999,7 @@
         },
         {
             "id": "Self-Concealment",
-            "name": "Auto-Occultamento"
+            "name": "Auto-Occultamento [Epico]"
         },
         {
             "id": "Self-Sufficient",
@@ -1007,7 +1011,7 @@
         },
         {
             "id": "Shattering Strike",
-            "name": "Colpo Frantumatore"
+            "name": "Colpo Frantumatore [Epico]"
         },
         {
             "id": "Shield Proficiency",
@@ -1030,7 +1034,7 @@
             "name": "Competenza nelle Armi Smplici"
         },
         {
-            "id": "Skill Focus",
+            "id": "Skill Focus (Not Set)",
             "name": "Abilità Focalizzata"
         },
         {
@@ -1043,23 +1047,23 @@
         },
         {
             "id": "Sneak Attack of Opportunity",
-            "name": "Attacco di Opportunità Furtivo"
+            "name": "Attacco di Opportunità Furtivo [Epico]"
         },
         {
             "id": "Spectral Strike",
-            "name": "Colpo Spettrale"
+            "name": "Colpo Spettrale [Epico]"
         },
         {
             "id": "Spellcasting Harrier",
-            "name": "Assaltatore di Incantatori"
+            "name": "Assaltatore di Incantatori [Epico]"
         },
         {
-            "id": "Spell Focus (No School Set)",
+            "id": "Spell Focus (No Spell School Selected)",
             "name": "Incantesimi Focalizzati"
         },
         {
             "id": "Spell Knowledge",
-            "name": "Conoscenza di Incantesimi"
+            "name": "Conoscenza di Incantesimi [Epico]"
         },
         {
             "id": "Spell Mastery",
@@ -1067,7 +1071,7 @@
         },
         {
             "id": "Spell Opportunity",
-            "name": "Incantesimo di Opportunità"
+            "name": "Incantesimo di Opportunità [Epico]"
         },
         {
             "id": "Spell Penetration",
@@ -1075,7 +1079,7 @@
         },
         {
             "id": "Spell Stowaway (No Spell Set)",
-            "name": "Incantesimo Clandestino"
+            "name": "Incantesimo Clandestino [Epico]"
         },
         {
             "id": "Spirited Charge",
@@ -1083,11 +1087,11 @@
         },
         {
             "id": "Spontaneous Domain Access",
-            "name": "Accesso Spontaneo al Dominio"
+            "name": "Accesso Spontaneo al Dominio [Epico]"
         },
         {
             "id": "Spontaneous Spell",
-            "name": "Incantesimi Spontanei"
+            "name": "Incantesimi Spontanei [Epico]"
         },
         {
             "id": "Spring Attack",
@@ -1107,7 +1111,7 @@
         },
         {
             "id": "Storm of Throws",
-            "name": "Tempesta di Lanci"
+            "name": "Tempesta di Lanci [Epico]"
         },
         {
             "id": "Stunning Fist",
@@ -1123,23 +1127,23 @@
         },
         {
             "id": "Superior Initiative",
-            "name": "Iniziativa Superiore"
+            "name": "Iniziativa Superiore [Epico]"
         },
         {
             "id": "Swarm of Arrows",
-            "name": "Sciame di Frecce"
+            "name": "Sciame di Frecce [Epico]"
         },
         {
             "id": "Tenacious Magic (No Spell Set)",
-            "name": "Magia Tenace"
+            "name": "Magia Tenace [Epico]"
         },
         {
             "id": "Terrifying Rage",
-            "name": "Ira Terrificante"
+            "name": "Ira Terrificante [Epico]"
         },
         {
             "id": "Thundering Rage",
-            "name": "Ira Tonante"
+            "name": "Ira Tonante [Epico]"
         },
         {
             "id": "Toughness",
@@ -1167,42 +1171,42 @@
         },
         {
             "id": "Two-Weapon Rend",
-            "name": "Lacerare con Due Armi"
+            "name": "Lacerare con Due Armi [Epico]"
         },
         {
             "id": "Uncanny Accuracy",
-            "name": "Accuratezza Prodigiosa"
+            "name": "Accuratezza Prodigiosa [Epico]"
         },
         {
             "id": "Undead Mastery",
-            "name": "Padronanza dei Non Morti"
+            "name": "Padronanza dei Non Morti [Divino][Epico]"
         },
         {
             "id": "Unholy Strike",
-            "name": "Colpo Sacrilego"
+            "name": "Colpo Sacrilego [Epico]"
         },
         {
             "id": "Vermin Wild Shape",
-            "name": "Forma Selvatica Parassita"
+            "name": "Forma Selvatica Parassita [Selvatico][Epico]"
         },
         {
             "id": "Vorpal Strike",
-            "name": "Colpo Vorpal"
+            "name": "Colpo Vorpal [Epico]"
         },
         {
             "id": "Weapon Finesse",
             "name": "Arma Accurata"
         },
         {
-            "id": "Weapon Focus (No Weapon Set)",
+            "id": "Weapon Focus (No Weapon Selected)",
             "name": "Arma Focalizzata"
         },
         {
-            "id": "Weapon Proficiency (No Weapon Set)",
+            "id": "Weapon Proficiency (No Weapon Selected)",
             "name": "Competenza con un'Arma"
         },
         {
-            "id": "Weapon Specialization (No Weapon Set)",
+            "id": "Weapon Specialization (No Weapon Selected)",
             "name": "Arma Specializzata"
         },
         {
@@ -1211,11 +1215,11 @@
         },
         {
             "id": "Widen Aura of Courage",
-            "name": "Aura di Coraggio Ampliata"
+            "name": "Aura di Coraggio Ampliata [Epico]"
         },
         {
             "id": "Widen Aura of Despair",
-            "name": "Aria di Disperazione Ampliata"
+            "name": "Aria di Disperazione Ampliata [Epico]"
         },
         {
             "id": "Widen Spell",
@@ -1227,7 +1231,7 @@
         },
         {
             "id": "Zone of Animation",
-            "name": "Zona di Animazione"
+            "name": "Zona di Animazione [Divino][Epico]"
         }
     ]
 }
