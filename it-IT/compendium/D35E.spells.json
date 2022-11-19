@@ -120,6 +120,10 @@
             "name": "Vista Arcana"
         },
         {
+            "id": "Arcane Sight, Greater",
+            "name": "Vista Arcana Superiore"
+        },
+        {
             "id": "Armor Of Darkness",
             "name": "Armor Of Darkness"
         },
@@ -164,6 +168,10 @@
             "name": "Resistenza dell'Orso"
         },
         {
+            "id": "Bear's Endurance, Mass",
+            "name": "Resistenza dell'Orso di Massa"
+        },
+        {
             "id": "Bestow Curse",
             "name": "Scagliare Maledizione"
         },
@@ -173,7 +181,7 @@
         },
         {
             "id": "Black Tentacles",
-            "name": "tentacoli Neri"
+            "name": "Tentacoli Neri"
         },
         {
             "id": "Blade Barrier",
@@ -213,7 +221,7 @@
         },
         {
             "id": "Bolt Of Glory",
-            "name": "Bolt Of Glory"
+            "name": "Fulmine di Gloria"
         },
         {
             "id": "Bolts of Bedevilment",
@@ -245,7 +253,7 @@
         },
         {
             "id": "Call Lightning Storm",
-            "name": "Invoare Tempesta di Fulmini"
+            "name": "Invocare Tempesta di Fulmini"
         },
         {
             "id": "Calm Animals",
@@ -258,6 +266,10 @@
         {
             "id": "Cat's Grace",
             "name": "Grazia del Gatto"
+        },
+        {
+            "id": "Cat's Grace, Mass",
+            "name": "Grazia del Gatto di Massa"
         },
         {
             "id": "Cause Fear",
@@ -282,6 +294,10 @@
         {
             "id": "Charm Monster",
             "name": "Charme sui Mostri"
+        },
+        {
+            "id": "Charm Monster, Mass",
+            "name": "Charme sui Mostri di Massa"
         },
         {
             "id": "Charm Person",
@@ -328,6 +344,10 @@
             "name": "Comando"
         },
         {
+            "id": "Command, Greater",
+            "name": "Comando Superiore"
+        },
+        {
             "id": "Command Plants",
             "name": "Comandare Vegetali"
         },
@@ -354,6 +374,10 @@
         {
             "id": "Confusion",
             "name": "Confusione"
+        },
+        {
+            "id": "Confusion, Lesser",
+            "name": "Confusione Inferiore"
         },
         {
             "id": "Consecrate",
@@ -429,7 +453,7 @@
         },
         {
             "id": "Crown Of Glory",
-            "name": "Crown Of Glory"
+            "name": "Corona di Gloria"
         },
         {
             "id": "Crown of Vermin",
@@ -477,7 +501,7 @@
         },
         {
             "id": "Cure Serious Wounds",
-            "name": "Cuira Ferite Gravi"
+            "name": "Cura Ferite Gravi"
         },
         {
             "id": "Curse Water",
@@ -666,6 +690,10 @@
         {
             "id": "Dispel Magic",
             "name": "Dissolvi Magie"
+        },
+        {
+            "id": "Dispel Magic, Greater",
+            "name": "Dissolvi Magie Superiore"
         },
         {
             "id": "Displacement",
@@ -980,6 +1008,10 @@
             "name": "Costrizione/Cerca"
         },
         {
+            "id": "Geas, Lesser",
+            "name": "Costrizione Inferiore"
+        },
+        {
             "id": "Genesis",
             "name": "Genesis"
         },
@@ -1012,12 +1044,20 @@
             "name": "Globo di Invulnerabilità"
         },
         {
+            "id": "Globe of Invulnerability, Lesser",
+            "name": "Globo di Invulnerabilità Inferiore"
+        },
+        {
             "id": "Glossolalia",
             "name": "Glossolalia"
         },
         {
             "id": "Glyph of Warding",
             "name": "Glifo di Interdizione"
+        },
+        {
+            "id": "Glyph of Warding, Greater",
+            "name": "Glifo di Interdizione Superiore"
         },
         {
             "id": "Goodberry",
@@ -1084,6 +1124,10 @@
             "name": "Guarigione"
         },
         {
+            "id": "Heal, Mass",
+            "name": "Guarigione di Massa"
+        },
+        {
             "id": "Heal Mount",
             "name": "Guarire Cavalcatura"
         },
@@ -1108,6 +1152,10 @@
             "name": "Eroismo"
         },
         {
+            "id": "Heroism, Greater",
+            "name": "Eroismo Superiore"
+        },
+        {
             "id": "Hide from Animals",
             "name": "Nascondersi agli Animali"
         },
@@ -1128,8 +1176,16 @@
             "name": "Blocca Mostri"
         },
         {
+            "id": "Hold Monster, Mass",
+            "name": "Blocca Mostri di Massa"
+        },
+        {
             "id": "Hold Person",
             "name": "Blocca Persone"
+        },
+        {
+            "id": "Hold Person, Mass",
+            "name": "Blocca Persone di Massa"
         },
         {
             "id": "Hold Portal",
@@ -1250,6 +1306,14 @@
         {
             "id": "Invisibility",
             "name": "Invisibilità"
+        },
+        {
+            "id": "Invisibility, Greater",
+            "name": "Invisibilità Superiore"
+        },
+        {
+            "id": "Invisibility, Mass",
+            "name": "Invisibilità di Massa"
         },
         {
             "id": "Invisibility Purge",
@@ -1408,6 +1472,10 @@
             "name": "Zanna Magica"
         },
         {
+            "id": "Magic Fang, Greater",
+            "name": "Zanna Magica Superiore"
+        },
+        {
             "id": "Magic Jar",
             "name": "Giara Magica"
         },
@@ -1430,6 +1498,10 @@
         {
             "id": "Magic Weapon",
             "name": "Arma Magica"
+        },
+        {
+            "id": "Magic Weapon, Greater",
+            "name": "Arma Magica Superiore"
         },
         {
             "id": "Major Creation",
@@ -1584,6 +1656,10 @@
             "name": "Saggezza del Gufo"
         },
         {
+            "id": "Owl's Wisdom, Mass",
+            "name": "Saggezza del Gufo di Massa"
+        },
+        {
             "id": "Passwall",
             "name": "Passapareti"
         },
@@ -1597,7 +1673,7 @@
         },
         {
             "id": "Permanency",
-            "name": ""
+            "name": "Permanenza"
         },
         {
             "id": "Permanent Image",
@@ -1629,11 +1705,27 @@
         },
         {
             "id": "Planar Ally",
-            "name": "Alleato PLanare"
+            "name": "Alleato Planare"
+        },
+        {
+            "id": "Planar Ally, Greater",
+            "name": "Alleato Planare Superiore"
+        },
+        {
+            "id": "Planar Ally, Lesser",
+            "name": "Alleato Planare Inferiore"
         },
         {
             "id": "Planar Binding",
             "name": "Legame Planare"
+        },
+        {
+            "id": "Planar Binding, Greater",
+            "name": "Legame Planare Superiore"
+        },
+        {
+            "id": "Planar Binding, Lesser",
+            "name": "Legame Planare Inferiore"
         },
         {
             "id": "Plane Shift",
@@ -1740,6 +1832,10 @@
             "name": "Occhi Indagatori"
         },
         {
+            "id": "Prying Eyes, Greater",
+            "name": "Occhi Indagatori Superiore"
+        },
+        {
             "id": "Psychic Turmoil",
             "name": "Tumulto Psichico"
         },
@@ -1798,6 +1894,10 @@
         {
             "id": "Reduce Person",
             "name": "Ridurre Persone"
+        },
+        {
+            "id": "Reduce Person, Mass",
+            "name": "Ridurre Persone di Massa"
         },
         {
             "id": "Refuge",
@@ -1864,6 +1964,14 @@
             "name": "Ristorare"
         },
         {
+            "id": "Restoration, Greater",
+            "name": "Ristorare Superiore"
+        },
+        {
+            "id": "Restoration, Lesser",
+            "name": "Ristorare Inferiore"
+        },
+        {
             "id": "Resurrection",
             "name": "Resurrezione"
         },
@@ -1916,6 +2024,10 @@
             "name": "Scrutare"
         },
         {
+            "id": "Scrying, Greater",
+            "name": "Scrutare Superiore"
+        },
+        {
             "id": "Sculpt Sound",
             "name": "Modellare Suono"
         },
@@ -1964,8 +2076,16 @@
             "name": "Ombra di una Evocazione"
         },
         {
+            "id": "Shadow Conjuration, Greater",
+            "name": "Ombra di una Evocazione Superiore"
+        },
+        {
             "id": "Shadow Evocation",
             "name": "Ombra di una Invocazione"
+        },
+        {
+            "id": "Shadow Evocation, Greater",
+            "name": "Ombra di una Invocazione Superiore"
         },
         {
             "id": "Shadow Walk",
@@ -2010,6 +2130,10 @@
         {
             "id": "Shout",
             "name": "Grido"
+        },
+        {
+            "id": "Shout, Greater",
+            "name": "Grido Superiore"
         },
         {
             "id": "Shrink Item",
@@ -2096,6 +2220,10 @@
             "name": "Immunità agli Incantesimi"
         },
         {
+            "id": "Spell Immunity, Greater",
+            "name": "Immunità agli Incantesimi Superiore"
+        },
+        {
             "id": "Spell Resistance",
             "name": "Resistenza agli Incantesimi"
         },
@@ -2136,6 +2264,10 @@
             "name": "Status"
         },
         {
+            "id": "Status, Greater",
+            "name": "Status Superiore"
+        },
+        {
             "id": "Stinking Cloud",
             "name": "Nube Maleodorante"
         },
@@ -2162,6 +2294,10 @@
         {
             "id": "Suggestion",
             "name": "Suggestione"
+        },
+        {
+            "id": "Suggestion, Mass",
+            "name": "Suggestione di Massa"
         },
         {
             "id": "Summon Behemoth",
@@ -2316,8 +2452,16 @@
             "name": "Legame Telepatico"
         },
         {
+            "id": "Telepathic Bond, Lesser",
+            "name": "Legame Telepatico Inferiore"
+        },
+        {
             "id": "Teleport",
             "name": "Teletrasporto"
+        },
+        {
+            "id": "Teleport, Greater",
+            "name": "Teletrasporto Superiore"
         },
         {
             "id": "Teleportation Circle",
@@ -2369,7 +2513,7 @@
         },
         {
             "id": "Transmute Mud to Rock",
-            "name": "trasmutare Fango in Roccia"
+            "name": "Trasmutare Fango in Roccia"
         },
         {
             "id": "Transmute Rock to Mud",
