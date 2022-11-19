@@ -38,12 +38,36 @@
             "name": "Randello"
         },
         {
-            "id": "Composite Longbow",
-            "name": "Arco Lungo Composito"
+            "id": "Composite Longbow (+1)",
+            "name": "Arco Lungo Composito (+1)"
         },
         {
-            "id": "Composite Shortbow",
-            "name": "Arco Corto Composito"
+            "id": "Composite Longbow (+2)",
+            "name": "Arco Lungo Composito (+2)"
+        },
+        {
+            "id": "Composite Longbow (+3)",
+            "name": "Arco Lungo Composito (+3)"
+        },
+        {
+            "id": "Composite Longbow (+4)",
+            "name": "Arco Lungo Composito (+4)"
+        },
+        {
+            "id": "Composite Shortbow (+1)",
+            "name": "Arco Corto Composito (+1)"
+        },
+        {
+            "id": "Composite Shortbow (+2)",
+            "name": "Arco Corto Composito (+2)"
+        },
+        {
+            "id": "Composite Shortbow (+3)",
+            "name": "Arco Corto Composito (+3)"
+        },
+        {
+            "id": "Composite Shortbow (+4)",
+            "name": "Arco Corto Composito (+4)"
         },
         {
             "id": "Crossbow Bolt",
